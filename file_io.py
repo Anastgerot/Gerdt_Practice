@@ -10,7 +10,7 @@ def read_file(file_path: str) -> str:
         raise FileNotFoundError(f"File {file_path} not found.")
     return path.read_text(encoding="utf-8")
 
-def write_paragraphs_by_lang(paragraphs: List[str], langs: List[str], output_dir: str, input_name: str) -> None:
+def write_paragraphs_by_lang(paragraphs: List[str], langs: List[str], output_dir: str, input_name: str):
     output_path = Path(output_dir)
     output_path.mkdir(parents=True, exist_ok=True)
 
