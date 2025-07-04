@@ -2,6 +2,9 @@ import re
 from typing import List, Tuple
 from lang_detect import classify_paragraph
 from lang_detect import UNKNOWN_LANG
+import logging
+
+logger = logging.getLogger(__name__)
 
 SHORT_PARAGRAPH_THRESHOLD = 30  # Максимальная длина, при которой абзац считается коротким
 REPEAT_EXTENSION_COUNT = 3      # Сколько раз повторять короткий текст для повышения уверенности
@@ -52,5 +55,5 @@ def merge_same_language_paragraphs(paragraphs: List[str], langs: List[str]) -> T
             merged_paragraphs.append(paragraphs[i])
             merged_langs.append(langs[i])
 
-    print(f"\nParagraphs before merging: {len(paragraphs)} → After: {len(merged_paragraphs)}")
+    logger.info(f"Paragraphs before merging: {len(paragraphs)} → After: {len(merged_paragraphs)}")
     return merged_paragraphs, merged_langs

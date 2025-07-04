@@ -4,6 +4,15 @@ from file_io import read_file, write_paragraphs_by_lang, write_if_single_languag
 from text_processing import split_paragraphs, refine_short_paragraphs
 from lang_detect import classify_paragraphs
 from text_processing import merge_same_language_paragraphs
+import yaml
+import logging.config
+
+with open("config.yml", "r", encoding="utf-8") as f:
+    config = yaml.safe_load(f)
+
+logging.config.dictConfig(config["Logging"])
+logger = logging.getLogger(__name__)
+
 
 def build_arg_parser() -> argparse.ArgumentParser:
     parser = argparse.ArgumentParser(
@@ -39,7 +48,7 @@ def main() -> None:
     text_files = list(input_dir.glob("*.txt"))
 
     if not text_files:
-        print(f"No .txt files found in directory: {input_dir}")
+        logger.warning(f"No .txt files found in directory: {input_dir}")
         return
     else:
         for file_path in text_files:

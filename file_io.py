@@ -1,6 +1,9 @@
 from pathlib import Path
 from typing import List
 from collections import Counter
+import logging
+
+logger = logging.getLogger(__name__)
 
 SEPARATOR = "\n\n"
 
@@ -38,6 +41,6 @@ def write_if_single_language_detected(paragraphs, langs, confidences, output_dir
             output_path = output_dir / f"{input_name}_{only_lang}.txt"
             output_path.parent.mkdir(parents=True, exist_ok=True)
             output_path.write_text("\n\n".join(paragraphs), encoding="utf-8")
-            print(f"Only one language detected: {only_lang}.")
+            logger.info(f"Only one language detected: {only_lang}.")
             return True
     return False

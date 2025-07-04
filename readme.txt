@@ -26,6 +26,8 @@ pip install lingua-lang
 pip install langid
 pip install numpy
 pip install pydantic
+pip install pyyaml 
+pip install unicorn
 
 Разместите входные текстовые файлы (.txt) в директории по умолчанию (Examples) или создайте другую.
 
