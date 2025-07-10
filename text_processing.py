@@ -1,59 +1,76 @@
 import re
+from nltk.tokenize import sent_tokenize
 from typing import List, Tuple
-from lang_detect import classify_paragraph
-from lang_detect import UNKNOWN_LANG
-import logging
+import unicodedata
 
-logger = logging.getLogger(__name__)
+SHORT_SENTENCE_THRESHOLD = 30  # Максимальная длина короткого предложения
+MIN_WORD_LENGTH = 4            # Слова короче игнорируются
 
-SHORT_PARAGRAPH_THRESHOLD = 30  # Максимальная длина, при которой абзац считается коротким
-REPEAT_EXTENSION_COUNT = 3      # Сколько раз повторять короткий текст для повышения уверенности
-MIN_WORD_LENGTH = 4  # Используются только слова длиной больше 3 символов
-
-def split_paragraphs(text: str) -> List[str]:
-    paragraphs = re.split(r'\n\s*\n+', text)
-    return [p.strip() for p in paragraphs if p.strip()]
+def split_into_sentences(text: str) -> List[str]:
+    return [sent.strip() for sent in sent_tokenize(text) if sent.strip()]
 
 
 def get_key_words(text: str) -> List[str]:
     return [w.lower() for w in re.findall(r'\w+', text) if len(w) >= MIN_WORD_LENGTH]
 
 
-def refine_short_paragraphs(paragraphs: List[str], langs: List[str], min_confidence: float):
-    for i, p in enumerate(paragraphs):
-        if len(p) >= SHORT_PARAGRAPH_THRESHOLD:
+def is_digit_dominant(text: str, threshold: float = 0.4) -> bool:
+    letters = sum(1 for c in text if unicodedata.category(c).startswith("L"))
+    total = sum(1 for c in text if not c.isspace())
+    if total == 0:
+        return False
+    return (letters / total) < (1 - threshold) 
+
+
+def attach_digit_dominant_sentences(sentences: List[str]) -> List[str]:
+    new_sentences = []
+    i = 0
+    while i < len(sentences):
+        if is_digit_dominant(sentences[i]):
+            if i + 1 < len(sentences):
+                sentences[i + 1] = sentences[i] + " " + sentences[i + 1]
+            elif new_sentences:
+                new_sentences[-1] += " " + sentences[i]
+        else:
+            new_sentences.append(sentences[i])
+        i += 1
+    return new_sentences
+
+
+def refine_short_sentences(sentences: List[str], langs: List[str]):
+
+    for i, sent in enumerate(sentences):
+        if len(sent) >= SHORT_SENTENCE_THRESHOLD:
             continue
 
-        key_words = get_key_words(p)
-        for j, big_p in enumerate(paragraphs):
-            if i == j or len(big_p) <= len(p):
+        key_words = get_key_words(sent)
+        if not key_words:
+            continue
+
+        for j, other in enumerate(sentences):
+            if i == j or len(other) <= len(sent):
                 continue
 
-            if p in big_p or any(
-                re.search(r'\b' + re.escape(kw) + r'\b', big_p, flags=re.IGNORECASE) 
+            if sent in other or any(
+                re.search(r'\b' + re.escape(kw) + r'\b', other, flags=re.IGNORECASE)
                 for kw in key_words
             ):
                 langs[i] = langs[j]
                 break
-        else:
-            extended_text = (p + " ") * REPEAT_EXTENSION_COUNT
-            result = classify_paragraph(extended_text.strip(), min_confidence)
-            if result.language != UNKNOWN_LANG:
-                langs[i] = result.language
 
 
-def merge_same_language_paragraphs(paragraphs: List[str], langs: List[str]) -> Tuple[List[str], List[str]]:
-    if not paragraphs:
+def merge_same_language_sentences(sentences: List[str], langs: List[str]) -> Tuple[List[str], List[str]]:
+    if not sentences:
         return [], []
-    merged_paragraphs = [paragraphs[0]]
+
+    merged_sentences = [sentences[0]]
     merged_langs = [langs[0]]
 
-    for i in range(1, len(paragraphs)):
+    for i in range(1, len(sentences)):
         if langs[i] == merged_langs[-1]:
-            merged_paragraphs[-1] += " " + paragraphs[i]
+            merged_sentences[-1] += " " + sentences[i]
         else:
-            merged_paragraphs.append(paragraphs[i])
+            merged_sentences.append(sentences[i])
             merged_langs.append(langs[i])
 
-    logger.info(f"Paragraphs before merging: {len(paragraphs)} → After: {len(merged_paragraphs)}")
-    return merged_paragraphs, merged_langs
+    return merged_sentences, merged_langs
