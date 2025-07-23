@@ -1,20 +1,15 @@
 import re
-from nltk.tokenize import sent_tokenize
-from typing import List, Tuple
+from typing import List, Tuple, Optional
 import unicodedata
 
 SHORT_SENTENCE_THRESHOLD = 30  # Максимальная длина короткого предложения
 MIN_WORD_LENGTH = 4            # Слова короче игнорируются
 
-def split_into_sentences(text: str) -> List[str]:
-    return [sent.strip() for sent in sent_tokenize(text) if sent.strip()]
-
-
 def get_key_words(text: str) -> List[str]:
     return [w.lower() for w in re.findall(r'\w+', text) if len(w) >= MIN_WORD_LENGTH]
 
 
-def is_digit_dominant(text: str, threshold: float = 0.4) -> bool:
+def is_digit_dominant(text: str, threshold: float = 0.3) -> bool:
     letters = sum(1 for c in text if unicodedata.category(c).startswith("L"))
     total = sum(1 for c in text if not c.isspace())
     if total == 0:
@@ -22,19 +17,31 @@ def is_digit_dominant(text: str, threshold: float = 0.4) -> bool:
     return (letters / total) < (1 - threshold) 
 
 
-def attach_digit_dominant_sentences(sentences: List[str]) -> List[str]:
+def attach_digit_dominant_sentences(
+    sentences: List[str],
+    labels: Optional[List[str]] = None
+) -> Tuple[List[str], Optional[List[str]]]:
     new_sentences = []
+    new_labels = [] if labels is not None else None
     i = 0
+
     while i < len(sentences):
         if is_digit_dominant(sentences[i]):
             if i + 1 < len(sentences):
                 sentences[i + 1] = sentences[i] + " " + sentences[i + 1]
+                if new_labels is not None:
+                    pass
             elif new_sentences:
                 new_sentences[-1] += " " + sentences[i]
+                if new_labels is not None:
+                    pass
         else:
             new_sentences.append(sentences[i])
+            if new_labels is not None:
+                new_labels.append(labels[i])
         i += 1
-    return new_sentences
+
+    return new_sentences, new_labels
 
 
 def refine_short_sentences(sentences: List[str], langs: List[str]):
@@ -58,19 +65,3 @@ def refine_short_sentences(sentences: List[str], langs: List[str]):
                 langs[i] = langs[j]
                 break
 
-
-def merge_same_language_sentences(sentences: List[str], langs: List[str]) -> Tuple[List[str], List[str]]:
-    if not sentences:
-        return [], []
-
-    merged_sentences = [sentences[0]]
-    merged_langs = [langs[0]]
-
-    for i in range(1, len(sentences)):
-        if langs[i] == merged_langs[-1]:
-            merged_sentences[-1] += " " + sentences[i]
-        else:
-            merged_sentences.append(sentences[i])
-            merged_langs.append(langs[i])
-
-    return merged_sentences, merged_langs

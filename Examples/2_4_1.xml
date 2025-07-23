@@ -1,0 +1,769 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The United Nations Parallel Corpus v1.0 - CRC/C/AGO/CO/2-4</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>United Nations DGACM</publisher>
+        <pubPlace>Geneva</pubPlace>
+        <date>20101019</date>
+        <idno type="symbol">CRC/C/AGO/CO/2-4</idno>
+        <idno type="jobno">G1045655</idno>
+        <availability>
+          <p>The following disclaimer, an integral part of the United Nations Parallel Corpus v1.0, 
+             shall be respected in regard to the Corpus v1.0 (no other restrictions apply):</p>
+
+          <p>The United Nations Parallel Corpus is made available without warranty of any kind, 
+             explicit or implied. The United Nations specifically makes no warranties or 
+             representations as to the accuracy or completeness of the information contained in 
+             the United Nations corpus.</p>
+
+          <p>Under no circumstances shall the United Nations be liable for any loss, liability,
+             injury or damage incurred or suffered that is claimed to have resulted from the use
+             of the United Nations Corpus. The use of the United Nations Corpus is at the user's 
+             sole risk. The user specifically acknowledges and agrees that the United Nations is 
+             not liable for the conduct of any user. If the user is dissatisfied with any of the 
+             material provided in the United Nations Corpus, the users's sole and exclusive remedy 
+             is to discontinue using the United Nations Corpus.</p>
+
+          <p>When using the United Nations Corpus, the user must acknowledge the United Nations as the
+             source of the information. For references, please use this reference:
+             Ziemski, M., Junczys-Dowmunt, M., and Pouliquen, B. (2016) The United Nations
+             Parallel Corpus, Language Resources and Evaluation (LREC’16), Portorož, Slovenia, 
+             May 2016.</p>
+
+          <p>Nothing herein shall constitute or be considered to be a limitation upon or waiver,
+             express or implied, of the privileges and immunities of the United Nations, which
+             are specifically reserved.</p>
+        </availability>
+        <distributor>http://conferences.unite.un.org/UNCorpus</distributor>
+      </publicationStmt>
+      <sourceDesc>
+        <p>http://www.un.org/en/official-documents-system-search/index.html</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords>
+          <term>RIGHTS OF THE CHILD</term>
+          <term>CHILD WELFARE</term>
+          <term>PERIODIC REPORTS</term>
+          <term>ANGOLA</term>
+        </keywords>
+      </textClass>
+      <langUsage>
+        <language ident="es">Spanish</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p id="1">
+        <s id="1:1" lang="es">Naciones Unidas</s>
+      </p>
+      <p id="2">
+        <s id="2:1" lang="es">CRC/C/AGO/CO/2-4</s>
+      </p>
+      <p id="3">
+        <s id="3:1" lang="es">Convención sobre los</s>
+      </p>
+      <p id="4">
+        <s id="4:1" lang="es">Derechos del Niño</s>
+      </p>
+      <p id="5">
+        <s id="5:1" lang="es">Distr. general</s>
+      </p>
+      <p id="6">
+        <s id="6:1" lang="es">19 de octubre de 2010</s>
+      </p>
+      <p id="7">
+        <s id="7:1" lang="es">Español</s>
+      </p>
+      <p id="8">
+        <s id="8:1" lang="es">Original: inglés</s>
+      </p>
+      <p id="9">
+        <s id="9:1" lang="es">Comité de los Derechos del Niño</s>
+      </p>
+      <p id="10">
+        <s id="10:1" lang="es">55º período de sesiones</s>
+      </p>
+      <p id="11">
+        <s id="11:1" lang="es">13 de septiembre a 1º de octubre de 2010</s>
+      </p>
+      <p id="12">
+        <s id="12:1" lang="es">Examen de los informes presentados por los Estados partes con arreglo al artículo 44 de la Convención</s>
+      </p>
+      <p id="13">
+        <s id="13:1" lang="es">Observaciones finales: Angola</s>
+      </p>
+      <p id="14">
+        <s id="14:1" lang="es">1. El Comité examinó los informes periódicos segundo a cuarto combinados de Angola (CRC/C/AGO/2-4) en sus sesiones 1545ª y 1547ª (CRC/C/SR.1545 y 1547), celebradas el 14 de septiembre de 2010, y en su 1583ª sesión, celebrada el 1º de octubre de 2010, adoptó las observaciones finales que figuran a continuación.</s>
+      </p>
+      <p id="15">
+        <s id="15:1" lang="es">A. Introducción</s>
+      </p>
+      <p id="16">
+        <s id="16:1" lang="es">2. El Comité celebra la presentación de los informes periódicos segundo a cuarto y de las respuestas detalladas por escrito a su lista de cuestiones (CRC/C/AGO/Q/2-4/Add.1) y elogia la franqueza y la autocrítica que inspiran el informe, que facilitan una mejor comprensión de la situación de la infancia en el Estado parte.</s>
+        <s id="16:2" lang="es">El Comité celebra también el diálogo constructivo con una delegación multisectorial de alto nivel que facilitó una mejor comprensión de la situación de los niños en el Estado parte.</s>
+      </p>
+      <p id="17">
+        <s id="17:1" lang="es">B. Medidas de seguimiento adoptadas y progresos realizados</s>
+      </p>
+      <p id="18">
+        <s id="18:1" lang="es">por el Estado parte</s>
+      </p>
+      <p id="19">
+        <s id="19:1" lang="es">3. El Comité observa con reconocimiento:</s>
+      </p>
+      <p id="20">
+        <s id="20:1" lang="es">a) La entrada en vigor de la nueva Constitución (2003), con la que se crea un marco jurídico para los derechos del niño;</s>
+      </p>
+      <p id="21">
+        <s id="21:1" lang="es">b) La creación del Consejo Nacional de la Infancia (CNAC) (2007);</s>
+      </p>
+      <p id="22">
+        <s id="22:1" lang="es">c) La aprobación del Decreto Nº 31/07, por el que se establece la gratuidad de la inscripción en el registro de nacimientos y defunciones de los niños menores de 5 años y la expedición gratuita de tarjetas de identificación para los niños menores de 11 años (2007).</s>
+      </p>
+      <p id="23">
+        <s id="23:1" lang="es">4. El Comité acoge con beneplácito la ratificación por el Estado parte del Protocolo facultativo de la Convención relativo a la participación de niños en los conflictos armados (octubre de 2007); el Protocolo facultativo de la Convención relativo a la venta de niños, la prostitución infantil y la utilización de niños en la pornografía (marzo de 2005), y el Protocolo facultativo de la Convención sobre la eliminación de todas las formas de discriminación contra la mujer (noviembre de 2007).</s>
+      </p>
+      <p id="24">
+        <s id="24:1" lang="es">5. El Comité también observa con interés la ratificación del Protocolo de 2003 de la Carta Africana de Derechos Humanos y de los Pueblos relativo a los Derechos de la Mujer en África (agosto de 2007).</s>
+      </p>
+      <p id="25">
+        <s id="25:1" lang="es">C. Principales motivos de preocupación y recomendaciones</s>
+      </p>
+      <p id="26">
+        <s id="26:1" lang="es">1. Medidas generales de aplicación (artículos 4, 42 y 44 (párrafo 6) de la Convención)</s>
+      </p>
+      <p id="27">
+        <s id="27:1" lang="es">Recomendaciones anteriores del Comité</s>
+      </p>
+      <p id="28">
+        <s id="28:1" lang="es">6. El Comité acoge con agrado los esfuerzos del Estado parte por aplicar las observaciones finales del Comité acerca de su informe inicial (CRC/C/3/Add.66), que han dado resultados positivos.</s>
+        <s id="28:2" lang="es">No obstante, el Comité observa con pesar que muchas de esas observaciones finales no se han abordado de una forma sustantiva.</s>
+      </p>
+      <p id="29">
+        <s id="29:1" lang="es">7. El Comité insta al Estado parte a que adopte todas las medidas necesarias para abordar las recomendaciones incluidas en las observaciones finales sobre el informe inicial que aún no se hayan aplicado o no se hayan aplicado en grado suficiente, especialmente las relativas a la armonización de las leyes, la distribución apropiada del presupuesto y el seguimiento transparente de su ejecución, la discriminación contra las niñas, el registro de los nacimientos y la violencia y el maltrato, y que haga un seguimiento adecuado de las recomendaciones contenidas en las presentes observaciones finales.</s>
+      </p>
+      <p id="30">
+        <s id="30:1" lang="es">Legislación</s>
+      </p>
+      <p id="31">
+        <s id="31:1" lang="es">8. El Comité observa con interés la entrada en vigor en febrero de 2010 de la nueva Constitución en la que, entre otras cosas, se hace referencia expresa a los derechos del niño, en particular el principio del interés superior del niño.</s>
+        <s id="31:2" lang="es">No obstante, el Comité lamenta que no se hayan armonizado los diferentes instrumentos legislativos en que se abordan cuestiones relacionadas con la infancia.</s>
+        <s id="31:3" lang="es">El Comité lamenta también que la aplicación de la legislación siga viéndose dificultada por la escasez de recursos y capacidad y que se haya acumulado un número importante de instrumentos legislativos que esperan la aprobación del Parlamento.</s>
+      </p>
+      <p id="32">
+        <s id="32:1" lang="es">9. El Comité insta al Estado parte a que procure armonizar toda la legislación relativa a la infancia y dé plena vigencia a la nueva constitución mediante la promulgación de leyes y la creación de mecanismos encaminados a facilitar su aplicación.</s>
+        <s id="32:2" lang="es">Lo insta también a que adopte medidas para acelerar la tramitación de las leyes que esperan su aprobación por el Parlamento.</s>
+        <s id="32:3" lang="es">El Comité alienta al Estado parte a que se asegure de que se asignen recursos humanos y financieros suficientes para la aplicación de esas leyes.</s>
+      </p>
+      <p id="33">
+        <s id="33:1" lang="es">Coordinación</s>
+      </p>
+      <p id="34">
+        <s id="34:1" lang="es">10. El Comité acoge con agrado la creación en 2007 del CNAC, que tiene el mandato de coordinar las políticas, estrategias y planes de acción de todos los ministerios y demás instituciones gubernamentales que se ocupan de cuestiones relacionadas con la infancia en todos los niveles de la administración.</s>
+        <s id="34:2" lang="es">El Comité también observa con interés que en todas las provincias existen consejos de la infancia y que en muchas de ellas hay también consejos municipales de la infancia.</s>
+        <s id="34:3" lang="es">No obstante, lamenta que no se hayan establecido consejos municipales de la infancia en todas las provincias y le preocupa la falta de recursos humanos y financieros suficientes para el funcionamiento de los consejos establecidos en los diferentes niveles.</s>
+        <s id="34:4" lang="es">Al Comité le preocupa también que, a pesar de que 18 de los miembros del CNAC proceden de la sociedad civil, el proceso de selección para la participación de la sociedad civil es poco transparente y el nivel de rendición de cuentas a las organizaciones no gubernamentales (ONG) que no son miembros es pequeño.</s>
+      </p>
+      <p id="35">
+        <s id="35:1" lang="es">11. El Comité recomienda al Estado parte que acelere sus esfuerzos por establecer consejos de la infancia en todos los ayuntamientos y que garantice que esos consejos gocen de recursos humanos y financieros suficientes en todos los niveles, nacional, provincial y municipal.</s>
+        <s id="35:2" lang="es">El Comité alienta también al Estado parte a que trabaje en colaboración con la sociedad civil para recabar su participación decidida en el CNAC y en los consejos de la infancia de nivel provincial y municipal.</s>
+      </p>
+      <p id="36">
+        <s id="36:1" lang="es">Plan de acción nacional</s>
+      </p>
+      <p id="37">
+        <s id="37:1" lang="es">12. El Comité acoge con agrado que se finalizara en 2009 el Plan de acción bianual para la infancia que, no obstante, todavía no ha sido aprobado por el Parlamento.</s>
+        <s id="37:2" lang="es">El Comité toma nota también de:</s>
+      </p>
+      <p id="38">
+        <s id="38:1" lang="es">a) La aprobación por el CNAC de las &quot;Directrices para la aplicación de los 11 compromisos en favor de la infancia en los niveles provincial y municipal&quot;;</s>
+      </p>
+      <p id="39">
+        <s id="39:1" lang="es">b) La Estrategia nacional para prevenir y combatir la violencia contra los niños de 2009 y el Plan de desarrollo de mediano plazo de 2009, basado en la estrategia de lucha contra la pobreza;</s>
+      </p>
+      <p id="40">
+        <s id="40:1" lang="es">c) El establecimiento y la expansión de redes para la promoción y protección de los derechos del niño a nivel provincial y local, que servirán también para velar por el respeto de los derechos del niño.</s>
+      </p>
+      <p id="41">
+        <s id="41:1" lang="es">Todos esos planes y actividades están encaminados a alcanzar objetivos generales de interés para los niños y a que puedan disfrutar de sus derechos.</s>
+        <s id="41:2" lang="es">No obstante, al Comité le preocupa el hecho de que será difícil gestionar la operacionalización y supervisión de todas esas actividades, teniendo en cuenta la limitada capacidad profesional disponible para llevarlas a cabo.</s>
+      </p>
+      <p id="42">
+        <s id="42:1" lang="es">13. El Comité alienta al Estado parte a que adopte el Plan de acción bianual para la infancia y se asegure de que se contemplen adecuadamente en el todos los derechos del niño que se consagran en la Convención y se tenga en cuenta el documento final titulado &quot;Un mundo apropiado para los niños&quot; aprobado por la Asamblea General de las Naciones Unidas en su período extraordinario de sesiones sobre la infancia, celebrado en mayo de 2002, y su examen de mitad de período de 2007, así como el &quot;Llamamiento a la acción urgente para la aplicación del plan de acción de la iniciativa África para los niños 2008-2012&quot; aprobado en El Cairo el 2 de noviembre de 2007 por la Unión Africana.</s>
+        <s id="42:2" lang="es">El Comité insta también al Estado parte a que desembolse completamente la consignación presupuestaria anunciada y establezca mecanismos adecuados de evaluación y supervisión para valorar periódicamente los progresos conseguidos y detectar posibles deficiencias.</s>
+        <s id="42:3" lang="es">El Comité recomienda también al Estado parte que vele por que las actividades del Plan de acción bianual para la infancia y demás planes y estrategias nacionales estén bien coordinados y supervisados.</s>
+      </p>
+      <p id="43">
+        <s id="43:1" lang="es">Vigilancia independiente</s>
+      </p>
+      <p id="44">
+        <s id="44:1" lang="es">14. El Comité observa que la Oficina del Ombudsman (Provedor de Justiça) tiene el mandato de vigilar la aplicación de la Convención y actuar como defensor de los niños.</s>
+        <s id="44:2" lang="es">Al Comité le preocupa, sin embargo, que la oficina del Ombudsman no tenga un mandato claro relativo a la protección de los niños, que no se haya establecido en plena consonancia con los Principios de París y que no tenga presencia fuera de la capital.</s>
+      </p>
+      <p id="45">
+        <s id="45:1" lang="es">15. El Comité recomienda al Estado parte que se asegure de que su Oficina del Ombudsman se establezca de acuerdo con los Principios de París y la Observación general Nº 2 (2002) del Comité sobre el papel de las instituciones nacionales independientes de derechos humanos en la promoción y protección de los derechos del niño.</s>
+        <s id="45:2" lang="es">Ese órgano debe tener un mandato claro que le permita recibir e investigar denuncias presentadas por los niños, o en su nombre, relativas a la violación de sus derechos, contar con un presupuesto independiente y tener presencia efectiva en todas las provincias.</s>
+        <s id="45:3" lang="es">El Comité recomienda al Estado parte que solicite asistencia técnica del Fondo de las Naciones Unidas para la Infancia (UNICEF) y del Alto Comisionado de las Naciones Unidas para los Derechos Humanos (ACNUDH), entre otros.</s>
+      </p>
+      <p id="46">
+        <s id="46:1" lang="es">Asignación de recursos</s>
+      </p>
+      <p id="47">
+        <s id="47:1" lang="es">16. Aunque observa que en los últimos años han aumentado las consignaciones presupuestarias destinadas a la salud, la educación y la protección de la infancia, al Comité le sigue preocupando que esas consignaciones sean todavía escasas y no quede claro en qué medida se gastan en los niños.</s>
+        <s id="47:2" lang="es">Aunque acoge con agrado el hecho de que el presupuesto, incluido un informe sobre su ejecución, sea público, el Comité observa con pesar que no se mantiene una contabilidad específica de las consignaciones presupuestarias destinadas a la infancia.</s>
+        <s id="47:3" lang="es">Al Comité le preocupan también las indicaciones de que en el Estado parte existe un alto nivel de corrupción que impide que los recursos asignados a diversos sectores lleguen a su destino.</s>
+      </p>
+      <p id="48">
+        <s id="48:1" lang="es">17. El Comité insta al Estado parte a que incremente las consignaciones presupuestarias destinadas al gasto social y, especialmente, que dé prioridad a las consignaciones presupuestarias destinadas a la infancia y las incremente.</s>
+        <s id="48:2" lang="es">El Comité recomienda también al Estado parte que ponga en marcha un sistema de seguimiento desde una perspectiva de los derechos del niño con miras a supervisar las consignaciones presupuestarias destinadas a la infancia y que, para ello, solicite asistencia técnica del UNICEF, entre otros, y tenga en cuenta las recomendaciones formuladas por el Comité a raíz del día de debate general que celebró en 2007 sobre el tema &quot;Recursos para los derechos del niño - Responsabilidad de los Estados&quot;.</s>
+        <s id="48:3" lang="es">El Comité insta también al Estado parte a que, de conformidad con lo dispuesto en la Convención de las Naciones Unidas contra la Corrupción, en la que también es parte, adopte medidas para impedir la corrupción, por ejemplo fortaleciendo los controles sobre el gasto público.</s>
+      </p>
+      <p id="49">
+        <s id="49:1" lang="es">Reunión de datos</s>
+      </p>
+      <p id="50">
+        <s id="50:1" lang="es">18. El Comité toma nota con reconocimiento de los esfuerzos realizados por el Estado parte por mejorar la capacidad para la recogida y el análisis de datos, incluida la puesta en marcha en 2008 del Sistema nacional de indicadores para los niños de Angola, encargado de establecer indicadores clave para cada uno de los 11 compromisos con los niños angoleños.</s>
+        <s id="50:2" lang="es">El Comité observa, sin embargo, que la escasez de recursos humanos y materiales dificulta el desarrollo de un sistema centralizado de recogida de datos exhaustivos en el Estado parte.</s>
+        <s id="50:3" lang="es">Del diálogo mantenido, el Comité deduce que los análisis preliminares de la recientemente realizada encuesta sobre el bienestar IBEP 2008-2009 (Inquérito sobre o Bem-Estar da População), de la que puede obtenerse información desglosada sobre los hogares, incluidos los ingresos, y los servicios, demuestran claramente que la base del desarrollo es muy pequeña en todo el territorio y para todos los grupos de ingresos en relación con cuestiones importantes, como el registro de los nacimientos y las tasas de mortalidad de menores de 5 años, y pone de relieve problemas de igualdad de trato en las esferas de la salud, la educación, el acceso al agua y el saneamiento y la infraestructura en función del grupo de ingreso al que pertenezcan las personas, que residan en zonas urbanas o rurales, el sexo y la edad.</s>
+      </p>
+      <p id="51">
+        <s id="51:1" lang="es">19. El Comité alienta al Estado parte a que siga fortaleciendo el sistema estadístico, garantizando la recogida apropiada de datos en todas las regiones geográficas y en todos los sectores sociales del país y facilitando un análisis sistemático de los datos cualitativos y cuantitativos obtenidos en todos los niveles desglosados según todas las categorías de niños que necesitan atención específica.</s>
+        <s id="51:2" lang="es">El Estado parte debería asegurarse de que entre los datos recogidos figuren todas las esferas que se contemplan en la Convención.</s>
+        <s id="51:3" lang="es">El Comité recomienda también al Estado parte que siga recabando la cooperación técnica del UNICEF en esa esfera.</s>
+      </p>
+      <p id="52">
+        <s id="52:1" lang="es">Capacitación</s>
+      </p>
+      <p id="53">
+        <s id="53:1" lang="es">20. El Comité observa con interés que se están impartiendo cursos de capacitación para muchos grupos de profesionales y empleados que trabajan con los niños en las escuelas, los centros de salud, los servicios de inmigración y del ejército, la justicia juvenil y otros servicios y también cursos periódicos para periodistas centrados en la protección del derecho de los niños a la intimidad y a la protección frente a la violencia y la explotación comercial en la publicidad.</s>
+        <s id="53:2" lang="es">No obstante, al Comité le preocupa que el nivel de comprensión de la Convención y sus disposiciones sea todavía bajo.</s>
+      </p>
+      <p id="54">
+        <s id="54:1" lang="es">21. El Comité recomienda al Estado parte que mantenga e intensifique la organización de cursos apropiados y sistemáticos de capacitación para todos los grupos ocupacionales que trabajan por y para los niños, incluidos los miembros de las fuerzas del orden, maestros, jueces y abogados, personal sanitario, trabajadores sociales y personal de las instituciones encargadas del cuidado de los niños.</s>
+      </p>
+      <p id="55">
+        <s id="55:1" lang="es">Cooperación con la sociedad civil</s>
+      </p>
+      <p id="56">
+        <s id="56:1" lang="es">22. El Comité toma nota de que las ONG cuentan con una representación importante en el Consejo Nacional de la Infancia y participaron en la redacción del informe del Estado parte y acoge con beneplácito la indicación de este último de que coopera estrechamente con la sociedad civil para hacer realidad los derechos del niño en el país a todos los niveles.</s>
+      </p>
+      <p id="57">
+        <s id="57:1" lang="es">23. El Comité recomienda al Estado parte que mantenga y fortalezca su estrecha cooperación con la sociedad civil dentro y fuera del marco de los consejos de ámbito nacional, provincial y municipal.</s>
+      </p>
+      <p id="58">
+        <s id="58:1" lang="es">Derechos del niño y sector empresarial</s>
+      </p>
+      <p id="59">
+        <s id="59:1" lang="es">24. Aunque acoge con agrado el hecho de que el incremento de los ingresos del país que se ha producido recientemente, debido especialmente a las industrias del petróleo y los diamantes, haya permitido al Estado parte incrementar considerablemente el presupuesto nacional y aumentar en cierta medida los gastos en los sectores sociales, al Comité le preocupa que las actividades del sector empresarial puedan tener efectos negativos en las condiciones de vida de los niños, especialmente en lo que se refiere a la degradación del medio ambiente y los riesgos para la salud.</s>
+      </p>
+      <p id="60">
+        <s id="60:1" lang="es">25. El Comité recomienda firmemente al Estado parte que elabore políticas y normas apropiadas en relación con las actividades del sector empresarial (tanto privado como estatal), especialmente las industrias del petróleo y los diamantes, en las que se contemplen el respeto y la protección de los derechos del niño y la necesidad de desarrollar su actividad de una forma responsable desde los puntos de vista social y ambiental.</s>
+        <s id="60:2" lang="es">A ese respecto, el Comité insta al Estado parte a que faculte al CNAC a que impulse a las dependencias oficiales que cooperan con la industria y el comercio a que elaboren directrices para garantizar que las empresas respeten y protejan los derechos del niño.</s>
+        <s id="60:3" lang="es">Además, el Comité insta al Estado parte a que incluya cláusulas sobre los derechos en los acuerdos comerciales, tratados de inversión y demás acuerdos relacionados con la inversión extranjera que concierte con empresas multinacionales y gobiernos extranjeros.</s>
+      </p>
+      <p id="61">
+        <s id="61:1" lang="es">2. Definición de niño (artículo 1 de la Convención)</s>
+      </p>
+      <p id="62">
+        <s id="62:1" lang="es">26. El Comité observa que la mayoría de edad se ha establecido en 18 años.</s>
+        <s id="62:2" lang="es">Le preocupa, sin embargo, que la edad mínima para contraer matrimonio, acto que permite alcanzar antes la mayoría a una edad, se haya fijado en 16 años para los niños y 15 años para las niñas, y que aún puedan hacerse excepciones para contraer matrimonio a una edad incluso más temprana.</s>
+      </p>
+      <p id="63">
+        <s id="63:1" lang="es">27. El Comité insta al Estado parte a que revise su legislación a fin de establecer la edad mínima para contraer matrimonio en 18 años tanto para los niños como para las niñas y que para que se conceda una exención de la norma sea necesaria la intervención de un tribunal competente.</s>
+      </p>
+      <p id="64">
+        <s id="64:1" lang="es">3. Principios generales (artículos 2, 3, 6 y 12 de la Convención)</s>
+      </p>
+      <p id="65">
+        <s id="65:1" lang="es">No discriminación</s>
+      </p>
+      <p id="66">
+        <s id="66:1" lang="es">28. El Comité acoge con beneplácito el hecho de que la nueva Constitución contenga un artículo dedicado a la no discriminación, en el que se menciona expresamente a los niños con discapacidad, y reconoce los esfuerzos del Estado parte por combatir la discriminación, pero le preocupa que siga discriminándose a los niños con discapacidad, los niños con VIH/SIDA y los niños de la etnia san (bosquimanos) como consecuencia de las actitudes tradicionales de la sociedad.</s>
+        <s id="66:2" lang="es">Aunque toma nota de la indicación del Estado parte de que se van a abordar en la legislación nacional las disposiciones contenidas en la Declaración y el Programa de Acción de Durban adoptado en la Conferencia Mundial contra el Racismo, la Discriminación Racial, la Xenofobia y las Formas Conexas de Intolerancia de 2001, el Comité no puede sino lamentar que el Estado parte no haya adoptado esos instrumentos.</s>
+      </p>
+      <p id="67">
+        <s id="67:1" lang="es">29. El Comité insta al Estado parte a que mantenga e intensifique sus actividades de lucha contra la discriminación, especialmente en lo que se refiere a los niños con discapacidad, los niños con VIH/SIDA y los niños de la etnia san que continúan expuestos a actitudes y comportamientos discriminatorios.</s>
+        <s id="67:2" lang="es">Recomienda también al Estado parte que adopte lo antes posible la Declaración y el Programa de Acción de la Conferencia Mundial contra el Racismo, la Discriminación Racial, la Xenofobia y las Formas Conexas de Intolerancia de 2001 e incluya en su siguiente informe periódico información acerca de las medidas y programas pertinentes para la Convención sobre los Derechos del Niño que haya adoptado en aplicación de la Declaración y el Programa de Acción, así como el documento final adoptado en la Conferencia de Examen de Durban de 2009.</s>
+      </p>
+      <p id="68">
+        <s id="68:1" lang="es">Interés superior del niño</s>
+      </p>
+      <p id="69">
+        <s id="69:1" lang="es">30. El Comité observa que tanto en la Constitución como en el Código de la Familia se hace referencia al principio de que &quot;los niños merecen una atención particular en el seno del la familia a la que pertenecen que, en colaboración en el Estado, tiene la misión de brindarles la mayor protección posible&quot;.</s>
+        <s id="69:2" lang="es">No obstante, al Comité le preocupa que el principio del interés superior del niño no sea bien entendido por las familias o las autoridades del Estado y no se aplique en la práctica de una forma coherente.</s>
+      </p>
+      <p id="70">
+        <s id="70:1" lang="es">31. El Comité recomienda al Estado parte que mantenga y redoble sus esfuerzos por conseguir que el principio general del interés superior del niño se incorpore adecuadamente en todas las disposiciones legales, así como en las decisiones administrativas y judiciales y leyes, proyectos y programas que afecten a la infancia.</s>
+      </p>
+      <p id="71">
+        <s id="71:1" lang="es">Respeto por las opiniones del niño</s>
+      </p>
+      <p id="72">
+        <s id="72:1" lang="es">32. El Comité toma nota de la indicación del Estado parte de que los niños tienen derecho a ser oídos en los procedimientos administrativos y judiciales, pero lamenta la ausencia de información sobre el grado de participación de los niños en los parlamentos de estudiantes o en los consejos escolares y en los órganos provinciales y municipales, así como sobre el peso que se da a la opinión de los niños en esas instituciones.</s>
+        <s id="72:2" lang="es">A pesar de la presencia de representantes de los niños en las ediciones bianuales del Foro Nacional sobre la Infancia, al Comité le preocupa que no se dé a las opiniones de los niños el peso suficiente en la elaboración de las políticas, los planes de acción y las estrategias que les afectan y que, debido a las tradiciones, el público en general siga siendo renuente a considerar a los niños como titulares de derechos y a tener en cuenta sus opiniones, incluso cuando las decisiones y medidas que se adopten puedan afectarles.</s>
+      </p>
+      <p id="73">
+        <s id="73:1" lang="es">33. El Comité recomienda al Estado parte que mantenga e intensifique sus esfuerzos por aplicar el artículo 12 de la Convención y promueva el respeto por las opiniones de los niños, cualquiera que sea su edad, en los procedimientos administrativos y judiciales.</s>
+        <s id="73:2" lang="es">El Comité recomienda también al Estado parte que fomente la participación de los niños y el respeto por sus opiniones en todos los asuntos que les afecten en las esferas de la familia, la escuela, otras instituciones infantiles y en la comunidad, y que vele por que esas opiniones sean tenidas en cuenta en la elaboración de las políticas, planes e instrumentos legislativos pertinentes.</s>
+        <s id="73:3" lang="es">El Comité recomienda al Estado parte que fomente la sensibilización del público en general acerca de la idea de que los niños tienen derecho a ser oídos y que tenga en cuenta la Observación general Nº 12 (2009) del Comité sobre el derecho del niño a ser escuchado.</s>
+      </p>
+      <p id="74">
+        <s id="74:1" lang="es">4. Derechos y libertades civiles (artículos 7, 8, 13 a 17, 19 y 37 a) de la Convención)</s>
+      </p>
+      <p id="75">
+        <s id="75:1" lang="es">Inscripción de los nacimientos</s>
+      </p>
+      <p id="76">
+        <s id="76:1" lang="es">34. El Comité observa con interés que en la legislación se establece la inscripción gratuita del nacimiento de los niños hasta los 5 años y la expedición gratuita de la tarjeta de identificación para los niños hasta los 11 años, y que los niños pueden matricularse en la escuela incluso si carecen de un certificado de nacimiento.</s>
+        <s id="76:2" lang="es">No obstante al Comité le sigue preocupando que no haya habido avances sustanciales en la inscripción de los nacimientos desde 2002 y que la escasez de recursos humanos y financieros dificulte gravemente la inscripción universal de los nacimientos.</s>
+        <s id="76:3" lang="es">Al Comité también le preocupa que no haya garantías para la inscripción en el caso de los niños mayores de 5 años.</s>
+      </p>
+      <p id="77">
+        <s id="77:1" lang="es">35. El Comité recomienda al Estado parte que adopte todas las medidas necesarias para garantizar que todos los niños sean inscritos en el registro civil en el momento de su nacimiento.</s>
+        <s id="77:2" lang="es">Estado parte debería velar especialmente por que las entidades que se ocupan de esa tarea dispongan de recursos humanos y financieros suficientes.</s>
+        <s id="77:3" lang="es">El Comité insta también al Estado parte a que ofrezca garantías para la inscripción retroactiva de los niños mayores de 5 años cuyo nacimiento aún no se haya consignado en el registro y haga que los servicios de inscripción sean fácilmente accesibles a los padres.</s>
+      </p>
+      <p id="78">
+        <s id="78:1" lang="es">Castigos corporales</s>
+      </p>
+      <p id="79">
+        <s id="79:1" lang="es">36. Aunque el Comité observa que es ilegal imponer el castigo corporal como condena por la comisión de un delito, le preocupa que siga siendo lícito en el ámbito del hogar y que no se haya prohibido expresamente en las escuelas, en los servicios en que se brindan otras formas de tutela o como medida disciplinaria en las instituciones penitenciarias.</s>
+      </p>
+      <p id="80">
+        <s id="80:1" lang="es">37. El Comité recomienda al Estado parte que prohíba expresamente, mediante una ley, todas las formas de violencia contra los niños, incluidos los castigos corporales, en todos los ámbitos, entre los que cabe mencionar la familia, la escuela, los centros en que se brindan otras formas de tutela y los centros de internamiento de menores, y que vele por la aplicación de esa ley.</s>
+        <s id="80:2" lang="es">Recomienda también al Estado parte que ponga en marcha campañas de sensibilización dirigidas a los padres, los maestros y el público en general sobre la erradicación de los castigos corporales y el uso de otras formas de disciplina de una manera coherente con la dignidad de los niños y de conformidad con lo establecido en la Convención, especialmente en los artículos 19 y 28, párrafo 2, teniendo en cuenta la Observación general Nº 8 (2006) del Comité sobre el derecho del niño a la protección contra los castigos corporales y otras formas de castigo crueles o degradantes.</s>
+      </p>
+      <p id="81">
+        <s id="81:1" lang="es">Seguimiento del estudio de las Naciones Unidas sobre la violencia contra los niños</s>
+      </p>
+      <p id="82">
+        <s id="82:1" lang="es">38. El Comité alienta al Estado parte a que dé prioridad a la eliminación de todas las formas de violencia contra los niños.</s>
+        <s id="82:2" lang="es">Con referencia al estudio de las Naciones Unidas sobre la violencia contra los niños, el Comité recomienda que el Estado parte:</s>
+      </p>
+      <p id="83">
+        <s id="83:1" lang="es">a) Adopte todas las medidas necesarias para poner en práctica las recomendaciones del Estudio de las Naciones Unidas sobre la violencia contra los niños (A/61/299) teniendo en cuenta a los resultados y recomendaciones de la Consulta regional para el África oriental y meridional (celebrada en Johannesburgo (Sudáfrica) del 18 al 20 de julio de 2005).</s>
+        <s id="83:2" lang="es">En particular, el Comité recomienda al Estado parte que preste especial atención a las siguientes recomendaciones:</s>
+      </p>
+      <p id="84">
+        <s id="84:1" lang="es">i) Prohibir todas las formas de violencia contra los niños;</s>
+      </p>
+      <p id="85">
+        <s id="85:1" lang="es">ii) Promover los valores no violentos y la sensibilización;</s>
+      </p>
+      <p id="86">
+        <s id="86:1" lang="es">iii) Mejorar la capacidad de todos los que trabajan con y para los niños;</s>
+      </p>
+      <p id="87">
+        <s id="87:1" lang="es">iv) Abordar la dimensión de género de la violencia contra los niños;</s>
+      </p>
+      <p id="88">
+        <s id="88:1" lang="es">v) Asegurar la rendición de cuentas y poner fin a la impunidad;</s>
+      </p>
+      <p id="89">
+        <s id="89:1" lang="es">b) Utilizar las recomendaciones del estudio de las Naciones Unidas como instrumento para la acción, en asociación con la sociedad civil y, en particular, con la participación de los niños, para velar por que todos los niños estén protegidos de todas las formas de violencia física, sexual y psicológica, y crear el impulso necesario para medidas concretas y sujetas a plazos que permitan responder ante esa violencia y abuso;</s>
+      </p>
+      <p id="90">
+        <s id="90:1" lang="es">c) Recabar a este respecto la cooperación técnica del Representante Especial del Secretario General sobre la violencia contra los niños.</s>
+      </p>
+      <p id="91">
+        <s id="91:1" lang="es">5. Entorno familiar y modalidades alternativas de cuidado (artículos 5, 18 (párrafos 1</s>
+      </p>
+      <p id="92">
+        <s id="92:1" lang="es">y 2), 9 a 11, 19 a 21, 25, 27 (párrafo 4) y 39 de la Convención)</s>
+      </p>
+      <p id="93">
+        <s id="93:1" lang="es">Entorno familiar</s>
+      </p>
+      <p id="94">
+        <s id="94:1" lang="es">39. El Comité observa que el Estado parte protege la familia, pero el aliento y el fomento de las relaciones entre padres e hijos se ven gravemente obstaculizados por unos entornos familiares inestables y en desintegración y por la frustrante experiencia de la pobreza y el desempleo que socavan las responsabilidades parentales.</s>
+        <s id="94:2" lang="es">El Comité observa con interés la existencia del Consejo Nacional de la Familia y los esfuerzos del Gobierno y del mencionado Consejo por mejorar la situación socioeconómica de las familias mediante la concesión de subsidios y el establecimiento de programas de asesoramiento psicológico, pero le preocupa el hecho de que esas medidas de apoyo sean limitadas, no estén suficientemente bien orientadas y sólo lleguen a un pequeño número de familias.</s>
+      </p>
+      <p id="95">
+        <s id="95:1" lang="es">40. El Comité recomienda al Estado parte que fortalezca y amplíe sus esfuerzos por ayudar a las familias a revitalizar las relaciones entre padres e hijos aumentando el apoyo financiero, económico, de infraestructura y de asesoramiento psicológico con medidas como la concesión de subvenciones y microcréditos, la creación de centros de atención y capacitación e información parental y recomiendan también al Estado parte que preste especial atención a las familias monoparentales, especialmente las que están encabezadas por madres jóvenes, y haga lo posible por prestarles ayuda.</s>
+      </p>
+      <p id="96">
+        <s id="96:1" lang="es">Niños privados de un entorno familiar</s>
+      </p>
+      <p id="97">
+        <s id="97:1" lang="es">41. El Comité observa con interés la política del Gobierno orientada a evitar la institucionalización de los niños.</s>
+        <s id="97:2" lang="es">El Comité observa también con interés la indicación del Estado parte de que la gran mayoría de los niños separados de sus familias a causa del conflicto armado se han reunido ya con ellas o se han integrado en familias de acogida.</s>
+        <s id="97:3" lang="es">No obstante, le preocupa el gran número de niños que todavía no viven con sus padres y para los que aún no se ha encontrado una solución a sus necesidades de atención similar a la integración en una familia.</s>
+        <s id="97:4" lang="es">Al Comité le preocupan también las informaciones de que las instituciones de atención siguen creciendo y todavía no se lleva a cabo un control periódico de los internos.</s>
+        <s id="97:5" lang="es">Observa con pesar que no se realizan actividades de vigilancia de las instituciones, la escasez de personal cualificado y la inexistencia de un mecanismo eficaz para la presentación de denuncias.</s>
+      </p>
+      <p id="98">
+        <s id="98:1" lang="es">42. El Comité recomienda al Estado parte que fortalezca su política de no institucionalización y que amplíe y apoye la integración de los niños en familias ampliadas y en familias de acogida.</s>
+        <s id="98:2" lang="es">El Comité recomienda también al Estado parte que supervise cuidadosamente todos los sistemas de atención de los niños, especialmente el internamiento en instituciones, en tanto esos centros sigan existiendo.</s>
+        <s id="98:3" lang="es">A ese respecto, el Comité alienta al Estado parte a que tenga en cuenta las Directrices de las Naciones Unidas sobre las modalidades alternativas de cuidado de los niños (resolución 64/142 de la Asamblea General).</s>
+      </p>
+      <p id="99">
+        <s id="99:1" lang="es">Adopción</s>
+      </p>
+      <p id="100">
+        <s id="100:1" lang="es">43. El Comité toma nota de que raramente se recurre a la adopción para proporcionar un entorno familiar a los niños que no gozan de la atención de sus padres biológicos y se siente preocupado por el hecho de que los complicados trámites que exige la adopción dificulten y disuadan de recurrir a esos procedimientos a quienes están dispuestos a adoptar.</s>
+      </p>
+      <p id="101">
+        <s id="101:1" lang="es">44. El Comité recomienda al Estado parte que fomente la adopción como forma de proporcionar a los niños un entorno familiar y que establezca los criterios y las normas administrativas y judiciales necesarias para utilizar de forma responsable ese tipo de cuidado familiar y que adopte medidas para simplificar los trámites de adopción a fin de facilitar al público en general la utilización de ese procedimiento.</s>
+        <s id="101:2" lang="es">El Comité alienta también al Estado parte a que considere la posibilidad de adherirse al Convenio de La Haya sobre la Protección de los Niños y la Cooperación en Materia de Adopción Internacional y que solicite asistencia técnica del UNICEF para revisar sus normas sobre la adopción.</s>
+      </p>
+      <p id="102">
+        <s id="102:1" lang="es">Malos tratos y descuido</s>
+      </p>
+      <p id="103">
+        <s id="103:1" lang="es">45. El Comité ve con agrado la creación de la Dependencia de la Violencia contra la Mujer y el Niño en el seno de la Dirección Nacional de Investigación Penal y de algunos departamentos de servicios públicos en los que el Instituto Nacional del Niño (INAC) brinda asesoramiento y servicios de conciliación y mediación en casos de descuido, incumplimiento de las obligaciones parentales y diversas formas de violencia contra los niños.</s>
+        <s id="103:2" lang="es">El Comité observa también con reconocimiento el establecimiento de redes de protección de los niños a nivel provincial y municipal.</s>
+        <s id="103:3" lang="es">El Comité observa que las dependencias de víctimas y delincuentes del Ministerio del Interior permiten a los niños presentar denuncias por violencia física o psicológica.</s>
+        <s id="103:4" lang="es">El Comité toma nota también de la adopción de la Estrategia nacional para prevenir y mitigar la violencia contra los niños.</s>
+        <s id="103:5" lang="es">No obstante, al Comité le preocupa la incidencia generalizada de casos de abusos y descuido en todas sus formas, el hecho de que no se denuncien más que una pequeña proporción de esos casos, la aplicación limitada de las medidas adoptadas, la falta de sensibilidad en el trato de los niños víctimas y testigos de la violencia, la ausencia de programas y medidas para la recuperación y la reinserción y la falta de una legislación específica para proteger a los niños frente a los abusos y el descuido.</s>
+      </p>
+      <p id="104">
+        <s id="104:1" lang="es">46. El Comité alienta al Estado parte a que, en consulta con expertos y con la sociedad civil, revise la eficacia de las medidas que haya adoptado para prevenir los abusos y el descuido y prestar apoyo a los niños víctimas y testigos de la violencia y que tome medidas para velar por la plena aplicación de la Estrategia nacional para prevenir y mitigar la violencia contra los niños e intensifique los esfuerzos de las redes de ámbito provincial y municipal para la promoción y protección de los derechos del niño.</s>
+        <s id="104:2" lang="es">Insta al Estado parte a que proporcione recursos humanos y financieros suficientes para la aplicación de todas las medidas de prevención del abuso y el descuido y de apoyo a las víctimas y testigos de la violencia.</s>
+        <s id="104:3" lang="es">El Comité recomienda también al Estado parte que vele por que los jueces, fiscales, policías y demás profesionales que trabajan con los niños víctimas y testigos de la violencia reciban formación que les facilite el establecimiento de una interacción fluida con los niños víctimas y testigos de la violencia en todas las etapas de las actuaciones penales y judiciales a fin de evitarles nuevos traumas.</s>
+        <s id="104:4" lang="es">El Comité insta también al Estado parte a que vele por que se promulgue legislación específica para proteger a los niños frente a los abusos y el descuido.</s>
+      </p>
+      <p id="105">
+        <s id="105:1" lang="es">6. Salud básica y bienestar (artículos 6, 18 (párrafo 3), 23, 24, 26 y 27 (párrafos 1 a 3)</s>
+      </p>
+      <p id="106">
+        <s id="106:1" lang="es">de la Convención)</s>
+      </p>
+      <p id="107">
+        <s id="107:1" lang="es">Niños con discapacidad</s>
+      </p>
+      <p id="108">
+        <s id="108:1" lang="es">47. El Comité observa que en la Constitución se reconoce el derecho de los niños con discapacidad física y mental a vivir &quot;una vida plena y digna&quot; sin verse discriminados por su discapacidad.</s>
+        <s id="108:2" lang="es">El Comité observa también que existen programas para cuidar de las personas con discapacidad y velar por su integración social.</s>
+        <s id="108:3" lang="es">No obstante, al Comité le sigue preocupando que todavía haya resistencia a la plena integración de las personas con discapacidad en la sociedad, que subsistan lagunas políticas y legislativas en la protección de los derechos de los niños con discapacidad y que el personal que trabaja con los niños con discapacidad no tenga suficiente formación.</s>
+        <s id="108:4" lang="es">El Comité lamenta también que el Estado parte no haya ratificado todavía la Convención sobre los derechos de las personas con discapacidad y su Protocolo facultativo.</s>
+      </p>
+      <p id="109">
+        <s id="109:1" lang="es">48. El Comité recomienda que el Estado parte:</s>
+      </p>
+      <p id="110">
+        <s id="110:1" lang="es">a) Vele por la plena aplicación de las leyes y políticas para la protección de los derechos de los niños con discapacidad y, de ser necesario, elabore otras nuevas.</s>
+      </p>
+      <p id="111">
+        <s id="111:1" lang="es">b) Mantenga y fortalezca sus programas y servicios para todos los niños con discapacidad con el fin de garantizar de que gocen de una atención y protección apropiadas y una educación integradora y puedan participar activamente en la comunidad.</s>
+        <s id="111:2" lang="es">A ese respecto, el Estado parte debe asegurarse de que sus servicios cuenten con recursos humanos y financieros suficientes.</s>
+      </p>
+      <p id="112">
+        <s id="112:1" lang="es">c) Proporcione una formación adecuada al personal que trabaja con los niños con discapacidad, como los maestros, trabajadores sociales y personal médico, de enfermería y demás personal asimilado.</s>
+      </p>
+      <p id="113">
+        <s id="113:1" lang="es">d) Considere la posibilidad de ratificar la Convención sobre los derechos de las personas con discapacidad y su Protocolo facultativo;</s>
+      </p>
+      <p id="114">
+        <s id="114:1" lang="es">e) Tenga en cuenta las Normas Uniformes de las Naciones Unidas sobre la igualdad de oportunidades para las personas con discapacidad (resolución 48/96 de la Asamblea General) y la Observación general Nº 9 (2006) del Comité sobre los derechos de los niños con discapacidad.</s>
+      </p>
+      <p id="115">
+        <s id="115:1" lang="es">Salud y acceso a servicios sanitarios</s>
+      </p>
+      <p id="116">
+        <s id="116:1" lang="es">49. El Comité toma nota con reconocimiento de los esfuerzos del Estado parte por revitalizar y fortalecer la atención primaria de la salud, reorganizar los servicios de salud y mejorar la disponibilidad, el acceso geográfico, los suministros y la utilización de los servicios.</s>
+        <s id="116:2" lang="es">El Comité también toma nota con reconocimiento del compromiso permanente del Estado parte por mejorar la cobertura de la inmunización.</s>
+        <s id="116:3" lang="es">No obstante, observa con preocupación que la asignación de recursos humanos y financieros a la atención primaria de la salud sigue siendo insuficiente y depende de la financiación exterior y que no hay suficiente personal sanitario, especialmente en las zonas rurales.</s>
+        <s id="116:4" lang="es">El Comité también expresa su preocupación por el hecho de que las tasas de mortalidad materna, de los recién nacidos y de los menores de 5 años sigan siendo altas, a pesar de que se han conseguido algunos avances, que casi un tercio de los niños menores de 5 años tengan bajo peso y que el nivel de alimentación mediante lactancia materna exclusiva durante al menos seis meses, aunque mejora, siga siendo bajo.</s>
+      </p>
+      <p id="117">
+        <s id="117:1" lang="es">50. El Comité recomienda al Estado parte que amplíe el acceso a los servicios de atención primaria de la salud en todas las provincias y asigne recursos humanos y financieros suficientes para la prestación de esos servicios de manera que puedan beneficiarse de ellos las poblaciones de las zonas urbanas y rurales.</s>
+        <s id="117:2" lang="es">El Comité insta también al Estado parte a que reduzca de forma drástica las tasas de mortalidad materna y de los recién nacidos y los niños pequeños, entre otras cosas aumentando el número de partos asistidos, y adopte las medidas necesarias para resolver el problema de la malnutrición de los niños menores de 5 años, por ejemplo fomentando la lactancia materna exclusiva durante seis meses y aplicando el código internacional para la comercialización de sucedáneos de la leche materna.</s>
+        <s id="117:3" lang="es">El Comité recomienda también al Estado parte que ponga en marcha campañas de información y sensibilización sobre prácticas higiénicas en los hogares, los espacios públicos y las comunidades y aplique las normas básicas de abastecimiento de agua y saneamiento para toda la población.</s>
+        <s id="117:4" lang="es">El Comité alienta al Estado parte a que considere la posibilidad de solicitar asistencia técnica del UNICEF y la Organización Mundial de la Salud, entre otros.</s>
+      </p>
+      <p id="118">
+        <s id="118:1" lang="es">Salud de los adolescentes</s>
+      </p>
+      <p id="119">
+        <s id="119:1" lang="es">51. El Comité observa que se ha elaborado un plan estratégico de salud sexual y reproductiva que incluye un componente sobre la salud de los adolescentes.</s>
+        <s id="119:2" lang="es">Aunque observa también la existencia de un programa de educación pública dirigido a los adolescentes que tiene por objeto fomentar la salud y evitar los embarazos entre las adolescentes, expresa su preocupación por la alta incidencia de embarazos precoces, ya que el 50% de los primeros embarazos corresponden a mujeres menores de 18 años.</s>
+        <s id="119:3" lang="es">El Comité lamenta también la baja tasa de utilización de anticonceptivos.</s>
+      </p>
+      <p id="120">
+        <s id="120:1" lang="es">52. El Comité recomienda al Estado parte que mantenga e intensifique sus esfuerzos por prevenir los embarazos precoces con medidas como la sensibilización acerca del uso de anticonceptivos y tenga en cuenta la Observación general Nº 4 (2003) del Comité sobre la salud y el desarrollo de los adolescentes en el contexto de la Convención sobre los derechos del niño.</s>
+      </p>
+      <p id="121">
+        <s id="121:1" lang="es">Prácticas tradicionales nocivas</s>
+      </p>
+      <p id="122">
+        <s id="122:1" lang="es">53. Al Comité le preocupa la tasa extremadamente alta de embarazos entre las adolescentes y de matrimonios en edad temprana, que dificultan la educación y el desarrollo de las adolescentes.</s>
+        <s id="122:2" lang="es">Observa también con profunda preocupación el hecho de que a veces se acuse a los niños de practicar la brujería, lo que conduce al abuso y el abandono de esos niños.</s>
+        <s id="122:3" lang="es">El Comité observa que en 2005 se realizó un estudio sobre el impacto que las acusaciones de brujería tenían en los niños con el fin de ayudar a protegerlos contra esa violencia y marginación, pero lamenta que se siga acusando a los niños de esas prácticas.</s>
+      </p>
+      <p id="123">
+        <s id="123:1" lang="es">54. El Comité insta al Estado parte a que, en colaboración con escuelas y organizaciones juveniles, comunidades y medios de comunicación, preste apoyo al desarrollo de programas orientados a ayudar a las niñas a tomar el control de su propio cuerpo y decidir sobre sus planes para su educación y su futuro y para concienciar a la población del derecho que tienen las niñas a ser respetadas, protegidas y apoyadas en su desarrollo personal.</s>
+        <s id="123:2" lang="es">El Comité insta al Estado parte a que, en colaboración con las organizaciones de la sociedad civil y los dirigentes tradicionales o comunitarios, impida que se viertan acusaciones de brujería y exija responsabilidades a quienes las profieran.</s>
+      </p>
+      <p id="124">
+        <s id="124:1" lang="es">VIH/SIDA</s>
+      </p>
+      <p id="125">
+        <s id="125:1" lang="es">55. El Comité observa con interés el Plan Estratégico nacional de lucha contra el VIH/SIDA y el Plan de acción nacional para prevenir y atenuar el impacto del VIH/SIDA en las familias y los niños.</s>
+        <s id="125:2" lang="es">No obstante, le preocupa que la prevalencia del VIH/SIDA sea tan alta y que la información sobre las tendencias estadísticas sea contradictoria.</s>
+        <s id="125:3" lang="es">También le preocupa que, aunque muchos jóvenes hayan oído hablar del VIH/SIDA, sean pocos los que son conscientes del riesgo que corren y de que necesitan conocer prácticas sexuales seguras.</s>
+        <s id="125:4" lang="es">El Comité lamenta también la baja cobertura de los programas para la prevención de la transmisión del VIH/SIDA de la madre al hijo y el tratamiento antirretroviral de los niños.</s>
+        <s id="125:5" lang="es">Asimismo, observa con pesar la escasez de personal técnico cualificado para la diagnosis y el tratamiento clínico de las personas con VIH/SIDA.</s>
+        <s id="125:6" lang="es">Además, el Comité lamenta la falta de información sobre la prevalencia y los comportamientos de los grupos de riesgo.</s>
+      </p>
+      <p id="126">
+        <s id="126:1" lang="es">56. El Comité insta al Estado parte a que adopte medidas para reducir la prevalencia del VIH/SIDA en su territorio, especialmente entre los jóvenes, para lo que debería:</s>
+      </p>
+      <p id="127">
+        <s id="127:1" lang="es">a) Velar por la aplicación plena y eficiente del Plan Estratégico nacional de lucha contra el VIH/SIDA;</s>
+      </p>
+      <p id="128">
+        <s id="128:1" lang="es">b) Mantener las actividades encaminadas a fomentar la sensibilización acerca del VIH/SIDA, especialmente entre los jóvenes, con especial hincapié en los métodos de prevención y protección frente al VIH/SIDA, incluidas las prácticas sexuales seguras;</s>
+      </p>
+      <p id="129">
+        <s id="129:1" lang="es">c) Tener en cuenta la Observación general Nº 3 (2003) del Comité sobre el VIH/SIDA y los derechos del niño y las Directrices internacionales sobre el VIH/SIDA y los derechos humanos.</s>
+      </p>
+      <p id="130">
+        <s id="130:1" lang="es">Nivel de vida</s>
+      </p>
+      <p id="131">
+        <s id="131:1" lang="es">57. El Comité toma nota de que los diversos esfuerzos desplegados por el Gobierno para reducir la pobreza, incluido un drástico incremento del presupuesto destinado a la seguridad social, arrojan algunos resultados positivos, pero sigue profundamente preocupado por las tasas muy altas de pobreza y extrema pobreza en el país.</s>
+        <s id="131:2" lang="es">Al Comité le preocupa especialmente la inmensa desigualdad social que muestran los indicadores económicos.</s>
+        <s id="131:3" lang="es">El Comité acoge con beneplácito la aprobación del nuevo Plan de desarrollo de mediano plazo, basado en la Estratégia de Combate à Pobreza, en el que se ha establecido un procedimiento de cartografía social para identificar a los niños que necesitan apoyo de manera más urgente, incluida la situación de los niños que viven en las calles.</s>
+        <s id="131:4" lang="es">El Comité recuerda al Estado parte que la Convención le exige que garantice un nivel de vida adecuado para el desarrollo de los niños y le preocupa que no preste suficiente atención a los programas e instituciones que ofrecen incentivos educativos y de desarrollo que las familias desfavorecidas y los entornos marginales no pueden ofrecer.</s>
+      </p>
+      <p id="132">
+        <s id="132:1" lang="es">58. El Comité recomienda al Estado parte que intensifique sus esfuerzos por utilizar la riqueza del país para mejorar las condiciones socioeconómicas en que vive la mayoría de la población, especialmente los grupos más vulnerables y, entre ellos, las familias con un gran número de hijos, las familias monoparentales, las familias encabezadas por menores y la situación de los niños que viven en las calles.</s>
+        <s id="132:2" lang="es">El Comité recomienda también al Estado parte que garantice un nivel de vida adecuado para todos los niños a fin de favorecer su desarrollo físico, mental, espiritual, moral y social y que, con ese fin, establezca centros de atención, educación y desarrollo para los niños que viven en la pobreza con miras a enriquecer el entorno deprimido en que tienen que crecer esos niños.</s>
+      </p>
+      <p id="133">
+        <s id="133:1" lang="es">7. Educación, esparcimiento y actividades culturales (artículos 28, 29 y 31 de la Convención)</s>
+      </p>
+      <p id="134">
+        <s id="134:1" lang="es">Educación, incluidas la formación y la orientación profesionales</s>
+      </p>
+      <p id="135">
+        <s id="135:1" lang="es">59. El Comité toma nota con interés del Plan de Educación Nacional para Todos, que pretende ampliar el acceso a la enseñanza primaria y secundaria y aplicar las Estrategias Integradas para mejorar el sistema educativo en lo tocante al género, la alfabetización y la rehabilitación de los niños excluidos, y una campaña de retorno a la escuela.</s>
+        <s id="135:2" lang="es">Al Comité le preocupa que, a pesar de los recientes incrementos de las consignaciones presupuestarias destinadas a la educación, el presupuesto del sector educativo siga siendo insuficiente, lo que ralentiza también los esfuerzos por rehabilitar las muchas escuelas destruidas durante la guerra.</s>
+        <s id="135:3" lang="es">Le preocupan también:</s>
+      </p>
+      <p id="136">
+        <s id="136:1" lang="es">a) El alto número de niños que no están matriculados en la escuela primaria y la alta tasa de abandono de los que están matriculados;</s>
+      </p>
+      <p id="137">
+        <s id="137:1" lang="es">b) El bajo nivel de asistencia a la escuela secundaria;</s>
+      </p>
+      <p id="138">
+        <s id="138:1" lang="es">c) La escasez de maestros debidamente formados y cualificados;</s>
+      </p>
+      <p id="139">
+        <s id="139:1" lang="es">d) La falta de libros de texto y material escolar;</s>
+      </p>
+      <p id="140">
+        <s id="140:1" lang="es">e) Los informes sobre episodios de violencia y acoso escolar por parte de los maestros u otros alumnos en muchas escuelas, a pesar del desarrollo del modelo de escuela adaptada a los niños;</s>
+      </p>
+      <p id="141">
+        <s id="141:1" lang="es">f) El número limitado de programas de educación en la primera infancia;</s>
+      </p>
+      <p id="142">
+        <s id="142:1" lang="es">g) La ausencia de los derechos humanos en los planes de estudio.</s>
+      </p>
+      <p id="143">
+        <s id="143:1" lang="es">60. El Comité recomienda que el Estado parte:</s>
+      </p>
+      <p id="144">
+        <s id="144:1" lang="es">a) Adopte medidas para conseguir la matriculación universal en la escuela primaria, tanto para los niños como para las niñas, y para mejorar la asistencia a la escuela secundaria;</s>
+      </p>
+      <p id="145">
+        <s id="145:1" lang="es">b) Intensifique los esfuerzos por evitar el abandono escolar y devolver a la escuela a los niños que la hayan abandonado antes de completar la enseñanza primaria;</s>
+      </p>
+      <p id="146">
+        <s id="146:1" lang="es">c) Adopte medidas para garantizar, mediante la construcción de nuevas escuelas y la rehabilitación de las que quedaron destruidas, que haya un número suficiente de escuelas y aulas en las comunidades y que esas escuelas y aulas cuenten con instalaciones sanitarias separadas para niños y niñas;</s>
+      </p>
+      <p id="147">
+        <s id="147:1" lang="es">d) Mejore la calidad de la enseñanza velando, entre otras cosas, por que los maestros estén bien formados y plenamente cualificados, los planes de estudio estén actualizados y se disponga de libros de texto y material escolar en todas las escuelas y aulas;</s>
+      </p>
+      <p id="148">
+        <s id="148:1" lang="es">e) Garantice que, al finalizar la enseñanza obligatoria a los 12 años, los niños puedan acceder a de centros de formación profesional;</s>
+      </p>
+      <p id="149">
+        <s id="149:1" lang="es">f) Proteja a los niños, en particular a las muchachas, contra la violencia y el acoso sexual en la escuela por parte de los maestros u otros alumnos;</s>
+      </p>
+      <p id="150">
+        <s id="150:1" lang="es">g) Adopte medidas para que los derechos humanos, especialmente los derechos del niño, se integren en los planes de estudio en todos los niveles de enseñanza;</s>
+      </p>
+      <p id="151">
+        <s id="151:1" lang="es">h) Aumente las consignaciones presupuestarias destinadas a la educación para que pueda contarse con recursos humanos y materiales suficientes para la aplicación de los diferentes planes y estrategias;</s>
+      </p>
+      <p id="152">
+        <s id="152:1" lang="es">i) Fomente la sensibilización del público en general acerca de la educación en la primera infancia y vele por que los centros de educación en la primera infancia dispongan también de los recursos necesarios que les aseguren el personal y el mobiliario suficientes; y</s>
+      </p>
+      <p id="153">
+        <s id="153:1" lang="es">j) Tenga en cuenta la Observación general Nº 1 (2001) del Comité sobre los propósitos de la educación.</s>
+      </p>
+      <p id="154">
+        <s id="154:1" lang="es">8. Medidas especiales de protección (artículos 22, 38, 39, 40, 37 b) y d), 30, y 32 a 36</s>
+      </p>
+      <p id="155">
+        <s id="155:1" lang="es">Niños afectados por conflictos armados</s>
+      </p>
+      <p id="156">
+        <s id="156:1" lang="es">61. Al Comité le preocupa la existencia de minas terrestres que ponen en peligro a los niños que juegan en zonas inseguras del país y el lento ritmo de retirada de esos dispositivos.</s>
+      </p>
+      <p id="157">
+        <s id="157:1" lang="es">62. El Comité recomienda al Estado parte que continúe sensibilizando a los niños acerca del peligro que suponen las minas terrestres y acelere sus esfuerzos por retirar esos dispositivos y que destine suficientes recursos financieros a esas actividades, incluso recurriendo a la cooperación internacional.</s>
+      </p>
+      <p id="158">
+        <s id="158:1" lang="es">Niños no acompañados, refugiados y desplazados internos</s>
+      </p>
+      <p id="159">
+        <s id="159:1" lang="es">63. El Comité toma nota con preocupación de los informes según los cuales el Estado parte habría deportado a más de 30.000 niños entre los que podrían haberse encontrado niños no acompañados, incluso menores de 5 años, algunos de los cuales parecían estar malnutridos.</s>
+        <s id="159:2" lang="es">Al Comité le preocupa que los niños retornados, huidos a otros países durante la guerra, y los niños refugiados nacidos en Angola, puedan tener dificultades a la hora de inscribirse en el registro de nacimientos.</s>
+      </p>
+      <p id="160">
+        <s id="160:1" lang="es">64. El Comité recomienda al Estado parte que investigue las denuncias de deportación de niños y lleve ante los tribunales a quienes hubieran cometido abusos contra ellos.</s>
+        <s id="160:2" lang="es">El Comité insta al Estado parte a que concierte acuerdos bilaterales con los Estados que participan en esas deportaciones a fin de organizar la repatriación de los niños de conformidad con el derecho internacional.</s>
+        <s id="160:3" lang="es">El Comité recomienda también al Estado parte que garantice que todos los niños de Angola, incluidos los niños angoleños nacidos en el extranjero, puedan inscribirse en el registro civil y tengan acceso pleno a todos los servicios e instituciones.</s>
+      </p>
+      <p id="161">
+        <s id="161:1" lang="es">Explotación económica, incluido el trabajo infantil</s>
+      </p>
+      <p id="162">
+        <s id="162:1" lang="es">65. El Comité observa que se imparten cursos de formación profesional para niños mayores de 14 años con un mínimo de seis años de enseñanza primaria.</s>
+        <s id="162:2" lang="es">No obstante, como la escolarización obligatoria finaliza a los 12 años, al Comité le preocupa que los niños de entre 12 y 14 años no reciban orientación ni formación profesional adecuadas en la transición al empleo.</s>
+        <s id="162:3" lang="es">Le preocupa también el gran número de niños de entre 5 y 14 años que trabajan (más del 20% según el estudio IBEP 2008-2009) como resultado de la pobreza de las familias y la escasez de buenas escuelas, y toma nota con pesar de las destacadas disparidades que existen entre los niños que viven en las zonas rurales y los que viven en las zonas urbanas.</s>
+        <s id="162:4" lang="es">Al Comité le preocupa la debilidad del sistema de inspección del trabajo, que no abarca al sector no estructurado.</s>
+      </p>
+      <p id="163">
+        <s id="163:1" lang="es">66. El Comité recomienda firmemente al Estado parte que combata el trabajo infantil mediante la puesta en marcha de un sistema de inspección, el fortalecimiento de las redes de protección de la infancia y la intensificación del apoyo a las familias que viven en la pobreza extrema.</s>
+        <s id="163:2" lang="es">El Comité recomienda también que se invite a los niños que trabajan a que participen en la elaboración de medidas encaminadas a reducir y erradicar el trabajo infantil.</s>
+        <s id="163:3" lang="es">El Comité recomienda también al Estado parte que elabore un marco para proporcionar orientación y asistencia apropiadas a los niños de entre 12 y 14 años que hayan abandonado la escuela y necesiten preparación y capacitación para integrarse al mercado de trabajo.</s>
+        <s id="163:4" lang="es">El Comité alienta al Estado parte a que solicite asistencia técnica del Programa Internacional para la Erradicación del Trabajo Infantil de la Organización Internacional del Trabajo.</s>
+      </p>
+      <p id="164">
+        <s id="164:1" lang="es">Explotación y abusos sexuales</s>
+      </p>
+      <p id="165">
+        <s id="165:1" lang="es">67. Aunque observa que el Estado parte ha adoptado en el ámbito del turismo un código de comportamiento contra la explotación sexual de los niños y adolescentes, al Comité le preocupa la amplia difusión de la explotación sexual comercial, especialmente en los hoteles y locales de ocio nocturnos.</s>
+        <s id="165:2" lang="es">Le preocupa también el hecho de que las medidas encaminadas a rehabilitar a las víctimas de la explotación sexual y proteger a los niños que corren el riesgo de sufrir esa explotación sean insuficientes.</s>
+        <s id="165:3" lang="es">El Comité también observa con preocupación de que sólo hay un pequeño número de programas de reinserción para las víctimas de la explotación sexual.</s>
+      </p>
+      <p id="166">
+        <s id="166:1" lang="es">68. El Comité recomienda al Estado parte que ponga en práctica políticas y programas para la prevención de la explotación sexual y para la recuperación y reinserción social de los niños víctimas de esa lacra, de conformidad con la Declaración y el Programa de Acción y el Compromiso Mundial aprobados en los Congresos Mundiales contra la Explotación Sexual Comercial de los Niños en 1996, 2002 y 2008.</s>
+      </p>
+      <p id="167">
+        <s id="167:1" lang="es">Venta, trata y secuestro</s>
+      </p>
+      <p id="168">
+        <s id="168:1" lang="es">69. El Comité observa con interés que se están creando, fortaleciendo y extendiendo por todo el país redes para la protección de los derechos del niño y la prevención de la trata.</s>
+        <s id="168:2" lang="es">Lamenta, sin embargo, la ausencia de información acerca de cómo cooperan esas redes con la Dependencia de la Violencia contra la Mujer y el Niño de la Dirección Nacional de Investigación Penal y la Estrategia nacional para prevenir y mitigar la violencia contra los niños.</s>
+        <s id="168:3" lang="es">El Comité observa que el Estado parte ha adoptado medidas para prevenir la trata de niños, por ejemplo fortaleciendo los controles en los aeropuertos y fronteras donde se encuentran muchos extranjeros y exigiendo un documento del INAC para certificar la legalidad de la salida de cualquier niño.</s>
+        <s id="168:4" lang="es">No obstante, al Comité le preocupa que el problema de la trata de personas, incluidos los niños, se esté agravando cada vez más en el Estado parte y los informes de niños a los que se ha sacado del país con el fin de utilizarlos para el transporte de mercancías y la prostitución.</s>
+        <s id="168:5" lang="es">Le preocupa también que no estén claras las definiciones legales de esos delitos, por lo que es frecuente que sus autores no sean enjuiciados.</s>
+      </p>
+      <p id="169">
+        <s id="169:1" lang="es">70. El Comité recomienda al Estado parte que defina expresamente la venta, la trata y el secuestro en su legislación y establezca sanciones claras que garanticen el enjuiciamiento de los autores de esos delitos que elabore medidas, programas y políticas para proteger a los niños frente a la venta, la trata y el secuestro y rehabilitar y reinsertar en la sociedad a las víctimas de esas prácticas.</s>
+      </p>
+      <p id="170">
+        <s id="170:1" lang="es">Servicio de asistencia telefónica</s>
+      </p>
+      <p id="171">
+        <s id="171:1" lang="es">71. El Comité acoge con beneplácito que en los últimos años se haya establecido SOS Criança y otras líneas locales de ayuda, pero lamenta que no haya información acerca del alcance de la ayuda que pueden ofrecer y le preocupa que esas líneas de ayuda no lleguen a todo el país.</s>
+      </p>
+      <p id="172">
+        <s id="172:1" lang="es">72. El Comité recomienda al Estado parte que vele por que las líneas de ayuda funcionen 24 horas al día, su número tenga sólo tres o cuatro dígitos y sean gratuitas, y también por que sean accesibles desde cualquier lugar del país y estén combinadas con servicios que puedan, en caso necesario, hacer un seguimiento inmediato de las denuncias de los niños.</s>
+      </p>
+      <p id="173">
+        <s id="173:1" lang="es">Administración de la justicia juvenil</s>
+      </p>
+      <p id="174">
+        <s id="174:1" lang="es">73. El Comité toma nota con interés de la adopción de normas sobre medidas alternativas para la justicia juvenil.</s>
+        <s id="174:2" lang="es">No obstante, le preocupa que en el proyecto de código penal se proponga rebajar la edad mínima de responsabilidad penal de los 16 a los 14 años y que no quede claro si los niños en conflicto con la ley de edad comprendida entre los 16 y los 18 años podrán seguir acogiéndose a la protección específica que corresponde a los delincuentes juveniles.</s>
+        <s id="174:3" lang="es">Al Comité le preocupa también que la aplicación de la justicia juvenil fuera de la provincia de Luanda sea muy limitada, que no existan normas específicas de procedimiento para el enjuiciamiento ante los jueces provinciales de familia y que, incluso en la provincia de Luanda, los recursos humanos y financieros sean muy escasos.</s>
+        <s id="174:4" lang="es">Además le preocupa el hecho de que los niños no estén separados de los adultos en los centros penitenciarios y los informes de que la policía inflige malos tratos a los niños bajo su custodia.</s>
+      </p>
+      <p id="175">
+        <s id="175:1" lang="es">74. El Comité insta al Estado parte a que vele por la plena aplicación de las normas de justicia juvenil, en particular los artículos 37 b), 39 y 40 de la Convención, así como las reglas mínimas de las Naciones Unidas para la administración de justicia de menores (Reglas de Beijing), las Directrices de las Naciones Unidas para la prevención de la delincuencia de menores (Directrices de Riyadh), y las Reglas de las Naciones Unidas para la protección de los menores privados de libertad (Reglas de La Habana).</s>
+        <s id="175:2" lang="es">Concretamente, el Comité recomienda al Estado parte que, teniendo en cuenta la Observación general Nº 10 (2007) del Comité sobre la administración de la justicia juvenil:</s>
+      </p>
+      <p id="176">
+        <s id="176:1" lang="es">a) Adopte medidas para mejorar el sistema de justicia juvenil, entre otras cosas, estableciendo tribunales para los menores en conflicto con la ley en las diferentes provincias, velando por que el sistema cuente con recursos humanos, técnicos y financieros suficientes y por que las personas que trabajan con los niños en el sistema de justicia juvenil reciban una formación apropiada;</s>
+      </p>
+      <p id="177">
+        <s id="177:1" lang="es">b) Considere la posibilidad de establecer normas especiales de procedimiento para que todas las garantías de la justicia juvenil se respeten también en las actuaciones que se sigan ante los jueces provinciales de familia;</s>
+      </p>
+      <p id="178">
+        <s id="178:1" lang="es">c) Adopte todas las medidas necesarias para que los niños, incluidos los que tienen entre 16 y 18 años, puedan acogerse a la protección que brindan las disposiciones específicas para los niños en conflicto con la ley;</s>
+      </p>
+      <p id="179">
+        <s id="179:1" lang="es">d) Vele por que el internamiento de los niños se aplique tan sólo como medida de último recurso y durante el tiempo más corto posible y por que los niños estén separados de los adultos tanto cuando se encuentren en prisión provisional a la espera de juicio como durante el cumplimiento de su condena, y que proporcione a los niños que se encuentren sometidos a cualquier forma de privación de su libertad el derecho a que se revise la decisión sobre su internamiento.</s>
+      </p>
+      <p id="180">
+        <s id="180:1" lang="es">e) Persevere en sus esfuerzos por conseguir que los policías no maltraten a los niños bajo su custodia;</s>
+      </p>
+      <p id="181">
+        <s id="181:1" lang="es">f) Haga uso de los instrumentos de asistencia técnica elaborados por el Grupo Interinstitucional de las Naciones Unidas en materia de justicia de menores y sus miembros, entre los que se encuentran la Oficina de las Naciones Unidas contra la Droga y el Delito, el UNICEF, el ACNUDH y algunas ONG, y solicite asistencia técnica en la esfera de la justicia juvenil a los miembros del Grupo Interinstitucional.</s>
+      </p>
+      <p id="182">
+        <s id="182:1" lang="es">Protección de testigos y víctimas de delitos</s>
+      </p>
+      <p id="183">
+        <s id="183:1" lang="es">75. El Comité recomienda también al Estado parte que, mediante la adopción de normas y disposiciones jurídicas apropiadas, vele por que todos los niños que sean víctimas o testigos de delitos, por ejemplo los niños víctimas de abusos, de la violencia doméstica, de la explotación sexual y económica, del secuestro y de la trata, así como los testigos de esos delitos, disfruten de la protección que exige la Convención y que tenga plenamente en cuenta las Directrices de las Naciones Unidas sobre la justicia en asuntos concernientes a los niños víctimas y testigos de delitos (anexas a la resolución 2005/20 del Consejo Económico y Social).</s>
+      </p>
+      <p id="184">
+        <s id="184:1" lang="es">9. Ratificación de los instrumentos internacionales de derechos humanos</s>
+      </p>
+      <p id="185">
+        <s id="185:1" lang="es">76. El Comité insta al Estado parte a que considere la posibilidad de ratificar:</s>
+      </p>
+      <p id="186">
+        <s id="186:1" lang="es">a) La Convención Internacional sobre la Eliminación de Todas las Formas de Discriminación Racial;</s>
+      </p>
+      <p id="187">
+        <s id="187:1" lang="es">b) La Convención contra la Tortura y otros Tratos o Penas Crueles, Inhumanos o Degradantes y su Protocolo Facultativo;</s>
+      </p>
+      <p id="188">
+        <s id="188:1" lang="es">c) La Convención Internacional sobre la protección de los derechos de todos los trabajadores migratorios y de sus familiares;</s>
+      </p>
+      <p id="189">
+        <s id="189:1" lang="es">d) La Convención sobre los derechos de las personas con discapacidad;</s>
+      </p>
+      <p id="190">
+        <s id="190:1" lang="es">e) La Convención Internacional para la protección de todas las personas contra las desapariciones forzadas.</s>
+      </p>
+      <p id="191">
+        <s id="191:1" lang="es">77. El Comité insta al Estado parte a que cumpla sus obligaciones de presentación de informes dimanantes del Protocolo facultativo relativo a la participación de niños en los conflictos armados y el Protocolo facultativo relativo a la venta de niños, la prostitución infantil y la utilización de niños en la pornografía, informes que están pendientes desde noviembre de 2009 y abril de 2007, respectivamente.</s>
+      </p>
+      <p id="192">
+        <s id="192:1" lang="es">10. Seguimiento y difusión</s>
+      </p>
+      <p id="193">
+        <s id="193:1" lang="es">Seguimiento</s>
+      </p>
+      <p id="194">
+        <s id="194:1" lang="es">78. El Comité recomienda al Estado parte que adopte todas las medidas necesarias para que se cumplan plenamente las presentes recomendaciones, por ejemplo poniéndolas en conocimiento del Jefe de Estado, el Tribunal Supremo, el Parlamento, los ministerios competentes y las autoridades locales para que las examinen y adopten las medidas del caso.</s>
+      </p>
+      <p id="195">
+        <s id="195:1" lang="es">Difusión</s>
+      </p>
+      <p id="196">
+        <s id="196:1" lang="es">79. El Comité recomienda además, que los informes periódicos segundo a cuarto combinados y las respuestas por escrito presentadas por el Estado parte y las recomendaciones conexas (observaciones finales) aprobadas por el Comité se divulguen en los idiomas del país, incluso (aunque no exclusivamente) por Internet, al público en general, las organizaciones de la sociedad civil, los grupos juveniles, los grupos profesionales y los niños, para fomentar el debate y el conocimiento de la Convención, su cumplimiento y el seguimiento de su aplicación.</s>
+      </p>
+      <p id="197">
+        <s id="197:1" lang="es">11. Próximo informe</s>
+      </p>
+      <p id="198">
+        <s id="198:1" lang="es">80. El Comité invita al Estado parte a que presente sus informes periódicos quinto, sexto y séptimo combinados antes del 1º de octubre de 2015.</s>
+        <s id="198:2" lang="es">El Comité desea llamar la atención acerca de las directrices armonizadas para la presentación de informes en relación con los diferentes tratados adoptadas el 1º de octubre de 2010 (CRC/C/58/Rev.2) y recuerda al Estado parte que los informes que presente en el futuro deberán ajustarse a las directrices y no sobrepasar las 60 páginas.</s>
+        <s id="198:3" lang="es">El Comité insta al Estado parte a que presente su informe de acuerdo con las directrices.</s>
+        <s id="198:4" lang="es">En caso de que el informe sobrepase la extensión establecida, se le pedirá que lo revise y vuelva a presentarlo con arreglo a las mencionadas directrices.</s>
+        <s id="198:5" lang="es">El Comité recuerda al Estado parte que si no pudiera examinar y volver a presentar el informe con la extensión establecida no podrá garantizarse su traducción para el examen por el órgano del tratado de que se trate.</s>
+      </p>
+      <p id="199">
+        <s id="199:1" lang="es">81. El Comité invita también al Estado parte a que presente un documento básico actualizado de conformidad con las orientaciones relativas a la preparación del documento básico común que figuran en las directrices armonizadas sobre la presentación de informes, aprobadas en la quinta reunión de los Comités que son órganos creados en virtud de tratados de derechos humanos celebrada en junio de 2006 (HRI/MC/2006/3).</s>
+        <s id="199:2" lang="es">El documento básico común y el informe específico para el tratado satisfacen conjuntamente la obligación de presentación de informes armonizados dimanante de la Convención.</s>
+      </p>
+    </body>
+  </text>
+</TEI.2>

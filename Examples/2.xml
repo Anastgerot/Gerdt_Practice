@@ -1,0 +1,1370 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The United Nations Parallel Corpus v1.0 - CCPR/C/100/2</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>United Nations DGACM</publisher>
+        <pubPlace>Geneva</pubPlace>
+        <date>20101125</date>
+        <idno type="symbol">CCPR/C/100/2</idno>
+        <idno type="jobno">G1046922</idno>
+        <availability>
+          <p>The following disclaimer, an integral part of the United Nations Parallel Corpus v1.0, 
+             shall be respected in regard to the Corpus v1.0 (no other restrictions apply):</p>
+
+          <p>The United Nations Parallel Corpus is made available without warranty of any kind, 
+             explicit or implied. The United Nations specifically makes no warranties or 
+             representations as to the accuracy or completeness of the information contained in 
+             the United Nations corpus.</p>
+
+          <p>Under no circumstances shall the United Nations be liable for any loss, liability,
+             injury or damage incurred or suffered that is claimed to have resulted from the use
+             of the United Nations Corpus. The use of the United Nations Corpus is at the user's 
+             sole risk. The user specifically acknowledges and agrees that the United Nations is 
+             not liable for the conduct of any user. If the user is dissatisfied with any of the 
+             material provided in the United Nations Corpus, the users's sole and exclusive remedy 
+             is to discontinue using the United Nations Corpus.</p>
+
+          <p>When using the United Nations Corpus, the user must acknowledge the United Nations as the
+             source of the information. For references, please use this reference:
+             Ziemski, M., Junczys-Dowmunt, M., and Pouliquen, B. (2016) The United Nations
+             Parallel Corpus, Language Resources and Evaluation (LREC’16), Portorož, Slovenia, 
+             May 2016.</p>
+
+          <p>Nothing herein shall constitute or be considered to be a limitation upon or waiver,
+             express or implied, of the privileges and immunities of the United Nations, which
+             are specifically reserved.</p>
+        </availability>
+        <distributor>http://conferences.unite.un.org/UNCorpus</distributor>
+      </publicationStmt>
+      <sourceDesc>
+        <p>http://www.un.org/en/official-documents-system-search/index.html</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords>
+          <term>CIVIL AND POLITICAL RIGHTS</term>
+          <term>PERIODIC REPORTS</term>
+          <term>FOLLOW-UP PROCEDURES</term>
+        </keywords>
+      </textClass>
+      <langUsage>
+        <language ident="es">Spanish</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p id="1">
+        <s id="1:1" lang="es">Naciones Unidas</s>
+      </p>
+      <p id="2">
+        <s id="2:1" lang="es">CCPR/C/100/2</s>
+      </p>
+      <p id="3">
+        <s id="3:1" lang="es">Pacto Internacional de Derechos</s>
+      </p>
+      <p id="4">
+        <s id="4:1" lang="es">Civiles y Políticos</s>
+      </p>
+      <p id="5">
+        <s id="5:1" lang="es">Distr. general</s>
+      </p>
+      <p id="6">
+        <s id="6:1" lang="es">25 de noviembre de 2010</s>
+      </p>
+      <p id="7">
+        <s id="7:1" lang="es">Español</s>
+      </p>
+      <p id="8">
+        <s id="8:1" lang="es">Original: francés</s>
+      </p>
+      <p id="9">
+        <s id="9:1" lang="es">Comité de Derechos Humanos</s>
+      </p>
+      <p id="10">
+        <s id="10:1" lang="es">100º período de sesiones</s>
+      </p>
+      <p id="11">
+        <s id="11:1" lang="es">Ginebra, 11 a 29 de octubre de 2010</s>
+      </p>
+      <p id="12">
+        <s id="12:1" lang="es">Informe del Relator Especial para el seguimiento</s>
+      </p>
+      <p id="13">
+        <s id="13:1" lang="es">de las observaciones finales (100º período de sesiones,</s>
+      </p>
+      <p id="14">
+        <s id="14:1" lang="es">octubre de 2010)</s>
+      </p>
+      <p id="15">
+        <s id="15:1" lang="es">En el siguiente informe se expone la información recibida por el Relator Especial para el seguimiento de las observaciones finales, junto con las medidas adoptadas por el Relator Especial con arreglo al reglamento enmendado del Comité.</s>
+        <s id="15:2" lang="es">La información señalada en letra negrita se refiere a las actividades llevadas a cabo por el Relator Especial entre los períodos de sesiones 99º y 100º sobre las cuales el Comité debe adoptar medidas.</s>
+      </p>
+      <p id="16">
+        <s id="16:1" lang="es">Por falta de espacio, el informe no abarca los Estados partes respecto de los cuales el Comité ha terminado sus actividades de seguimiento, incluidos todos los Estados partes cuyos informes se examinaron desde el 71º período de sesiones (marzo de 2001) hasta el 86º período de sesiones (marzo de 2006).</s>
+      </p>
+      <p id="17">
+        <s id="17:1" lang="es">Estado parte: República Centroafricana</s>
+      </p>
+      <p id="18">
+        <s id="18:1" lang="es">Informe examinado: Segundo informe periódico (pendiente desde 1989), presentado el 3 de julio de 2005.</s>
+      </p>
+      <p id="19">
+        <s id="19:1" lang="es">Información solicitada</s>
+      </p>
+      <p id="20">
+        <s id="20:1" lang="es">Párrafo 11: Sensibilizar a la población contra la mutilación genital femenina; tipificar esta práctica como delito; enjuiciar a los autores (artículos 3 y 7 del Pacto).</s>
+      </p>
+      <p id="21">
+        <s id="21:1" lang="es">Párrafo 12: Asegurar que todas las denuncias de desapariciones forzadas, ejecuciones sumarias y arbitrarias y actos de tortura y malos tratos sean investigadas por un órgano independiente y que los autores de esos actos sean enjuiciados y sancionados de forma adecuada; mejorar la formación de las fuerzas del orden; indemnizar a las víctimas; y ofrecer precisiones sobre el número de personas procesadas y condenadas, incluidos los miembros o ex miembros de la Oficina Central de Represión del Bandolerismo, y las indemnizaciones otorgadas a las víctimas durante los tres últimos años (artículos 2, 6, 7 y 9 del Pacto).</s>
+      </p>
+      <p id="22">
+        <s id="22:1" lang="es">Párrafo 13: Velar por que la pena capital no se aplique a nuevos delitos; abolir la pena capital y adherirse al Segundo Protocolo Facultativo del Pacto Internacional de Derechos Civiles y Políticos, destinado a abolir la pena de muerte (artículos 2 y 6 del Pacto).</s>
+      </p>
+      <p id="23">
+        <s id="23:1" lang="es">Fecha límite de recepción de la información: 24 de julio de 2007</s>
+      </p>
+      <p id="24">
+        <s id="24:1" lang="es">Fecha en que se recibió la información: No se ha recibido información.</s>
+      </p>
+      <p id="25">
+        <s id="25:1" lang="es">Medidas adoptadas</s>
+      </p>
+      <p id="26">
+        <s id="26:1" lang="es">28 de septiembre de 2007: Se envió un recordatorio.</s>
+      </p>
+      <p id="27">
+        <s id="27:1" lang="es">10 de diciembre de 2007: Se envió otro recordatorio.</s>
+      </p>
+      <p id="28">
+        <s id="28:1" lang="es">20 de febrero de 2008: El Relator Especial solicitó reunirse con un representante del Estado parte.</s>
+      </p>
+      <p id="29">
+        <s id="29:1" lang="es">18 de marzo de 2008: El Relator Especial solicitó reunirse con un representante del Estado parte.</s>
+      </p>
+      <p id="30">
+        <s id="30:1" lang="es">1º de abril de 2008: Se celebraron consultas durante el 92º período de sesiones.</s>
+        <s id="30:2" lang="es">La delegación se comprometió a transmitir al Gobierno la solicitud del Relator Especial y el Comité.</s>
+        <s id="30:3" lang="es">No se proporcionó ninguna respuesta.</s>
+      </p>
+      <p id="31">
+        <s id="31:1" lang="es">11 de junio de 2008: Se envió otro recordatorio a modo de seguimiento de las consultas celebradas entre el Relator Especial y el Estado parte durante el 92º período de sesiones.</s>
+      </p>
+      <p id="32">
+        <s id="32:1" lang="es">22 de septiembre de 2008: Se envió un recordatorio.</s>
+      </p>
+      <p id="33">
+        <s id="33:1" lang="es">16 de diciembre de 2008: El Relator Especial solicitó reunirse con un representante del Estado parte.</s>
+      </p>
+      <p id="34">
+        <s id="34:1" lang="es">29 de mayo de 2009: Se envió un recordatorio.</s>
+      </p>
+      <p id="35">
+        <s id="35:1" lang="es">2 de febrero de 2010: El Relator Especial solicitó reunirse con un representante del Estado parte.</s>
+      </p>
+      <p id="36">
+        <s id="36:1" lang="es">25 de junio de 2010: El Relator Especial solicitó reunirse con un representante del Estado parte.</s>
+      </p>
+      <p id="37">
+        <s id="37:1" lang="es">28 de septiembre de 2010: Se envió una carta en la que se invitaba al Estado parte a responder al conjunto de las observaciones finales en su siguiente informe periódico.</s>
+      </p>
+      <p id="38">
+        <s id="38:1" lang="es">13 de octubre de 2010: Se celebraron consultas durante el 100º período de sesiones.</s>
+        <s id="38:2" lang="es">La delegación se comprometió a transmitir al Gobierno la solicitud del Relator Especial y del Comité.</s>
+        <s id="38:3" lang="es">No se ha recibido respuesta.</s>
+      </p>
+      <p id="39">
+        <s id="39:1" lang="es">Medidas recomendadas: No se recomienda ninguna otra medida.</s>
+      </p>
+      <p id="40">
+        <s id="40:1" lang="es">Fecha de presentación del próximo informe: 1º de agosto de 2010</s>
+      </p>
+      <p id="41">
+        <s id="41:1" lang="es">Informe examinado: Informe de la UNMIK sobre la situación de los derechos humanos en Kosovo, presentado el 2 de febrero de 2006.</s>
+      </p>
+      <p id="42">
+        <s id="42:1" lang="es">Párrafo 12: Investigar todos los casos pendientes de crímenes de guerra, crímenes de lesa humanidad y delitos por motivos étnicos cometidos antes y después de 1999; enjuiciar a los autores; indemnizar a las víctimas; introducir programas eficaces de protección de testigos; y cooperar plenamente con los fiscales del Tribunal Penal Internacional para la ex Yugoslavia (artículos 2, 3, 6 y 7 del Pacto).</s>
+      </p>
+      <p id="43">
+        <s id="43:1" lang="es">Párrafo 13: Investigar efectivamente todos los casos pendientes de desapariciones y secuestros; enjuiciar a los autores; y garantizar que los familiares de las personas desaparecidas o secuestradas puedan conocer la suerte que han corrido las víctimas y sean indemnizados adecuadamente (artículos 2, 3, 6 y 7 del Pacto).</s>
+      </p>
+      <p id="44">
+        <s id="44:1" lang="es">Párrafo 18: Redoblar los esfuerzos por garantizar las condiciones de seguridad necesarias para el regreso sostenible de los desplazados, especialmente los miembros de minorías; disponer lo necesario para que esas personas recuperen sus bienes, reciban indemnización por los daños sufridos y se beneficien de planes de alquiler de las propiedades administradas provisionalmente por el Organismo de Bienes Raíces de Kosovo (artículo 12 del Pacto).</s>
+      </p>
+      <p id="45">
+        <s id="45:1" lang="es">Fecha límite de recepción de la información: 1º de enero de 2007</s>
+      </p>
+      <p id="46">
+        <s id="46:1" lang="es">Fecha en que se recibió la información</s>
+      </p>
+      <p id="47">
+        <s id="47:1" lang="es">11 de marzo de 2008: Respuesta parcial (incompleta en relación con los párrafos 13 y 18).</s>
+      </p>
+      <p id="48">
+        <s id="48:1" lang="es">7 de noviembre de 2008: Respuesta parcial (incompleta en relación con los párrafos 13 y 18).</s>
+      </p>
+      <p id="49">
+        <s id="49:1" lang="es">12 de noviembre de 2009: Se recibió información (recomendaciones en parte aplicadas, en parte no aplicadas).</s>
+      </p>
+      <p id="50">
+        <s id="50:1" lang="es">Entre abril y septiembre de 2007: Se enviaron tres recordatorios.</s>
+      </p>
+      <p id="51">
+        <s id="51:1" lang="es">10 de diciembre de 2007: El Relator Especial solicitó reunirse con el Representante Especial del Secretario General, o con una persona designada por él, durante el 92º período de sesiones.</s>
+      </p>
+      <p id="52">
+        <s id="52:1" lang="es">11 de junio de 2008: El Relator Especial solicitó reunirse con un representante de la UNMIK.</s>
+      </p>
+      <p id="53">
+        <s id="53:1" lang="es">22 de julio de 2008: Durante el 93º período de sesiones, el Relator Especial se reunió con el Sr. Roque C. Raymundo, Consejero Principal de la UNMIK para las cuestiones de derechos humanos, quien proporcionó, verbalmente y por escrito, información adicional sobre los párrafos 12, 13 y 18 y se comprometió a presentar más información sobre: a) los casos en que los responsables de las desapariciones y los secuestros hubieran sido juzgados y condenados, los familiares hubieran tenido acceso a información sobre la suerte de las víctimas y se hubieran adoptado medidas a fin de disponer de recursos suficientes para los mecanismos de indemnización a las víctimas (párr. 13); y b) las medidas que se hubieran adoptado para poner en marcha estrategias y políticas que garantizaran las condiciones de seguridad necesarias para el regreso sostenible de los repatriados, en particular de los miembros de minorías, y que garantizaran que los repatriados pertenecientes a minorías se beneficiaran de los planes especiales de alquiler que ofrecía el Organismo de Bienes Raíces de Kosovo (párr. 18).</s>
+        <s id="53:2" lang="es">Asistió también a la reunión un representante de la oficina del ACNUDH en Pristina.</s>
+      </p>
+      <p id="54">
+        <s id="54:1" lang="es">3 de junio de 2009: Se envió una carta para solicitar información adicional.</s>
+      </p>
+      <p id="55">
+        <s id="55:1" lang="es">27 de agosto de 2009: Se envió un recordatorio.</s>
+      </p>
+      <p id="56">
+        <s id="56:1" lang="es">28 de septiembre de 2010 (envío con retraso): Al tiempo que se tomaba nota del espíritu de cooperación de la UNMIK, se envió una carta en la que el Comité observaba las medidas adoptadas, pero señalaba que no se había aplicado completamente ninguna de las recomendaciones.</s>
+      </p>
+      <p id="57">
+        <s id="57:1" lang="es">88º período de sesiones (octubre de 2006)</s>
+      </p>
+      <p id="58">
+        <s id="58:1" lang="es">Estado parte: Bosnia y Herzegovina</s>
+      </p>
+      <p id="59">
+        <s id="59:1" lang="es">Informe examinado: Informe inicial (pendiente desde 2003), presentado el 24 de noviembre de 2005.</s>
+      </p>
+      <p id="60">
+        <s id="60:1" lang="es">Párrafo 8: Reabrir el debate público y las conversaciones sobre la reforma constitucional para adoptar un sistema electoral que garantice a todos los ciudadanos, independientemente de su origen étnico, el ejercicio de todos los derechos proclamados en el artículo 25 del Pacto (artículos 2, 25 y 26 del Pacto).</s>
+      </p>
+      <p id="61">
+        <s id="61:1" lang="es">Párrafo 14: Investigar todos los casos no resueltos de personas desaparecidas; adoptar las medidas necesarias para el pleno funcionamiento del Instituto para las Personas Desaparecidas, de conformidad con la sentencia del Tribunal Constitucional de 13 de agosto de 2005; adoptar las medidas necesarias para finalizar la base central de datos de personas desaparecidas y garantizar la exactitud de sus datos; consolidar el Fondo de Apoyo a los Familiares de Desaparecidos y velar por que el pago a las familias se inicie lo antes posible (artículo 2, párrafo 3, y artículos 6 y 7 del Pacto).</s>
+      </p>
+      <p id="62">
+        <s id="62:1" lang="es">Párrafo 19: Mejorar las condiciones materiales y de higiene en los centros de detención, las cárceles y los establecimientos psiquiátricos de ambas entidades; proporcionar un tratamiento adecuado a los enfermos mentales; trasladar a todos los pacientes del anexo psiquiátrico forense de la cárcel de Zenica; y velar por que el hospital psiquiátrico de Sokolac cumpla con las normas internacionales (artículos 7 y 10 del Pacto).</s>
+      </p>
+      <p id="63">
+        <s id="63:1" lang="es">Párrafo 23: Revisar el plan de reubicación del asentamiento romaní de Butmir; buscar otras soluciones para impedir la contaminación del abastecimiento de agua; y disponer lo necesario para que toda reubicación se lleve a cabo de manera no discriminatoria y conforme a las normas internacionales de derechos humanos (artículos 2, 17</s>
+      </p>
+      <p id="64">
+        <s id="64:1" lang="es">y 26 del Pacto).</s>
+      </p>
+      <p id="65">
+        <s id="65:1" lang="es">Fecha límite de recepción de la información: 1º de noviembre de 2007</s>
+      </p>
+      <p id="66">
+        <s id="66:1" lang="es">21 de diciembre de 2007: Respuesta parcial (incompleta en relación con los párrafos 8, 14, 19 y 23).</s>
+      </p>
+      <p id="67">
+        <s id="67:1" lang="es">1º de noviembre de 2008: Respuesta parcial (incompleta en relación con los párrafos 8, 14, 19 y 23).</s>
+      </p>
+      <p id="68">
+        <s id="68:1" lang="es">4 de marzo de 2009: Respuesta parcial (incompleta en relación con los párrafos 8, 14, 19 y 23).</s>
+      </p>
+      <p id="69">
+        <s id="69:1" lang="es">14 de diciembre de 2009: Se recibió un informe de seguimiento adicional (párrafo 8: aplicación iniciada pero todavía no terminada; párrafo 14: respuesta en parte bastante satisfactoria, en parte incompleta; párrafo 19: respuesta en parte bastante satisfactoria, en parte incompleta; párrafo 23: respuesta cooperativa pero incompleta).</s>
+      </p>
+      <p id="70">
+        <s id="70:1" lang="es">17 de enero de 2008: Se envió un recordatorio.</s>
+      </p>
+      <p id="71">
+        <s id="71:1" lang="es">22 de septiembre de 2008: El Relator Especial solicitó reunirse con un representante del Estado parte.</s>
+      </p>
+      <p id="72">
+        <s id="72:1" lang="es">31 de octubre de 2008: Durante el 94º período de sesiones, el Relator Especial se reunió con un representante del Estado parte, que informó de que las respuestas del Estado parte a las preguntas adicionales del Comité estaban preparadas y se presentarían tan pronto como las aprobara el Gobierno.</s>
+      </p>
+      <p id="73">
+        <s id="73:1" lang="es">29 de mayo de 2009: Se solicitó información complementaria.</s>
+      </p>
+      <p id="74">
+        <s id="74:1" lang="es">11 de diciembre de 2009: Se envió un recordatorio.</s>
+      </p>
+      <p id="75">
+        <s id="75:1" lang="es">Medidas recomendadas: Al tiempo que se toma nota del espíritu de cooperación de Bosnia y Herzegovina, debería enviarse una carta en la que se indicara que las informaciones facilitadas por el Estado parte sobre determinadas cuestiones se han considerado incompletas (fondo de apoyo a los familiares de desaparecidos: ninguna indicación sobe el momento en que vayan a adoptarse las modificaciones legislativas ni sobre el modo en que se aprovisionará el fondo, párrafo 14; situación del hospital psiquiátrico de Sokolac y el anexo psiquiátrico de la cárcel de Zenica: no se aporta ninguna información complementaria sobre el anexo de la cárcel de Zenica, párrafo 19; reinstalación de los romaníes de Butmir y derecho a una indemnización financiera: debe examinarse la necesidad de una indemnización financiera suficiente, aplicable en principio en todos los casos en que los poderes públicos procedan a una expulsión forzosa o una expropiación, párrafo 23).</s>
+        <s id="75:2" lang="es">Debería invitarse al Estado parte a responder al conjunto de las observaciones finales en su próximo informe periódico, cuya presentación está prevista para el</s>
+      </p>
+      <p id="76">
+        <s id="76:1" lang="es">1º de noviembre de 2010.</s>
+      </p>
+      <p id="77">
+        <s id="77:1" lang="es">Fecha de presentación del próximo informe: 1º de noviembre de 2010</s>
+      </p>
+      <p id="78">
+        <s id="78:1" lang="es">Estado parte: Honduras</s>
+      </p>
+      <p id="79">
+        <s id="79:1" lang="es">Informe examinado: Informe inicial (pendiente desde 1998), presentado el 21 de febrero de 2005.</s>
+      </p>
+      <p id="80">
+        <s id="80:1" lang="es">Párrafo 9: Investigar todos los casos de ejecuciones extrajudiciales de niños; enjuiciar a los responsables; indemnizar a los familiares de las víctimas; crear un mecanismo independiente, por ejemplo un defensor del niño; capacitar a los funcionarios que se ocupan de los niños; y realizar campañas para sensibilizar a la población (artículos 6 y 24 del Pacto).</s>
+      </p>
+      <p id="81">
+        <s id="81:1" lang="es">Párrafo 10: Controlar todas las armas de las fuerzas de policía; capacitar a la policía en materia de derechos humanos, de conformidad con los Principios Básicos de las Naciones Unidas sobre el Empleo de la Fuerza y de Armas de Fuego por los Funcionarios Encargados de Hacer Cumplir la Ley; investigar las acusaciones de uso excesivo de la fuerza; enjuiciar a los responsables; e indemnizar a las víctimas o a sus familiares (artículos 6 y 7 del Pacto).</s>
+      </p>
+      <p id="82">
+        <s id="82:1" lang="es">Párrafo 11: Determinar las causas del aumento del número de niños de la calle; instituir programas destinados a combatir esas causas; ofrecer refugio a los niños de la calle; identificar y proporcionar asistencia a las víctimas de abusos sexuales, y concederles reparación; y enjuiciar a los responsables (artículos 7, 8 y 24 del Pacto).</s>
+      </p>
+      <p id="83">
+        <s id="83:1" lang="es">Párrafo 19: Ofrecer todas las garantías para que los miembros de las comunidades indígenas puedan ejercer plenamente sus derechos culturales y solucionar los problemas de las tierras indígenas ancestrales (artículo 27 del Pacto).</s>
+      </p>
+      <p id="84">
+        <s id="84:1" lang="es">7 de enero de 2007: Se recibió información sobre el párrafo 18 (artículo 16 del Pacto).</s>
+        <s id="84:2" lang="es">El Comité no consideró prioritario ese párrafo en sus observaciones finales.</s>
+      </p>
+      <p id="85">
+        <s id="85:1" lang="es">15 de octubre de 2008: Respuesta parcial (incompleta en relación con los párrafos 9, 10, 11 y 19).</s>
+      </p>
+      <p id="86">
+        <s id="86:1" lang="es">22 de octubre de 2010: Se recibió información adicional sobre las investigaciones y los enjuiciamientos realizados y sobre las condenas y sanciones impuestas, párrafo 9 (respuesta incompleta); sobre las medidas tomadas para garantizar a los miembros de las comunidades indígenas el acceso a la educación y a los servicios médicos, párrafo 19 (respuesta incompleta); y sobre las medidas adoptadas para resolver el problema de las tierras ancestrales de los indígenas, párrafo 19 (respuesta incompleta).</s>
+      </p>
+      <p id="87">
+        <s id="87:1" lang="es">11 de junio de 2008: Se envió otro recordatorio.</s>
+      </p>
+      <p id="88">
+        <s id="88:1" lang="es">10 de diciembre de 2008: Se envió una solicitud de información complementaria.</s>
+      </p>
+      <p id="89">
+        <s id="89:1" lang="es">6 de mayo de 2009: Se envió un recordatorio.</s>
+      </p>
+      <p id="90">
+        <s id="90:1" lang="es">27 de agosto de 2009: Se envió otro recordatorio.</s>
+      </p>
+      <p id="91">
+        <s id="91:1" lang="es">28 de septiembre de 2010 (envío con retraso): El Relator Especial solicitó reunirse con un representante del Estado parte.</s>
+      </p>
+      <p id="92">
+        <s id="92:1" lang="es">21 de octubre de 2010: Se celebraron consultas durante el 100º período de sesiones.</s>
+        <s id="92:2" lang="es">La delegación se comprometió a transmitir al Gobierno la solicitud del Relator Especial y del Comité.</s>
+      </p>
+      <p id="93">
+        <s id="93:1" lang="es">Medidas recomendadas: En vista de la información adicional presentada por el Estado parte el 22 de octubre de 2010, debería pedírsele que respondiera a todas las observaciones finales en su próximo informe periódico, que debe presentarse el 31 de octubre de 2010.</s>
+      </p>
+      <p id="94">
+        <s id="94:1" lang="es">Fecha de presentación del próximo informe: 31 de octubre de 2010</s>
+      </p>
+      <p id="95">
+        <s id="95:1" lang="es">Estado parte: Ucrania</s>
+      </p>
+      <p id="96">
+        <s id="96:1" lang="es">Informe examinado: Sexto informe periódico, presentado (puntualmente) el 1º de noviembre de 2005.</s>
+      </p>
+      <p id="97">
+        <s id="97:1" lang="es">Párrafo 7: Garantizar la seguridad y el trato adecuado de todas las personas detenidas por la policía; adoptar medidas para garantizar la protección contra la tortura y los malos tratos; establecer un mecanismo independiente de quejas contra la policía; utilizar cámaras de videovigilancia en los interrogatorios de sospechosos; y llevar a cabo una inspección independiente de los centros de detención (artículo 6 del Pacto).</s>
+      </p>
+      <p id="98">
+        <s id="98:1" lang="es">Párrafo 11: Garantizar el derecho de los detenidos a ser tratados humanamente y con respeto de su dignidad; reducir el hacinamiento en las cárceles con medidas como el recurso a otro tipo de penas; proveer servicios sanitarios en los centros; y proporcionar atención médica y una alimentación adecuada (artículo 10 del Pacto).</s>
+      </p>
+      <p id="99">
+        <s id="99:1" lang="es">Párrafo 14: Proteger la libertad de expresión; investigar los ataques contra los periodistas y enjuiciar a los responsables (artículos 6 y 19 del Pacto).</s>
+      </p>
+      <p id="100">
+        <s id="100:1" lang="es">Párrafo 16: Proteger a todos los miembros de las minorías étnicas, religiosas o lingüísticas contra la violencia y la discriminación y establecer soluciones eficaces para estos problemas (artículos 20 y 26 del Pacto).</s>
+      </p>
+      <p id="101">
+        <s id="101:1" lang="es">Fecha límite de recepción de la información: 1º de diciembre de 2007</s>
+      </p>
+      <p id="102">
+        <s id="102:1" lang="es">19 de mayo de 2008: Respuesta parcial (incompleta en relación con los párrafos 7, 11, 14 y 16).</s>
+      </p>
+      <p id="103">
+        <s id="103:1" lang="es">28 de agosto de 2009: Se recibió un informe de seguimiento adicional (párrafo 7: recomendaciones en parte no aplicadas, respuestas en parte incompletas; párrafo 11: respuestas en parte satisfactorias, en parte incompletas; párrafo 14: respuestas incompletas; párrafo 16: respuestas en parte satisfactorias, en parte incompletas).</s>
+      </p>
+      <p id="104">
+        <s id="104:1" lang="es">16 de diciembre de 2008: Se solicitó información complementaria.</s>
+      </p>
+      <p id="105">
+        <s id="105:1" lang="es">26 de abril de 2010: Se envió una carta en la que se indicaba que el procedimiento había concluido en lo relativo a las cuestiones respecto de las cuales el Estado parte había facilitado información que se había considerado en su conjunto satisfactoria: la provisión de instalaciones higiénicas y alimentación suficiente en los centros de detención (párr. 11) y las reclamaciones de restitución de propiedades de musulmanes (párr. 16).</s>
+        <s id="105:2" lang="es">La carta incluía una solicitud de información adicional sobre determinadas cuestiones: la investigación de muertes durante la detención (párr. 7); la reducción del hacinamiento en las cárceles (párr. 11); el uso de penas alternativas para reducir la población carcelaria (párr. 11); la protección de la libertad de opinión y de expresión (párr. 14); y la disponibilidad de recursos para las víctimas de actos de discriminación o violencia por motivos de identidad étnica, lingüística o religiosa (párr. 14).</s>
+        <s id="105:3" lang="es">Por último, se subrayaban en la carta los elementos respecto de los cuales el Comité consideraba que sus recomendaciones no se habían aplicado: la creación de un mecanismo independiente para investigar las denuncias contra la policía (párr. 7) y la introducción de un sistema de grabación en video de los interrogatorios de los sospechosos como medida de protección (párr. 7).</s>
+      </p>
+      <p id="106">
+        <s id="106:1" lang="es">28 de septiembre de 2010 (envío con retraso): Se envió un recordatorio.</s>
+      </p>
+      <p id="107">
+        <s id="107:1" lang="es">Medidas recomendadas: No se formularán recomendaciones a la espera de respuesta al recordatorio enviado con retraso.</s>
+      </p>
+      <p id="108">
+        <s id="108:1" lang="es">Fecha de presentación del próximo informe: 2 de noviembre de 2011</s>
+      </p>
+      <p id="109">
+        <s id="109:1" lang="es">89º período de sesiones (marzo de 2007)</s>
+      </p>
+      <p id="110">
+        <s id="110:1" lang="es">Estado parte: Barbados</s>
+      </p>
+      <p id="111">
+        <s id="111:1" lang="es">Informe examinado: Tercer informe periódico (pendiente desde 1991), presentado el 18 de julio de 2006.</s>
+      </p>
+      <p id="112">
+        <s id="112:1" lang="es">Párrafo 9: Considerar la posibilidad de abolir la pena capital y adherirse al Segundo Protocolo Facultativo del Pacto Internacional de Derechos Civiles y Políticos, destinado a abolir la pena de muerte; modificar las leyes pertinentes para eliminar la obligatoriedad de la aplicación de la pena capital y hacerlas compatibles con el Pacto (artículo 6 del Pacto).</s>
+      </p>
+      <p id="113">
+        <s id="113:1" lang="es">Párrafo 12: Suprimir el castigo corporal como sanción legítima y disuadir de su utilización en las escuelas y adoptar medidas para lograr su abolición (artículos 7 y 24 del Pacto).</s>
+      </p>
+      <p id="114">
+        <s id="114:1" lang="es">Párrafo 13: Despenalizar las relaciones sexuales entre adultos del mismo sexo y proteger a los homosexuales del acoso, la discriminación y la violencia (artículo 26 del Pacto).</s>
+      </p>
+      <p id="115">
+        <s id="115:1" lang="es">Fecha límite de recepción de la información: 1º de abril de 2008</s>
+      </p>
+      <p id="116">
+        <s id="116:1" lang="es">31 de marzo de 2009: Respuesta parcial (párrafo 9: en parte, respuesta bastante satisfactoria, recomendaciones en parte no aplicadas; párrafo 12: recomendaciones no aplicadas; párrafo 13: recomendaciones no aplicadas y respuestas incompletas).</s>
+      </p>
+      <p id="117">
+        <s id="117:1" lang="es">11 de junio de 2008: Se envió un recordatorio.</s>
+      </p>
+      <p id="118">
+        <s id="118:1" lang="es">22 de septiembre de 2008: Se envió otro recordatorio.</s>
+      </p>
+      <p id="119">
+        <s id="119:1" lang="es">31 de marzo de 2009: Durante el 95º período de sesiones, el Relator Especial se reunió con el Embajador del Estado parte, quien le suministró la respuesta a las preguntas sobre el seguimiento de las observaciones finales.</s>
+      </p>
+      <p id="120">
+        <s id="120:1" lang="es">29 de julio de 2009 (envío con retraso): Se envió una carta para solicitar información complementaria e indicar que el procedimiento de seguimiento se daba por concluido respecto de determinadas cuestiones para las que no se habían aplicado las recomendaciones.</s>
+        <s id="120:2" lang="es">También se invitaba al Estado parte a que informara sobre esas cuestiones en su siguiente informe periódico.</s>
+      </p>
+      <p id="121">
+        <s id="121:1" lang="es">23 de abril de 2010: Se envió un recordatorio.</s>
+      </p>
+      <p id="122">
+        <s id="122:1" lang="es">Fecha de presentación del próximo informe: 29 de marzo de 2011</s>
+      </p>
+      <p id="123">
+        <s id="123:1" lang="es">Estado parte: Chile</s>
+      </p>
+      <p id="124">
+        <s id="124:1" lang="es">Informe examinado: Quinto informe periódico (pendiente desde 2002), presentado el 8 de febrero de 2006.</s>
+      </p>
+      <p id="125">
+        <s id="125:1" lang="es">Párrafo 9: Disponer lo necesario para castigar las violaciones graves de los derechos humanos que hayan sido cometidas bajo la dictadura; garantizar el enjuiciamiento efectivo de los presuntos responsables de esos hechos; examinar si es apropiado que las personas condenadas por tales actos ejerzan funciones públicas; y hacer pública toda la documentación recopilada por la Comisión Nacional sobre Prisión Política y Tortura susceptible de contribuir a la identificación de los responsables de ejecuciones extrajudiciales, desapariciones forzadas y torturas (artículos 2, 6 y 7 del Pacto).</s>
+      </p>
+      <p id="126">
+        <s id="126:1" lang="es">Párrafo 19: a) Velar por que las negociaciones con las comunidades indígenas den lugar a una solución que respete sus derechos sobre las tierras y agilizar los trámites con el fin de reconocer esas tierras ancestrales; b) modificar la Ley Nº 18314 ajustándola al artículo 27 del Pacto y revisar toda disposición jurídica sectorial que pueda atentar contra los derechos consagrados en el Pacto; y c) consultar con las comunidades indígenas antes de conceder licencias para la explotación económica de las tierras en litigio; y garantizar que esa explotación no atente contra los derechos reconocidos en el Pacto (artículos 1 y 27 del Pacto).</s>
+      </p>
+      <p id="127">
+        <s id="127:1" lang="es">21 y 31 de octubre de 2008: Respuesta parcial (incompleta en relación con los párrafos 9 y 19).</s>
+      </p>
+      <p id="128">
+        <s id="128:1" lang="es">28 de mayo de 2010: Se recibió un informe de seguimiento adicional (incompleto en relación con algunas cuestiones de los párrafos 9 y 19).</s>
+      </p>
+      <p id="129">
+        <s id="129:1" lang="es">22 de junio de 2009: El Relator Especial solicitó reunirse con un representante del Estado parte.</s>
+      </p>
+      <p id="130">
+        <s id="130:1" lang="es">28 de julio de 2009: El Relator Especial se reunió con representantes del Estado parte para examinar con ellos determinadas cuestiones en relación con los párrafos 9 y 19.</s>
+        <s id="130:2" lang="es">El Embajador indicó al Relator Especial que las respuestas del Estado parte a la solicitud de información adicional formulada por el Comité a efectos de seguimiento se estaban preparando y se enviarían tan pronto como fuera posible.</s>
+      </p>
+      <p id="131">
+        <s id="131:1" lang="es">23 de abril de 2010: Se envió otro recordatorio.</s>
+      </p>
+      <p id="132">
+        <s id="132:1" lang="es">Medidas recomendadas: Al tiempo que se toma nota del espíritu de cooperación del Estado parte, debería enviarse una carta en la que el Comité solicitara información complementaria: información sobre las medidas adoptadas para examinar la aptitud para ocupar funciones públicas de las personas que hayan sido condenadas por violación de los derechos humanos y hayan cumplido condena (párr. 9); y publicación de toda la documentación reunida por la Comisión Nacional de Verdad y Reconciliación y la Comisión Nacional sobre Prisión Política y Tortura que pueda contribuir a la identificación de los responsables de ejecuciones extrajudiciales (párr. 9).</s>
+        <s id="132:2" lang="es">También debería indicarse en la carta que la aplicación de las recomendaciones se considera incompleta en relación con: la prescripción de las violaciones graves de los derechos humanos (párr. 9); las medidas adoptadas para respetar y reconocer los derechos de las comunidades autóctonas sobre sus tierras (párr. 19); y la aplicación de leyes contra el terrorismo (Ley Nº 18314) en lugar del Código Penal (párr. 19).</s>
+      </p>
+      <p id="133">
+        <s id="133:1" lang="es">Fecha de presentación del próximo informe: 27 de marzo de 2012</s>
+      </p>
+      <p id="134">
+        <s id="134:1" lang="es">Estado parte: Madagascar</s>
+      </p>
+      <p id="135">
+        <s id="135:1" lang="es">Informe examinado: Tercer informe periódico (pendiente desde 1992), presentado el 24 de mayo de 2005.</s>
+      </p>
+      <p id="136">
+        <s id="136:1" lang="es">Párrafo 7: Garantizar la reanudación de los trabajos de la Comisión Nacional de Derechos Humanos conforme a los Principios de París proporcionando a la Comisión los medios necesarios para desempeñar sus funciones de forma eficaz, cabal y regular (artículo 2 del Pacto).</s>
+      </p>
+      <p id="137">
+        <s id="137:1" lang="es">Párrafo 24: Asegurar el buen funcionamiento de las instituciones judiciales, especialmente dotándolas de recursos suficientes, y poner inmediatamente en libertad a los detenidos cuyos expedientes hayan desaparecido (artículos 9 y 14 del Pacto).</s>
+      </p>
+      <p id="138">
+        <s id="138:1" lang="es">Párrafo 25: Velar por que las causas incoadas se ventilen ante un tribunal sin demoras excesivas (artículos 9 y 14 del Pacto).</s>
+      </p>
+      <p id="139">
+        <s id="139:1" lang="es">3 de marzo de 2009: Respuesta parcial (incompleta en relación con los párrafos 7, 24 y 25).</s>
+      </p>
+      <p id="140">
+        <s id="140:1" lang="es">3 de septiembre de 2009: Se envió un recordatorio.</s>
+      </p>
+      <p id="141">
+        <s id="141:1" lang="es">Fecha de presentación del próximo informe: 23 de marzo de 2011</s>
+      </p>
+      <p id="142">
+        <s id="142:1" lang="es">90º período de sesiones (julio de 2007)</s>
+      </p>
+      <p id="143">
+        <s id="143:1" lang="es">Estado parte: República Checa</s>
+      </p>
+      <p id="144">
+        <s id="144:1" lang="es">Informe examinado: Segundo informe periódico (pendiente desde el 1º de agosto de 2005), presentado el 24 de mayo de 2006.</s>
+      </p>
+      <p id="145">
+        <s id="145:1" lang="es">Párrafo 9: Adoptar medidas para erradicar todas las formas de violencia policial, en particular:</s>
+      </p>
+      <p id="146">
+        <s id="146:1" lang="es">a) Establecer un mecanismo encargado de investigar las denuncias relativas a la conducta de las fuerzas del orden;</s>
+      </p>
+      <p id="147">
+        <s id="147:1" lang="es">b) Iniciar actuaciones disciplinarias y penales contra los presuntos autores e indemnizar a las víctimas;</s>
+      </p>
+      <p id="148">
+        <s id="148:1" lang="es">c) Capacitar a los agentes de policía en lo referente a la naturaleza delictiva del uso excesivo de la fuerza (artículos 2, 7, 9 y 26 del Pacto).</s>
+      </p>
+      <p id="149">
+        <s id="149:1" lang="es">Párrafo 14: Adoptar medidas para evitar internamientos injustificados en establecimientos psiquiátricos; garantizar a todas las personas que no tengan plena capacidad jurídica una tutela que represente y defienda sus deseos y sus intereses; y proceder a un control judicial efectivo de la legalidad de la admisión y el mantenimiento de toda persona en establecimientos de atención médica (artículos 9 y 16 del Pacto).</s>
+      </p>
+      <p id="150">
+        <s id="150:1" lang="es">Párrafo 16: Adoptar medidas para luchar contra la discriminación con respecto a los romaníes (artículos 2, 26 y 27 del Pacto).</s>
+      </p>
+      <p id="151">
+        <s id="151:1" lang="es">Fecha límite de recepción de la información: 1º de agosto de 2008</s>
+      </p>
+      <p id="152">
+        <s id="152:1" lang="es">18 de agosto de 2008: Respuesta parcial (incompleta en relación con los párrafos 9, 14 y 16).</s>
+      </p>
+      <p id="153">
+        <s id="153:1" lang="es">22 de marzo de 2010 y 1º de julio de 2010: Se recibió un informe de seguimiento adicional.</s>
+      </p>
+      <p id="154">
+        <s id="154:1" lang="es">10 de diciembre de 2008: Se solicitó información complementaria.</s>
+      </p>
+      <p id="155">
+        <s id="155:1" lang="es">6 de octubre de 2009: Se envió otro recordatorio.</s>
+      </p>
+      <p id="156">
+        <s id="156:1" lang="es">Febrero de 2010: El Relator Especial solicitó reunirse con un representante del Estado parte.</s>
+      </p>
+      <p id="157">
+        <s id="157:1" lang="es">Medidas recomendadas: Las respuestas adicionales del Estado parte deberían examinarse en el próximo período de sesiones.</s>
+      </p>
+      <p id="158">
+        <s id="158:1" lang="es">Fecha de presentación del próximo informe: 1º de agosto de 2011</s>
+      </p>
+      <p id="159">
+        <s id="159:1" lang="es">Estado parte: Sudán</s>
+      </p>
+      <p id="160">
+        <s id="160:1" lang="es">Informe examinado: Tercer informe periódico (pendiente desde el 7 de noviembre de 2001), presentado el 28 de junio de 2006.</s>
+      </p>
+      <p id="161">
+        <s id="161:1" lang="es">Párrafo 9:</s>
+      </p>
+      <p id="162">
+        <s id="162:1" lang="es">a) Adoptar medidas para que los agentes del Estado y las milicias bajo el control del Estado pongan fin inmediatamente a las violaciones de los derechos humanos;</s>
+      </p>
+      <p id="163">
+        <s id="163:1" lang="es">b) Velar por que los órganos y agentes del Estado garanticen debidamente la protección de las personas víctimas de violaciones graves cometidas por terceros;</s>
+      </p>
+      <p id="164">
+        <s id="164:1" lang="es">c) Adoptar medidas, en particular de cooperación con la Corte Penal Internacional, para que se investiguen todas las violaciones de los derechos humanos y se enjuicie, a nivel nacional o internacional, a los responsables de esas violaciones, incluidos los agentes del Estado y los miembros de las milicias;</s>
+      </p>
+      <p id="165">
+        <s id="165:1" lang="es">d) Velar por que no se preste ningún apoyo financiero o material a las milicias que participen en operaciones de limpieza étnica o ataquen deliberadamente a la población civil;</s>
+      </p>
+      <p id="166">
+        <s id="166:1" lang="es">e) Eliminar toda inmunidad en las nuevas disposiciones legislativas sobre la policía, las fuerzas armadas y las fuerzas de seguridad nacionales;</s>
+      </p>
+      <p id="167">
+        <s id="167:1" lang="es">f) Velar por que no se conceda amnistía en caso de que se hayan cometido delitos especialmente graves;</s>
+      </p>
+      <p id="168">
+        <s id="168:1" lang="es">g) Garantizar una reparación adecuada a las víctimas de violaciones graves de los derechos humanos (artículos 2, 3, 6, 7 y 12 del Pacto).</s>
+      </p>
+      <p id="169">
+        <s id="169:1" lang="es">Párrafo 11:</s>
+      </p>
+      <p id="170">
+        <s id="170:1" lang="es">a) Garantizar recursos efectivos, en particular una reparación, a las víctimas de violaciones graves de los derechos humanos;</s>
+      </p>
+      <p id="171">
+        <s id="171:1" lang="es">b) Proporcionar los recursos humanos y financieros necesarios para el eficiente funcionamiento del sistema judicial, en particular los tribunales y cortes especiales creados para juzgar los crímenes cometidos en el Sudán (artículos 2, 6 y 7 del Pacto).</s>
+      </p>
+      <p id="172">
+        <s id="172:1" lang="es">Párrafo 17: Poner fin a toda forma de reclutamiento y utilización de niños soldados; hacer que las comisiones de desarme, desmovilización y reintegración dispongan de los recursos humanos y financieros necesarios; tomar medidas para acelerar la creación de un registro civil y lograr que se inscriban todos los nacimientos en todo el país (artículos 8 y 24 del Pacto).</s>
+      </p>
+      <p id="173">
+        <s id="173:1" lang="es">19 de octubre de 2009: Se recibió un informe de seguimiento (incompleto en relación con los párrafos 9, 11 y 17).</s>
+        <s id="173:2" lang="es">Sin embargo, no se recibieron los anexos, a pesar de las reiteradas solicitudes de la secretaría.</s>
+      </p>
+      <p id="174">
+        <s id="174:1" lang="es">19 de diciembre de 2008: Se envió otro recordatorio.</s>
+      </p>
+      <p id="175">
+        <s id="175:1" lang="es">7 de octubre de 2009: El Relator Especial solicitó reunirse con un representante del Sudán.</s>
+      </p>
+      <p id="176">
+        <s id="176:1" lang="es">26 de febrero de 2010: Se envió una nota verbal para solicitar los anexos.</s>
+      </p>
+      <p id="177">
+        <s id="177:1" lang="es">Medidas recomendadas: Al tiempo que se toma nota del espíritu de cooperación del Estado parte, debería enviarse una carta en la que se indicara que la información facilitada por el Estado parte sobre los párrafos 9, 11 y 17 se ha considerado incompleta.</s>
+        <s id="177:2" lang="es">También debería agradecerse al Estado parte la respuesta dada a los párrafos 7, 8, 10, 12, 15, 16, 18, 20, 23, 24, 27 y 28, que no era obligatoria porque las preguntas se referían al próximo informe.</s>
+        <s id="177:3" lang="es">Debería invitarse al Estado parte a responder al conjunto de las observaciones finales en su próximo informe periódico, cuya presentación estaba prevista para el 26 de julio de 2010.</s>
+      </p>
+      <p id="178">
+        <s id="178:1" lang="es">Fecha de presentación del próximo informe: 26 de julio de 2010</s>
+      </p>
+      <p id="179">
+        <s id="179:1" lang="es">Estado parte: Zambia</s>
+      </p>
+      <p id="180">
+        <s id="180:1" lang="es">Informe examinado: Tercer informe periódico (pendiente desde el 30 de junio de 1998), presentado el 16 de diciembre de 2005.</s>
+      </p>
+      <p id="181">
+        <s id="181:1" lang="es">Párrafo 10: Adoptar medidas para aumentar los recursos y los poderes de la Comisión de Derechos Humanos de Zambia (artículo 2 del Pacto).</s>
+      </p>
+      <p id="182">
+        <s id="182:1" lang="es">Párrafo 12: Adoptar medidas para poner el artículo 23 de la Constitución en conformidad con los artículos 2, 3 y 26 del Pacto.</s>
+      </p>
+      <p id="183">
+        <s id="183:1" lang="es">Párrafo 13: Adoptar medidas para poner el derecho consuetudinario y las prácticas consuetudinarias en conformidad con el Pacto, particularmente en lo que concierne a los derechos de la mujer (artículos 2 y 3 del Pacto).</s>
+      </p>
+      <p id="184">
+        <s id="184:1" lang="es">Párrafo 23: Estudiar medidas sustitutivas del encarcelamiento; hacer que los juicios se celebren en un plazo razonable; y tomar medidas para mejorar las condiciones de los establecimientos penitenciarios y reducir el hacinamiento en las cárceles y los centros de detención (artículos 7, 9 y 10 del Pacto).</s>
+      </p>
+      <p id="185">
+        <s id="185:1" lang="es">9 de diciembre de 2009: Se recibió un informe de seguimiento (párrafo 10: no hubo respuesta; párrafos 12, 13 y 23: respuestas incompletas).</s>
+      </p>
+      <p id="186">
+        <s id="186:1" lang="es">Entre septiembre de 2008 y mayo de 2009: Se enviaron tres recordatorios.</s>
+      </p>
+      <p id="187">
+        <s id="187:1" lang="es">7 de octubre de 2009: El Relator Especial solicitó reunirse con un representante de Zambia.</s>
+      </p>
+      <p id="188">
+        <s id="188:1" lang="es">28 de octubre de 2009: El Relator Especial se reunió con una representante del Estado parte, con quien examinó determinadas cuestiones en relación con la información que se esperaba recibir.</s>
+        <s id="188:2" lang="es">La representante del Estado parte indicó al Relator Especial que las respuestas del Estado parte a la solicitud de información formulada por el Comité a efectos de seguimiento se estaban preparando y se enviarían tan pronto como fuera posible (noviembre de 2009).</s>
+      </p>
+      <p id="189">
+        <s id="189:1" lang="es">26 de abril de 2010: Se envió una carta para solicitar información complementaria y más concreta sobre determinadas cuestiones.</s>
+      </p>
+      <p id="190">
+        <s id="190:1" lang="es">Fecha de presentación del próximo informe: 20 de julio de 2011</s>
+      </p>
+      <p id="191">
+        <s id="191:1" lang="es">91º período de sesiones (octubre de 2007)</s>
+      </p>
+      <p id="192">
+        <s id="192:1" lang="es">Estado parte: Georgia</s>
+      </p>
+      <p id="193">
+        <s id="193:1" lang="es">Informe examinado: Tercer informe periódico (pendiente desde el 1º de abril de 2006), presentado el 1º de agosto de 2006.</s>
+      </p>
+      <p id="194">
+        <s id="194:1" lang="es">Párrafo 8: Recopilar datos estadísticos sobre los casos de violencia en el hogar; investigar las denuncias de violencia en el hogar e incoar procesos penales contra sus autores; y proteger a las víctimas (artículos 3, 23 y 26 del Pacto).</s>
+      </p>
+      <p id="195">
+        <s id="195:1" lang="es">Párrafo 9: Investigar de forma diligente e imparcial las denuncias de uso excesivo de la fuerza por las fuerzas del orden; iniciar investigaciones penales contra los autores; capacitar a las fuerzas del orden sobre esta cuestión; e indemnizar a las víctimas (artículo 6 del Pacto).</s>
+      </p>
+      <p id="196">
+        <s id="196:1" lang="es">Párrafo 11: Adoptar medidas para mejorar las condiciones de las personas privadas de libertad, en particular para poner fin al hacinamiento en las cárceles (artículo 10 del Pacto).</s>
+      </p>
+      <p id="197">
+        <s id="197:1" lang="es">Fecha límite de recepción de la información: 1º de noviembre de 2008</s>
+      </p>
+      <p id="198">
+        <s id="198:1" lang="es">13 de enero de 2009: Respuesta parcial (incompleta en relación con los párrafos 8, 9 y 11).</s>
+      </p>
+      <p id="199">
+        <s id="199:1" lang="es">28 de octubre de 2009: Se recibió información adicional (párrafo 8: respuestas en parte satisfactorias, en parte incompletas; párrafo 9: respuestas en parte satisfactorias, en parte incompletas; párrafo 11: respuestas en parte satisfactorias, en parte incompletas).</s>
+      </p>
+      <p id="200">
+        <s id="200:1" lang="es">16 de diciembre de 2008: Se envió un recordatorio.</s>
+      </p>
+      <p id="201">
+        <s id="201:1" lang="es">28 de septiembre de 2010 (envío con retraso): Al tiempo que se toma nota del espíritu de cooperación del Estado parte, debería enviarse una carta para solicitar información complementaria y más concreta sobre varias cuestiones: la investigación de las denuncias de violencia doméstica y de otros actos de violencia contra la mujer (párr. 8); la protección de las víctimas de la violencia doméstica, en particular mediante la creación de un número suficiente de centros de acogida (párr. 8); la realización de investigaciones imparciales de las denuncias de uso excesivo de la fuerza por los agentes del orden (párr. 9); la iniciación de actuaciones penales contra los autores de esos actos (párr. 9); y la adopción de medidas para poner fin al hacinamiento en las cárceles (párr. 11).</s>
+      </p>
+      <p id="202">
+        <s id="202:1" lang="es">Medidas recomendadas: No se formularán recomendaciones a la espera de respuesta a la carta enviada con retraso.</s>
+      </p>
+      <p id="203">
+        <s id="203:1" lang="es">Fecha de presentación del próximo informe: 1º de noviembre de 2011</s>
+      </p>
+      <p id="204">
+        <s id="204:1" lang="es">Estado parte: Jamahiriya Árabe Libia</s>
+      </p>
+      <p id="205">
+        <s id="205:1" lang="es">Informe examinado: Cuarto informe periódico (pendiente desde el 1º de octubre de 2002), presentado el 6 de diciembre de 2005.</s>
+      </p>
+      <p id="206">
+        <s id="206:1" lang="es">Párrafo 10: Adoptar disposiciones legislativas y de otro tipo para combatir la violencia contra la mujer (artículos 3, 7 y 26 del Pacto).</s>
+      </p>
+      <p id="207">
+        <s id="207:1" lang="es">Párrafo 21: Aprobar el nuevo Código Penal en un plazo razonable (artículo 14 del Pacto).</s>
+      </p>
+      <p id="208">
+        <s id="208:1" lang="es">Párrafo 23: Revisar las disposiciones legislativas, en particular la Ley de publicaciones de 1972, que limiten el derecho a la libertad de opinión y de expresión (artículos 18, 19, 21, 22 y 25 del Pacto).</s>
+      </p>
+      <p id="209">
+        <s id="209:1" lang="es">Fecha límite de recepción de la información: 30 de octubre de 2008</s>
+      </p>
+      <p id="210">
+        <s id="210:1" lang="es">24 de julio de 2009: Respuesta parcial (párrafo 10: recomendación en parte no aplicada, respuesta en parte incompleta; párrafo 21: recomendación en parte no aplicada, respuesta en parte incompleta [modificaciones del proyecto de código penal]; párrafo 23: recomendación en parte no aplicada, respuesta en parte incompleta [conformidad de los proyectos de ley con el Pacto]).</s>
+      </p>
+      <p id="211">
+        <s id="211:1" lang="es">9 de junio de 2009: Se envió un recordatorio.</s>
+      </p>
+      <p id="212">
+        <s id="212:1" lang="es">4 de enero de 2010: Se solicitó información complementaria.</s>
+      </p>
+      <p id="213">
+        <s id="213:1" lang="es">23 de abril de 2010: Se envió un recordatorio y se solicitó una reunión con un representante del Estado parte.</s>
+      </p>
+      <p id="214">
+        <s id="214:1" lang="es">28 de septiembre de 2010: El Relator Especial solicitó reunirse con un representante del Estado parte.</s>
+      </p>
+      <p id="215">
+        <s id="215:1" lang="es">12 de octubre de 2010: Se celebraron consultas durante el 100º período de sesiones.</s>
+        <s id="215:2" lang="es">La delegación se comprometió a transmitir al Gobierno la solicitud del Relator Especial y del Comité.</s>
+        <s id="215:3" lang="es">Esto se confirmó mediante carta de fecha 18 de octubre de 2010.</s>
+      </p>
+      <p id="216">
+        <s id="216:1" lang="es">Medidas recomendadas: Si no se recibe información se debería invitar al Estado parte a que responda a todas las observaciones finales en su próximo informe periódico, que debe presentarse el 30 de octubre de 2010.</s>
+      </p>
+      <p id="217">
+        <s id="217:1" lang="es">Fecha de presentación del próximo informe: 30 de octubre de 2010</s>
+      </p>
+      <p id="218">
+        <s id="218:1" lang="es">Estado parte: Argelia</s>
+      </p>
+      <p id="219">
+        <s id="219:1" lang="es">Informe examinado: Tercer informe periódico (pendiente desde el 1º de junio de 2000), presentado el 22 de septiembre de 2006.</s>
+      </p>
+      <p id="220">
+        <s id="220:1" lang="es">Párrafo 11: Asegurarse de que la administración penitenciaria civil y la fiscalía controlen todos los lugares de detención; crear un registro nacional de centros de detención y de personas detenidas; y disponer que un organismo nacional independiente inspeccione periódicamente todos los lugares de privación de libertad (artículos 2 y 9 del Pacto).</s>
+      </p>
+      <p id="221">
+        <s id="221:1" lang="es">Párrafo 12: Garantizar que las víctimas de desapariciones forzadas y/o sus familiares tengan un recurso efectivo, incluida una reparación; disponer lo necesario para que las personas sometidas a detención secreta sean presentadas sin demora ante un juez; investigar todos los casos de desapariciones, informar de los resultados de esas investigaciones a los familiares de las víctimas y publicar el informe final de la Comisión Nacional ad hoc sobre Desapariciones (artículos 2, 6, 7, 9, 10 y 16 del Pacto).</s>
+      </p>
+      <p id="222">
+        <s id="222:1" lang="es">Párrafo 15: Velar por que un órgano independiente investigue todas las denuncias de tortura y de tratos crueles y por que se castigue a los autores y mejorar la formación de los funcionarios públicos sobre los derechos de las personas detenidas y encarceladas (artículos 2, 6 y 7 del Pacto).</s>
+      </p>
+      <p id="223">
+        <s id="223:1" lang="es">7 de noviembre de 2007: En un memorando dirigido al Relator Especial (CCPR/C/DZA/CO/3/Add.1), el Estado parte expresó su posición respecto de las observaciones finales y facilitó respuestas parciales en relación con los párrafos 11, 12 y 15.</s>
+      </p>
+      <p id="224">
+        <s id="224:1" lang="es">14 de enero y 12 de octubre de 2009: Carta dirigida al Relator Especial (el Estado parte reiteró la postura que había expresado en el memorando de 7 de noviembre de 2007 y pidió una vez más la publicación de su memorando [CCPR/C/DZA/CO/3/Add.1] como anexo del informe anual del Comité).</s>
+      </p>
+      <p id="225">
+        <s id="225:1" lang="es">27 de julio de 2010: Comunicación dirigida al Relator Especial en la que se le informaba de la disponibilidad de los representantes del Estado parte para reunirse con él durante el 99º período de sesiones del Comité.</s>
+      </p>
+      <p id="226">
+        <s id="226:1" lang="es">11 de diciembre de 2009: Se envió un recordatorio.</s>
+        <s id="226:2" lang="es">Además, el Relator Especial solicitó reunirse con un representante del Estado parte.</s>
+      </p>
+      <p id="227">
+        <s id="227:1" lang="es">28 de julio de 2010: El Relator Especial solicitó reunirse con un representante del Estado parte durante el 100º período de sesiones del Comité.</s>
+      </p>
+      <p id="228">
+        <s id="228:1" lang="es">11 de octubre de 2010: Se celebraron consultas durante el 100º período de sesiones.</s>
+        <s id="228:2" lang="es">La delegación se comprometió a transmitir al Gobierno la solicitud del Relator Especial y del Comité.</s>
+        <s id="228:3" lang="es">No se ha recibido respuesta.</s>
+      </p>
+      <p id="229">
+        <s id="229:1" lang="es">Medidas recomendadas: Si no se recibe información se debería invitar al Estado parte a que responda a todas las observaciones finales en su próximo informe periódico, que debe presentarse el 1º de noviembre de 2011.</s>
+      </p>
+      <p id="230">
+        <s id="230:1" lang="es">Estado parte: Costa Rica</s>
+      </p>
+      <p id="231">
+        <s id="231:1" lang="es">Informe examinado: Quinto informe periódico (pendiente desde el 30 de abril de 2004), presentado el 30 de mayo de 2006.</s>
+      </p>
+      <p id="232">
+        <s id="232:1" lang="es">Párrafo 9: Adoptar medidas para poner fin al hacinamiento en los centros de detención (artículo 10 del Pacto).</s>
+      </p>
+      <p id="233">
+        <s id="233:1" lang="es">Párrafo 12: Adoptar medidas para luchar contra la trata de mujeres y niños (artículos 2 y 24 del Pacto).</s>
+      </p>
+      <p id="234">
+        <s id="234:1" lang="es">17 de marzo de 2009: Respuesta parcial (actitud cooperativa pero respuesta incompleta).</s>
+      </p>
+      <p id="235">
+        <s id="235:1" lang="es">17 de noviembre de 2009: Se recibió información (párrafo 9: respuesta incompleta; párrafo 12: información en su conjunto satisfactoria).</s>
+      </p>
+      <p id="236">
+        <s id="236:1" lang="es">30 de julio de 2009 (envío con retraso): Se solicitó información complementaria y más concreta.</s>
+      </p>
+      <p id="237">
+        <s id="237:1" lang="es">28 de septiembre de 2010 (envío con retraso): Se envió una carta en la que se indicaba que el procedimiento había concluido en lo relativo a las cuestiones respecto de las cuales el Estado parte había facilitado información que se había considerado en su conjunto satisfactoria: las medidas para luchar contra la trata de mujeres y niños y la explotación sexual (párr. 12).</s>
+        <s id="237:2" lang="es">Al tiempo que se tomaba nota del espíritu de cooperación del Estado parte, la carta incluía una solicitud de información complementaria sobre determinadas cuestiones: la mejora de las condiciones de detención y las medidas adoptadas para resolver los problemas del hacinamiento en las cárceles (párr. 10).</s>
+      </p>
+      <p id="238">
+        <s id="238:1" lang="es">Fecha de presentación del próximo informe: 1º de noviembre de 2012</s>
+      </p>
+      <p id="239">
+        <s id="239:1" lang="es">92º período de sesiones (marzo de 2008)</s>
+      </p>
+      <p id="240">
+        <s id="240:1" lang="es">Estado parte: Túnez</s>
+      </p>
+      <p id="241">
+        <s id="241:1" lang="es">Informe examinado: Quinto informe periódico (pendiente desde el 4 de febrero de 1998), presentado el 14 de diciembre de 2006.</s>
+      </p>
+      <p id="242">
+        <s id="242:1" lang="es">Párrafo 11: Garantizar que todas las denuncias de tortura y de tratos o penas crueles, inhumanos o degradantes sean investigadas por una autoridad independiente; enjuiciar y castigar a los autores, incluidos sus superiores jerárquicos; indemnizar a las víctimas; mejorar la formación de los funcionarios públicos; y presentar datos estadísticos sobre las denuncias en que se aleguen actos de tortura (artículos 2 y 7 del Pacto).</s>
+      </p>
+      <p id="243">
+        <s id="243:1" lang="es">Párrafo 14: Conmutar todas las penas de muerte y considerar la posibilidad de abolir la pena de muerte y ratificar el Segundo Protocolo Facultativo del Pacto Internacional de Derechos Civiles y Políticos, destinado a abolir la pena de muerte (artículos 2, 6 y 7 del Pacto).</s>
+      </p>
+      <p id="244">
+        <s id="244:1" lang="es">Párrafo 20: Adoptar medidas para poner fin a los actos de intimidación y hostigamiento de que son objeto las organizaciones y los defensores de los derechos humanos; investigar las denuncias de tales actos; y velar por que las restricciones impuestas al derecho de reunión y de manifestación pacíficas sean compatibles con las disposiciones del Pacto (artículos 9, 19, 21 y 22 del Pacto).</s>
+      </p>
+      <p id="245">
+        <s id="245:1" lang="es">Párrafo 21: Velar por que las asociaciones independientes de defensa de los derechos humanos puedan inscribirse y por que dispongan de un recurso eficaz y rápido contra las denegaciones de inscripción (artículos 21 y 22 del Pacto).</s>
+      </p>
+      <p id="246">
+        <s id="246:1" lang="es">Fecha límite de recepción de la información: 1º de abril de 2009</s>
+      </p>
+      <p id="247">
+        <s id="247:1" lang="es">16 de marzo de 2009: Respuesta parcial (párrafo 11: actitud cooperativa pero información incompleta; párrafo 14: recomendaciones no aplicadas; párrafos 20 y 21: acuse de recibo pero información no específica).</s>
+      </p>
+      <p id="248">
+        <s id="248:1" lang="es">2 de marzo de 2010: Se recibió un informe de seguimiento adicional.</s>
+      </p>
+      <p id="249">
+        <s id="249:1" lang="es">30 de julio de 2009 (envío con retraso): Se envió una carta para solicitar información complementaria e indicar que se daba por concluido el procedimiento de seguimiento respecto de determinadas cuestiones para las que no se habían aplicado las recomendaciones y pedir al Estado parte que informara sobre esas cuestiones en su siguiente informe periódico.</s>
+      </p>
+      <p id="250">
+        <s id="250:1" lang="es">4 de octubre de 2010 (envío con retraso): Al tiempo que se tomaba nota del espíritu de cooperación del Estado parte, se envió una carta en la que se indicaba que había concluido el procedimiento en lo relativo a las cuestiones acerca de las cuales el Estado parte había facilitado respuestas consideradas en su conjunto satisfactorias: la formación de los agentes del orden (párr. 11).</s>
+        <s id="250:2" lang="es">Además, la carta incluía una solicitud de información complementaria sobre determinadas cuestiones: las denuncias de actos de tortura presentadas y admitidas a trámite por las autoridades; el número de indemnizaciones concedidas (párr. 11); las medidas adoptadas para proteger las actividades pacíficas de las organizaciones y los defensores de los derechos humanos, y las investigaciones de las denuncias de intimidación (párr. 20); y la inscripción de asociaciones de defensa de los derechos humanos (párr. 21).</s>
+      </p>
+      <p id="251">
+        <s id="251:1" lang="es">Fecha de presentación del próximo informe: 31 de marzo de 2012.</s>
+      </p>
+      <p id="252">
+        <s id="252:1" lang="es">Estado parte: Botswana</s>
+      </p>
+      <p id="253">
+        <s id="253:1" lang="es">Informe examinado: Informe inicial (pendiente desde el 8 de diciembre de 2001), presentado el 13 de octubre de 2006.</s>
+      </p>
+      <p id="254">
+        <s id="254:1" lang="es">Párrafo 12: Informar a la población acerca de la primacía del derecho constitucional sobre el derecho consuetudinario y las prácticas consuetudinarias, así como del derecho de toda persona de solicitar la transferencia de un asunto a los tribunales de derecho constitucional y de interponer recurso ante esos tribunales contra las decisiones de otras instancias (artículos 2 y 3 del Pacto).</s>
+      </p>
+      <p id="255">
+        <s id="255:1" lang="es">Párrafo 13: Garantizar que la pena de muerte solo se imponga por los delitos más graves; encaminarse a la abolición de la pena de muerte; facilitar información detallada sobre el número de condenas por asesinato, de casos en que los tribunales hayan aceptado circunstancias atenuantes, de penas de muerte impuestas por los tribunales y de personas ejecutadas desglosada por año; y disponer lo necesario para que las familias conozcan por adelantado la fecha de ejecución de sus familiares y puedan recoger el cadáver de la persona ejecutada para enterrarlo (artículo 6 del Pacto).</s>
+      </p>
+      <p id="256">
+        <s id="256:1" lang="es">Párrafo 14: Retirar las reservas formuladas respecto de determinadas disposiciones del Pacto (artículos 7 y 12 del Pacto).</s>
+      </p>
+      <p id="257">
+        <s id="257:1" lang="es">Párrafo 17: Garantizar que los presos preventivos no permanezcan encarcelados más allá de un plazo razonable; velar por que las condiciones de internamiento se ajusten a las Reglas mínimas para el tratamiento de los reclusos; adoptar inmediatamente medidas para reducir la población carcelaria; dar preferencia a las medidas sustitutivas del encarcelamiento; y ampliar el derecho de visita de los familiares a los reclusos (artículos 7, 9 y 10 del Pacto).</s>
+      </p>
+      <p id="258">
+        <s id="258:1" lang="es">No se ha recibido información.</s>
+      </p>
+      <p id="259">
+        <s id="259:1" lang="es">8 de septiembre de 2009: Se envió un recordatorio.</s>
+      </p>
+      <p id="260">
+        <s id="260:1" lang="es">Fecha de presentación del próximo informe: 31 de marzo de 2012</s>
+      </p>
+      <p id="261">
+        <s id="261:1" lang="es">Estado parte: ex República Yugoslava de Macedonia</s>
+      </p>
+      <p id="262">
+        <s id="262:1" lang="es">Informe examinado: Segundo informe periódico (pendiente desde el 1º de junio de 2000), presentado el 12 de octubre de 2006.</s>
+      </p>
+      <p id="263">
+        <s id="263:1" lang="es">Párrafo 12: Velar por que la Ley de amnistía no se aplique a las violaciones más graves de los derechos humanos o que constituyan crímenes de lesa humanidad o crímenes de guerra; velar por que se investiguen cabalmente tales delitos y enjuiciar y castigar a los autores; ofrecer una reparación a las víctimas y a sus familias (artículos 2, 6 y 7 del Pacto).</s>
+      </p>
+      <p id="264">
+        <s id="264:1" lang="es">Párrafo 14: Considerar la posibilidad de emprender una nueva y amplia investigación sobre las acusaciones formuladas por el Sr. Khaled al-Masri, solicitando su cooperación y teniendo en cuenta todas las pruebas disponibles; ofrecerle una indemnización adecuada si se constata que se cometió una violación de sus derechos; examinar las prácticas y procedimientos destinados a impedir los actos de entrega ilícita de detenidos (artículos 2, 7, 9 y 10 del Pacto).</s>
+      </p>
+      <p id="265">
+        <s id="265:1" lang="es">Párrafo 15: Encontrar, sin más demora, soluciones duraderas para todos los desplazados internos, en consulta con ellos y de conformidad con los Principios Rectores de los Desplazamientos Internos (artículo 12 del Pacto).</s>
+      </p>
+      <p id="266">
+        <s id="266:1" lang="es">31 de agosto de 2009: Se recibió un informe de seguimiento (párrafos 12 y 15: respuestas incompletas; párrafo 14: recomendación en parte no aplicada, en parte sin respuesta).</s>
+      </p>
+      <p id="267">
+        <s id="267:1" lang="es">26 de abril de 2010: Se envió una carta en la que el Comité solicitaba información complementaria sobre determinadas cuestiones: las medidas adoptadas para que las violaciones más graves de los derechos humanos, los crímenes de lesa humanidad y los crímenes de guerra fueran investigados exhaustivamente (párr. 12); la revisión de las prácticas y los procedimientos para impedir la entrega ilícita de detenidos (párr. 14).</s>
+        <s id="267:2" lang="es">En la carta también se subrayaban los elementos respecto de los cuales el Comité consideraba que sus recomendaciones no se habían aplicado: una nueva investigación exhaustiva de las denuncias del Sr. Khaled al Masri.</s>
+        <s id="267:3" lang="es">Además, se invitaba al Estado parte a mantener al Comité informado sobre cualquier novedad en relación con los desplazados.</s>
+      </p>
+      <p id="268">
+        <s id="268:1" lang="es">Fecha de presentación del próximo informe: 1º de abril de 2012</s>
+      </p>
+      <p id="269">
+        <s id="269:1" lang="es">Estado parte: Panamá</s>
+      </p>
+      <p id="270">
+        <s id="270:1" lang="es">Informe examinado: Tercer informe periódico (pendiente desde el 31 de marzo de 1992), presentado el 9 de febrero de 2007.</s>
+      </p>
+      <p id="271">
+        <s id="271:1" lang="es">Párrafo 11: Adoptar medidas para reducir el hacinamiento en los centros de detención y garantizar que las condiciones en las cárceles cumplan los requisitos establecidos en el artículo 10 y en las Reglas mínimas para el tratamiento de los reclusos (artículo 10 del Pacto).</s>
+      </p>
+      <p id="272">
+        <s id="272:1" lang="es">Párrafo 14: Promulgar disposiciones legislativas que permitan que los refugiados disfruten de los derechos que les reconoce el Pacto y garantizar el cumplimiento de la obligación de no devolución (artículos 2, 6, 7 y 9 del Pacto).</s>
+      </p>
+      <p id="273">
+        <s id="273:1" lang="es">Párrafo 18: Aplicar la Ley contra la violencia en el hogar; crear una cantidad suficiente de albergues y proporcionar protección policial a las víctimas; enjuiciar y castigar a los autores; y proporcionar datos estadísticos sobre las causas abiertas por violencia en el hogar y los resultados de esos procesos (artículos 3 y 7 del Pacto).</s>
+      </p>
+      <p id="274">
+        <s id="274:1" lang="es">Se enviaron recordatorios los días 27 de agosto y 11 de diciembre de 2009 y 23 de abril de 2010.</s>
+      </p>
+      <p id="275">
+        <s id="275:1" lang="es">93º período de sesiones (julio de 2008)</s>
+      </p>
+      <p id="276">
+        <s id="276:1" lang="es">Estado parte: Francia</s>
+      </p>
+      <p id="277">
+        <s id="277:1" lang="es">Informe examinado: Cuarto informe periódico (pendiente desde el 31 de diciembre de 2000), presentado el 13 de febrero de 2007.</s>
+      </p>
+      <p id="278">
+        <s id="278:1" lang="es">Párrafo 12: Reunir y facilitar datos estadísticos apropiados, desglosados por origen racial, étnico y nacional, y cumplir las directrices del Comité relativas a la presentación de informes (artículos 2, 25, 26 y 27 del Pacto).</s>
+      </p>
+      <p id="279">
+        <s id="279:1" lang="es">Párrafo 18: Revisar las normas de detención aplicables a los extranjeros indocumentados y los solicitantes de asilo, incluidos los menores no acompañados; reducir el hacinamiento y mejorar las condiciones de vida en los centros de detención, especialmente en los departamentos y territorios de ultramar (artículos 7, 10 y 13 del Pacto).</s>
+      </p>
+      <p id="280">
+        <s id="280:1" lang="es">Párrafo 20: Velar por que la decisión de expulsión de extranjeros, incluidos los solicitantes de asilo, se tome con arreglo a un procedimiento imparcial que excluya efectivamente el riesgo real de que una persona pueda sufrir violaciones graves de sus derechos humanos en el país al que sea devuelta; informar correctamente a los extranjeros indocumentados y a los solicitantes de asilo de sus derechos y garantizarles esos derechos, incluido el derecho de solicitar asilo y recibir asistencia jurídica gratuita; velar por que todas las personas sujetas a una orden de expulsión dispongan de tiempo suficiente para preparar una solicitud de asilo, se beneficien de la asistencia de un intérprete y puedan ejercer su derecho de recurso con efectos suspensivos; tener en cuenta que cuanto más sistemática sea la práctica de la tortura o de tratos crueles, inhumanos o degradantes, menores serán las posibilidades de que las garantías diplomáticas permitan evitar el riesgo real de tratos incompatibles con el Pacto, por estricto que pueda ser cualquier procedimiento de seguimiento convenido; proceder con la máxima precaución en el uso de las garantías diplomáticas y adoptar procedimientos claros y transparentes que permitan la revisión por mecanismos judiciales apropiados de todas las órdenes de expulsión, así como medios efectivos para supervisar el destino de las personas expulsadas (artículos 7 y 13 del Pacto).</s>
+      </p>
+      <p id="281">
+        <s id="281:1" lang="es">Fecha límite de recepción de la información: 31 de julio de 2009</s>
+      </p>
+      <p id="282">
+        <s id="282:1" lang="es">20 de julio de 2009: Se recibió un informe de seguimiento (en su conjunto bastante satisfactorio; párrafo 18: respuesta en parte incompleta; párrafo 20: respuesta en parte incompleta).</s>
+      </p>
+      <p id="283">
+        <s id="283:1" lang="es">9 de julio de 2010: Se recibió un informe de seguimiento adicional (en su conjunto bastante satisfactorio, párrafo 12; respuesta en parte incompleta, párrafos 18 y 20).</s>
+      </p>
+      <p id="284">
+        <s id="284:1" lang="es">11 de enero de 2010: Se envió una carta para solicitar información complementaria e indicar que se daba por concluido el procedimiento de seguimiento respecto de determinadas cuestiones.</s>
+      </p>
+      <p id="285">
+        <s id="285:1" lang="es">Medidas recomendadas: Debería enviarse una carta en la que se indicara que había concluido el procedimiento respecto de las cuestiones acerca de las cuales la información facilitada por el Estado parte se había considerado en su conjunto satisfactoria (párrafo 12 de las observaciones finales).</s>
+        <s id="285:2" lang="es">La carta debería incluir también una solicitud de información complementaria sobre determinadas cuestiones (información más concreta y precisa sobre la situación penitenciaria en los territorios de ultramar, párrafo 18; la suspensión automática de los casos de expulsión &quot;por seguridad nacional&quot; y la puesta en aplicación de la ley relativa a los derechos de las personas indocumentadas mayores de edad y los solicitantes de asilo, párrafo 20).</s>
+      </p>
+      <p id="286">
+        <s id="286:1" lang="es">Fecha de presentación del próximo informe: 1º de agosto de 2012</s>
+      </p>
+      <p id="287">
+        <s id="287:1" lang="es">Estado parte: San Marino</s>
+      </p>
+      <p id="288">
+        <s id="288:1" lang="es">Informe examinado: Segundo informe periódico, presentado el 31 de octubre de 2006.</s>
+      </p>
+      <p id="289">
+        <s id="289:1" lang="es">Párrafo 6: A fin de vigilar la aplicación del Pacto, establecer un mecanismo verdaderamente independiente y plenamente conforme con los Principios relativos al estatuto de las instituciones nacionales de promoción y protección de los derechos humanos (Principios de París), aprobados por la Asamblea General en su resolución 48/134.</s>
+      </p>
+      <p id="290">
+        <s id="290:1" lang="es">Párrafo 7: Adoptar un marco jurídico global de lucha contra la discriminación, que indique expresamente todos los motivos de discriminación actualmente englobados en el concepto de &quot;estatuto personal&quot; (tales como la orientación sexual, la raza, el color, el idioma, la nacionalidad y el origen nacional o étnico).</s>
+      </p>
+      <p id="291">
+        <s id="291:1" lang="es">Fecha límite de recepción de la información: 1º de agosto de 2009</s>
+      </p>
+      <p id="292">
+        <s id="292:1" lang="es">14 de diciembre de 2010: Se envió un recordatorio.</s>
+      </p>
+      <p id="293">
+        <s id="293:1" lang="es">28 de septiembre de 2010 (envío con retraso): Se envió otro recordatorio.</s>
+      </p>
+      <p id="294">
+        <s id="294:1" lang="es">Fecha de presentación del próximo informe: 31 de julio de 2013</s>
+      </p>
+      <p id="295">
+        <s id="295:1" lang="es">Estado parte: Irlanda</s>
+      </p>
+      <p id="296">
+        <s id="296:1" lang="es">Informe examinado: Tercer informe periódico (pendiente desde el 31 de julio de 2005), presentado el 23 de febrero de 2008.</s>
+      </p>
+      <p id="297">
+        <s id="297:1" lang="es">Párrafo 11: Introducir en la legislación una definición de &quot;actos terroristas&quot; que se limite a los delitos que puedan equipararse justificadamente al terrorismo y sus graves consecuencias; vigilar la manera y la frecuencia con que se han investigado y enjuiciado actos terroristas, en particular la duración de la prisión preventiva y la posibilidad de comunicarse con un abogado; proceder con la máxima precaución en lo que respecta a las garantías oficiales; establecer un régimen de control de los vuelos sospechosos y velar por que se investiguen públicamente todas las denuncias de &quot;entregas ilegales&quot;.</s>
+      </p>
+      <p id="298">
+        <s id="298:1" lang="es">Párrafo 15: Aumentar los esfuerzos por mejorar las condiciones de vida de todas las personas privadas de libertad en espera de juicio o que hayan sido condenadas, cumpliendo todos los requisitos enunciados en las Reglas mínimas para el tratamiento de los reclusos; en particular, abordar el hacinamiento y la práctica del vaciado manual de las instalaciones de saneamiento; mantener a los presos preventivos en instalaciones separadas de los condenados y fomentar la aplicación de penas sustitutivas de la prisión; y facilitar datos estadísticos detallados que demuestren los progresos realizados desde la aprobación de la presente recomendación, en particular con respecto a la promoción y aplicación concretas de medidas sustitutivas de la privación de libertad.</s>
+      </p>
+      <p id="299">
+        <s id="299:1" lang="es">Párrafo 22: Intensificar los esfuerzos para que la población pueda acceder ampliamente a una educación primaria no confesional en todas las regiones del país, habida cuenta de la composición cada vez más diversa y multiétnica de la población.</s>
+      </p>
+      <p id="300">
+        <s id="300:1" lang="es">31 de julio de 2009: Se recibió información (en su conjunto bastante satisfactoria; párrafo 11: respuesta en parte incompleta).</s>
+      </p>
+      <p id="301">
+        <s id="301:1" lang="es">4 de enero de 2010: Se envió una carta para solicitar información complementaria: la manera y la frecuencia con que se han investigado y enjuiciado actos terroristas (párr. 11); el ejercicio de la máxima precaución en el uso de las garantías oficiales (párr. 11); el mandato del comité encargado de aspectos relacionados con la normativa internacional de derechos humanos, que deberá examinar el marco jurídico y determinar la manera de mejorar los sistemas de vigilancia del tráfico en los aeropuertos irlandeses (párr. 11); el hacinamiento en las prisiones (párr. 15).</s>
+        <s id="301:2" lang="es">En la carta también se indicaba que se daba por concluido el procedimiento de seguimiento respecto de determinadas cuestiones: la mejora de las condiciones de vida de todas las personas privadas de libertad (párr. 15) y la garantía de una educación primaria no confesional (párr. 22).</s>
+      </p>
+      <p id="302">
+        <s id="302:1" lang="es">Fecha de presentación del próximo informe: 31 de julio de 2012</s>
+      </p>
+      <p id="303">
+        <s id="303:1" lang="es">Estado parte: Reino Unido de Gran Bretaña e Irlanda del Norte</s>
+      </p>
+      <p id="304">
+        <s id="304:1" lang="es">Informe examinado: Sexto informe periódico (previsto para el 1º de noviembre de 2006), presentado el 1º de noviembre de 2006.</s>
+      </p>
+      <p id="305">
+        <s id="305:1" lang="es">Párrafo 9: Hacer investigaciones independientes e imparciales con toda urgencia para esclarecer las circunstancias de las violaciones del derecho a la vida en Irlanda del Norte.</s>
+      </p>
+      <p id="306">
+        <s id="306:1" lang="es">Párrafo 12: Velar por que no se devuelva a nadie, ni siquiera a las personas sospechosas de terrorismo, a otro país respecto del cual existan razones fundadas para creer que serán sometidas a tortura o tratos crueles, inhumanos o degradantes; tener en cuenta que cuanto más sistemática sea la práctica de la tortura o de tratos crueles, inhumanos o degradantes, menores serán las posibilidades de que las garantías diplomáticas permitan evitar el riesgo real de esos tratos, por estricto que pueda ser cualquier procedimiento de seguimiento convenido; proceder con la máxima precaución en lo que se refiere a las garantías diplomáticas y adoptar procedimientos claros y transparentes, con mecanismos judiciales apropiados, para examinar la situación antes de expulsar a una persona, y dotarse de mecanismos eficaces para vigilar la suerte corrida por las personas afectadas.</s>
+      </p>
+      <p id="307">
+        <s id="307:1" lang="es">Párrafo 14: Afirmar claramente que el Pacto se aplica a todos los individuos sometidos a su jurisdicción o a su control; practicar sin demora investigaciones independientes y rápidas de todas las denuncias de muertes sospechosas y de tortura o tratos crueles, inhumanos o degradantes cometidos por su personal (incluidos los mandos) en instalaciones de detención en el Afganistán y el Iraq; velar por que se enjuicie y castigue a los responsables de acuerdo con la gravedad del delito; adoptar todas las medidas necesarias para que no se repitan esos incidentes, en particular impartiendo formación apropiada y orientación clara a los agentes (incluidos los cargos de responsabilidad) y a sus empleados subcontratados acerca de sus obligaciones y responsabilidades respectivas; e informar al Comité sobre las medidas adoptadas para que se respete el derecho de las víctimas a la reparación.</s>
+      </p>
+      <p id="308">
+        <s id="308:1" lang="es">Párrafo 15: Velar por que todo sospechoso de terrorismo detenido sea informado prontamente de los cargos que se le imputan y juzgado dentro de un plazo razonable o puesto en libertad.</s>
+      </p>
+      <p id="309">
+        <s id="309:1" lang="es">7 de agosto de 2009: Se recibió un informe de seguimiento (párrafo 9: respuestas incompletas; párrafo 12: no hubo respuesta sobre determinados aspectos; recomendaciones en parte no aplicadas; párrafo 14: recomendaciones en parte aplicadas, respuestas en parte satisfactorias y en parte incompletas; párrafo 15: respuestas en parte satisfactorias, en parte incompletas).</s>
+      </p>
+      <p id="310">
+        <s id="310:1" lang="es">26 de abril de 2010: Se envió una carta en la que se indicaba que el procedimiento había concluido respecto de las cuestiones acerca de las cuales el Estado parte había facilitado información que se había considerado en su conjunto satisfactoria: la aplicación del Pacto a todos los individuos sometidos a su jurisdicción o a su control (párr. 14).</s>
+        <s id="310:2" lang="es">En la carta se incluía una solicitud de información complementaria sobre determinadas cuestiones: la destrucción de documentos y los retrasos en la investigación &quot;Billy Wright&quot; (párr. 9); la independencia de las investigaciones (párr. 9); la investigación de las denuncias de muertes sospechosas y de tortura o tratos crueles, inhumanos o degradantes en centros de detención en el Afganistán y el Iraq (párr. 14); y las medidas adoptadas para garantizar el derecho de las víctimas a obtener reparación.</s>
+        <s id="310:3" lang="es">Además, se pidió al Estado parte que mantuviera informado al Comité de las novedades que se produjeran en relación con los recursos interpuestos ante los tribunales de Belfast contra el uso de prolongados períodos de detención (párr. 15).</s>
+      </p>
+      <p id="311">
+        <s id="311:1" lang="es">28 de septiembre de 2008 (envío con retraso): Se envió un recordatorio que incluía una solicitud de información complementaria sobre determinadas cuestiones: las garantías diplomáticas (párr. 12).</s>
+      </p>
+      <p id="312">
+        <s id="312:1" lang="es">94º período de sesiones (octubre de 2008)</s>
+      </p>
+      <p id="313">
+        <s id="313:1" lang="es">Estado parte: Nicaragua</s>
+      </p>
+      <p id="314">
+        <s id="314:1" lang="es">Informe examinado: Tercer informe periódico (pendiente desde el 11 de junio de 1997), presentado el 20 de junio de 2007.</s>
+      </p>
+      <p id="315">
+        <s id="315:1" lang="es">Párrafo 12: Tomar las medidas necesarias para que se ponga fin al fenómeno del asesinato de mujeres, y en particular: a) proceder a la investigación y castigo de los agresores; b) permitir un acceso efectivo a la justicia a las mujeres víctimas de la violencia de género; c) otorgar protección policial a las víctimas, así como crear albergues; d) mantener y promover los espacios de participación directa de las mujeres, a nivel nacional y local, en la toma de decisiones relacionadas, en particular, con la violencia contra las mujeres y asegurar su participación y su representación en la sociedad civil; e) tomar medidas para prevenir la violencia contra las mujeres y aumentar la conciencia sobre este fenómeno (tales como impartir capacitación a los agentes de policía, en especial los destinados a comisarías de la mujer).</s>
+      </p>
+      <p id="316">
+        <s id="316:1" lang="es">Párrafo 13: Ajustar su legislación sobre el aborto de conformidad con las disposiciones del Pacto; adoptar medidas para ayudar a las mujeres a evitar los embarazos no deseados, de forma que no tengan que recurrir a abortos ilegales o practicados en condiciones inseguras que puedan poner su vida en peligro u obligarlas a desplazarse al extranjero para interrumpir su embarazo; y evitar que los profesionales de la medicina corran el riesgo de recibir sanciones penales en el ejercicio de sus responsabilidades profesionales.</s>
+      </p>
+      <p id="317">
+        <s id="317:1" lang="es">Párrafo 17: Aumentar sus esfuerzos para mejorar las condiciones de todas las personas privadas de libertad, cumpliendo con todos los requisitos contenidos en las Reglas mínimas para el tratamiento de los reclusos; abordar como cuestión prioritaria el hacinamiento; y presentar al Comité datos que muestren los progresos realizados desde la aprobación de la presente recomendación.</s>
+      </p>
+      <p id="318">
+        <s id="318:1" lang="es">Párrafo 19: Tomar las medidas necesarias para hacer cesar los presuntos casos de acoso sistemático y amenazas de muerte, especialmente contra las defensoras de los derechos de la mujer, y para que los culpables sean debidamente sancionados, y garantizar el derecho a la libertad de expresión y asociación a las organizaciones de defensores de los derechos humanos en el ejercicio de su misión.</s>
+      </p>
+      <p id="319">
+        <s id="319:1" lang="es">Fecha límite de recepción de la información: 31 de octubre de 2009</s>
+      </p>
+      <p id="320">
+        <s id="320:1" lang="es">8 de octubre de 2010 (envío con retraso): Se envió otro recordatorio.</s>
+      </p>
+      <p id="321">
+        <s id="321:1" lang="es">Fecha de presentación del próximo informe: 29 de octubre de 2012</s>
+      </p>
+      <p id="322">
+        <s id="322:1" lang="es">Estado parte: Mónaco</s>
+      </p>
+      <p id="323">
+        <s id="323:1" lang="es">Informe examinado: Segundo informe periódico (pendiente desde el 1º de agosto de 2006), presentado el 4 de marzo de 2007.</s>
+      </p>
+      <p id="324">
+        <s id="324:1" lang="es">Párrafo 9: Aprobar una legislación específica que permita luchar eficazmente contra la violencia en la familia; intensificar las campañas de sensibilización, informar a las mujeres sobre sus derechos y prestar asistencia material y psicológica a las víctimas; además, la policía debería recibir una formación específica en esa materia.</s>
+      </p>
+      <p id="325">
+        <s id="325:1" lang="es">26 de marzo de 2010: Se recibió un informe de seguimiento (información satisfactoria en su conjunto).</s>
+      </p>
+      <p id="326">
+        <s id="326:1" lang="es">8 de octubre de 2010 (envío con retraso): Al tiempo que se tomaba nota del espíritu de cooperación del Estado parte, se envió una carta en la que se indicaba que había concluido el procedimiento respecto de las cuestiones acerca de las cuales el Estado parte había facilitado respuestas consideradas en su conjunto satisfactorias.</s>
+        <s id="326:2" lang="es">Además, en la carta se invitaba al Estado parte a que mantuviera al Comité informado de las novedades relativas al proyecto de ley para combatir y prevenir determinados tipos de violencia, así como a la orden anunciada para mejorar la formación de los jueces y otros funcionarios.</s>
+      </p>
+      <p id="327">
+        <s id="327:1" lang="es">Fecha de presentación del próximo informe: 28 de octubre de 2013</s>
+      </p>
+      <p id="328">
+        <s id="328:1" lang="es">Estado parte: Dinamarca</s>
+      </p>
+      <p id="329">
+        <s id="329:1" lang="es">Informe examinado: Quinto informe periódico (pendiente desde el 31 de octubre de 2005), presentado el 23 de julio de 2007.</s>
+      </p>
+      <p id="330">
+        <s id="330:1" lang="es">Párrafo 8: Proseguir sus esfuerzos para eliminar la violencia contra la mujer, en particular la violencia en la familia, entre otras cosas mediante campañas de información sobre la naturaleza criminal de este fenómeno y la asignación de recursos económicos suficientes para impedir esa violencia y dar protección y apoyo material a las víctimas.</s>
+      </p>
+      <p id="331">
+        <s id="331:1" lang="es">Párrafo 11: Revisar la legislación y la práctica en relación con el régimen de incomunicación durante la detención preventiva, con miras a garantizar que esa medida solo se utilice en circunstancias excepcionales y durante un período limitado de tiempo.</s>
+      </p>
+      <p id="332">
+        <s id="332:1" lang="es">4 de noviembre de 2009: Se recibió un informe de seguimiento (párrafo 8: respuestas incompletas; párrafo 11: respuestas satisfactorias en su conjunto).</s>
+      </p>
+      <p id="333">
+        <s id="333:1" lang="es">26 de abril de 2010: Se envió una carta en la que se indicaba que había concluido el procedimiento respecto de las cuestiones acerca de las cuales el Estado parte había facilitado respuestas que se habían considerado en su conjunto satisfactorias: la revisión de la legislación sobre el régimen de incomunicación durante la detención preventiva (párr. 11).</s>
+        <s id="333:2" lang="es">La carta incluía una solicitud de información complementaria sobre determinadas cuestiones: la labor realizada para eliminar la violencia contra la mujer.</s>
+      </p>
+      <p id="334">
+        <s id="334:1" lang="es">Fecha de presentación del próximo informe: 31 de octubre de 2013</s>
+      </p>
+      <p id="335">
+        <s id="335:1" lang="es">Estado parte: Japón</s>
+      </p>
+      <p id="336">
+        <s id="336:1" lang="es">Informe examinado: Quinto informe periódico (pendiente desde octubre de 2002), presentado el 20 de diciembre de 2006.</s>
+      </p>
+      <p id="337">
+        <s id="337:1" lang="es">Párrafo 17: Prever el reexamen obligatorio de las condenas a la pena capital y garantizar el efecto suspensivo de las solicitudes de reapertura del proceso o de indulto en tales casos; limitar el número de solicitudes de indulto para impedir los abusos de la suspensión; además, garantizar la estricta confidencialidad de todas las reuniones celebradas entre los presos condenados a muerte y sus abogados para tratar de la reapertura del proceso.</s>
+      </p>
+      <p id="338">
+        <s id="338:1" lang="es">Párrafo 18: Abolir el sistema de detención alternativo o asegurarse de que éste se ajuste plenamente a todas las garantías establecidas en el párrafo 14 del Pacto; garantizar a todo sospechoso el derecho al acceso confidencial a un abogado, incluso durante los interrogatorios, a recibir asistencia jurídica desde el momento de la detención y con independencia de la naturaleza del delito del que se lo acuse y acceder a todos los antecedentes policiales relacionados con el caso, así como a recibir tratamiento médico; e instaurar un sistema de obtención de la libertad bajo fianza durante la fase previa a la inculpación formal.</s>
+      </p>
+      <p id="339">
+        <s id="339:1" lang="es">Párrafo 19: Promulgar disposiciones legislativas que limiten estrictamente la duración de los interrogatorios de los sospechosos y penalicen su incumplimiento, velar por la utilización sistemática de sistemas de grabación en video durante todo el interrogatorio y garantizar el derecho de todos los sospechosos a que su abogado esté presente durante los interrogatorios; reconocer que la función de la policía durante las investigaciones penales es obtener pruebas para el juicio, más que establecer la verdad, hacer que el silencio de los sospechosos no se considere inculpatorio y alentar a los tribunales a que confíen más en las pruebas científicas modernas que en las confesiones hechas durante los interrogatorios policiales.</s>
+      </p>
+      <p id="340">
+        <s id="340:1" lang="es">Párrafo 21: Hacer menos rigurosa la norma que impone el régimen de aislamiento de los presos condenados a pena de muerte; velar por que el régimen de aislamiento sea una medida excepcional y limitada en el tiempo; establecer una duración máxima; imponer el examen médico físico y mental del preso antes de su reclusión en celdas de protección y poner fin a la práctica de segregar a ciertos presos en &quot;módulos de alojamiento&quot; sin criterios claramente definidos ni posibilidades de apelación.</s>
+      </p>
+      <p id="341">
+        <s id="341:1" lang="es">21 de diciembre de 2009: Se recibió un informe de seguimiento (párrafo 17: recomendaciones en parte no aplicadas y respuestas en parte incompletas; párrafo 18: respuestas incompletas; párrafo 19: recomendaciones en parte aplicadas; párrafo 21: recomendaciones en parte no aplicadas y respuestas en parte satisfactorias).</s>
+      </p>
+      <p id="342">
+        <s id="342:1" lang="es">28 de septiembre de 2010 (envío con retraso): Al tiempo que se tomaba nota del espíritu de cooperación del Estado parte, se envió una carta en la que el Comité solicitaba información complementaria sobre determinadas cuestiones: la confidencialidad de las reuniones celebradas entre los presos condenados a muerte y sus abogados (párr. 17); el sistema de detención alternativo (párr. 18); el derecho al acceso confidencial a un abogado, a recibir asistencia jurídica y a conocer las pruebas (párr. 18); el sistema de libertad bajo fianza durante la fase previa a la inculpación formal (párr. 18); y la función de la policía (párr. 19).</s>
+        <s id="342:2" lang="es">También se subrayaban los elementos respecto de los cuales el Comité consideraba que no se habían aplicado sus recomendaciones: el sistema de reexamen obligatorio y el efecto suspensivo de las solicitudes de reapertura del proceso o de indulto (párr. 17); las disposiciones legislativas que prevean una limitación estricta de la duración de los interrogatorios de los sospechosos (párr. 19); y la norma que impone el régimen de aislamiento de los presos condenados a la pena de muerte (párr. 21).</s>
+        <s id="342:3" lang="es">Además, acerca de los módulos de alojamiento, en la carta se invitaba al Estado parte a que mantuviera al Comité informado de las medidas que adoptara para mejorar el trato dispensado a los reclusos.</s>
+      </p>
+      <p id="343">
+        <s id="343:1" lang="es">Fecha de presentación del próximo informe: 29 de octubre de 2011</s>
+      </p>
+      <p id="344">
+        <s id="344:1" lang="es">Estado parte: España</s>
+      </p>
+      <p id="345">
+        <s id="345:1" lang="es">Informe examinado: Quinto informe periódico (pendiente desde el 28 de abril</s>
+      </p>
+      <p id="346">
+        <s id="346:1" lang="es">de 1999), presentado el 11 de diciembre de 2007.</s>
+      </p>
+      <p id="347">
+        <s id="347:1" lang="es">Párrafo 13: Acelerar el proceso de adopción de un mecanismo nacional de prevención de la tortura conforme con lo dispuesto en el Protocolo Facultativo de la Convención contra la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes.</s>
+      </p>
+      <p id="348">
+        <s id="348:1" lang="es">Párrafo 15: Velar por que los plazos de detención policial y prisión preventiva se limiten de manera compatible con el artículo 9 del Pacto y no emplear la duración de la pena aplicable como criterio para determinar la duración máxima de la prisión provisional.</s>
+      </p>
+      <p id="349">
+        <s id="349:1" lang="es">Párrafo 16: Velar por que el proceso de adopción de decisiones relativas a la detención y expulsión de extranjeros respete plenamente el procedimiento previsto por la ley, por que en el procedimiento de concesión de asilo puedan invocarse siempre motivos humanitarios y por que la nueva Ley de asilo sea plenamente conforme con el Pacto.</s>
+      </p>
+      <p id="350">
+        <s id="350:1" lang="es">16 de junio de 2010: Se recibió un informe de seguimiento.</s>
+      </p>
+      <p id="351">
+        <s id="351:1" lang="es">Medidas recomendadas: Las respuestas adicionales del Estado parte deberían examinarse en un período de sesiones posterior.</s>
+      </p>
+      <p id="352">
+        <s id="352:1" lang="es">95º período de sesiones (marzo de 2009)</s>
+      </p>
+      <p id="353">
+        <s id="353:1" lang="es">Estado parte: Suecia</s>
+      </p>
+      <p id="354">
+        <s id="354:1" lang="es">Informe examinado: Sexto informe periódico (pendiente desde el 1º de abril de 2007), presentado el 20 de julio de 2007.</s>
+      </p>
+      <p id="355">
+        <s id="355:1" lang="es">Párrafo 10:</s>
+      </p>
+      <p id="356">
+        <s id="356:1" lang="es">a) Esforzarse por dar a conocer mejor a las personas con discapacidad los derechos que les asisten y las posibilidades de protección y de recurso de que disponen en caso de violación de esos derechos;</s>
+      </p>
+      <p id="357">
+        <s id="357:1" lang="es">b) Proporcionar información actualizada sobre la incidencia de los programas de sensibilización, indicando cómo se asegura en la práctica el acceso de las personas con discapacidad a los bienes y servicios sociales, incluso a nivel de los municipios, y ofrecer detalles sobre la aplicación de la política relativa a los derechos de las personas con discapacidad en el siguiente informe periódico;</s>
+      </p>
+      <p id="358">
+        <s id="358:1" lang="es">c) Adoptar medidas eficaces para aumentar la tasa de empleo de las personas con discapacidad, incluidas las que tengan una capacidad de trabajo reducida.</s>
+      </p>
+      <p id="359">
+        <s id="359:1" lang="es">Párrafo 13: Adoptar medidas eficaces para que todas las personas que se encuentren en detención policial gocen en la práctica de las garantías jurídicas fundamentales, en particular del derecho a tener acceso a un médico y a dar aviso sin demora de su detención a una persona cercana o un tercero de su elección y asegurar que el folleto de información sobre las garantías fundamentales esté disponible en todos los lugares en que haya personas privadas de libertad.</s>
+      </p>
+      <p id="360">
+        <s id="360:1" lang="es">Párrafo 16: Asegurar que nadie, ni siquiera las personas sospechosas de terrorismo, esté expuesto al riesgo de tortura u otras penas o tratos crueles, inhumanos o degradantes; tener presente que cuanto más sistemática sea la práctica de la tortura o de tratos crueles, inhumanos o degradantes, menores serán las posibilidades de que las garantías diplomáticas permitan evitar el riesgo real de ese tipo de trato, por estricto que pueda ser cualquier procedimiento de seguimiento convenido; proceder con extrema prudencia en el uso de esas garantías, y adoptar procedimientos claros y transparentes que permitan revisar la situación por mecanismos judiciales adecuados antes de proceder a la expulsión de los interesados; y dotarse de medios eficaces para vigilar la suerte corrida por las personas afectadas.</s>
+      </p>
+      <p id="361">
+        <s id="361:1" lang="es">Párrafo 17: No autorizar la detención de los solicitantes de asilo más que en situaciones excepcionales y limitar la duración de esa detención, evitando colocar a esos solicitantes en centros de detención provisional; estudiar otras posibilidades de colocación de los solicitantes de asilo y asegurar que éstos no sean deportados antes de que su solicitud haya sido objeto de una decisión definitiva; y velar por que los solicitantes de asilo tengan derecho a acceder a la información adecuada para poder responder a los argumentos y a los elementos de prueba que se utilicen en sus expedientes.</s>
+      </p>
+      <p id="362">
+        <s id="362:1" lang="es">Fecha límite de recepción de la información: 1º de abril de 2010</s>
+      </p>
+      <p id="363">
+        <s id="363:1" lang="es">18 de marzo de 2010: Se recibió un informe de seguimiento (párrafos 10 y 13: respuesta bastante satisfactoria; párrafo 16: respuesta incompleta; párrafo 17: respuestas en parte incompletas; recomendaciones en parte no aplicadas; no hubo respuesta sobre ciertos aspectos).</s>
+      </p>
+      <p id="364">
+        <s id="364:1" lang="es">28 de septiembre de 2010 (envío con retraso): Se envió una carta en la que se indicaba que el procedimiento había concluido respecto de las cuestiones acerca de las cuales el Estado parte había facilitado respuestas que se habían considerado en su conjunto satisfactorias: los derechos de las personas con discapacidad (párr. 10) y las garantías jurídicas fundamentales de los detenidos (párr. 13).</s>
+        <s id="364:2" lang="es">La carta incluía una solicitud de información complementaria sobre determinadas cuestiones: las garantías diplomáticas (párr. 16); la detención y colocación de los solicitantes de asilo y el acceso a la información (párr. 17).</s>
+        <s id="364:3" lang="es">En la carta también se subrayaban los elementos respecto de los cuales el Comité consideraba que sus recomendaciones no se habían aplicado: la limitación de la duración de la prisión preventiva (párr. 17).</s>
+      </p>
+      <p id="365">
+        <s id="365:1" lang="es">Fecha de presentación del próximo informe: 1º de abril de 2014</s>
+      </p>
+      <p id="366">
+        <s id="366:1" lang="es">Estado parte: Rwanda</s>
+      </p>
+      <p id="367">
+        <s id="367:1" lang="es">Informe examinado: Tercer informe periódico (pendiente desde 1992), presentado el 12 de septiembre de 2007.</s>
+      </p>
+      <p id="368">
+        <s id="368:1" lang="es">Párrafo 12: Garantizar que todas las denuncias de casos de desapariciones forzadas y ejecuciones sumarias o arbitrarias sean investigadas por una autoridad independiente y que los autores de dichos actos sean enjuiciados y castigados adecuadamente; y ofrecer a las víctimas o sus familias una reparación efectiva, incluida una indemnización adecuada, de conformidad con el artículo 2 del Pacto.</s>
+      </p>
+      <p id="369">
+        <s id="369:1" lang="es">Párrafo 13: Adoptar medidas para garantizar que las investigaciones de los muchos casos de personas, entre ellas mujeres y niños, asesinadas en 1994 y posteriormente, durante operaciones del Ejército Patriótico de Rwanda, sean realizadas por una autoridad independiente y que los responsables sean enjuiciados y castigados en consecuencia.</s>
+      </p>
+      <p id="370">
+        <s id="370:1" lang="es">Párrafo 14: Poner fin a la pena de aislamiento y garantizar que las personas condenadas a cadena perpetua gocen de las garantías que ofrecen las Reglas mínimas de las Naciones Unidas para el tratamiento de los reclusos.</s>
+      </p>
+      <p id="371">
+        <s id="371:1" lang="es">Párrafo 17:</s>
+      </p>
+      <p id="372">
+        <s id="372:1" lang="es">a) Velar por que el conjunto de los tribunales y las cortes de justicia del país funcionen de conformidad con los principios enunciados en el artículo 14 del Pacto y el párrafo 24 de la Observación general Nº 32 (2007) del Comité sobre el derecho a la igualdad ante los tribunales y las cortes de justicia y a un juicio imparcial, que dispone que los tribunales consuetudinarios no puedan dictar fallos vinculantes reconocidos por el Estado, a no ser que satisfagan los requisitos siguientes: los procedimientos estarán limitados a cuestiones de carácter civil y a asuntos penales de menor importancia que cumplan las disposiciones fundamentales de un juicio imparcial y otras garantías pertinentes del Pacto;</s>
+      </p>
+      <p id="373">
+        <s id="373:1" lang="es">b) Hacer que las sentencias de esos tribunales sean validadas por tribunales estatales a la luz de las garantías enumeradas en el Pacto y permitir que sean recurridas con arreglo a un procedimiento que cumpla lo dispuesto en el artículo 14 del Pacto.</s>
+      </p>
+      <p id="374">
+        <s id="374:1" lang="es">Fecha de presentación del próximo informe: 10 de abril de 2013</s>
+      </p>
+      <p id="375">
+        <s id="375:1" lang="es">Estado parte: Australia</s>
+      </p>
+      <p id="376">
+        <s id="376:1" lang="es">Informe examinado: Quinto informe periódico (pendiente desde el 31 de julio de 2005), presentado el 7 de agosto de 2007.</s>
+      </p>
+      <p id="377">
+        <s id="377:1" lang="es">Párrafo 11: Asegurarse de que sus leyes y prácticas de lucha contra el terrorismo estén en perfecta consonancia con el Pacto y corregir la falta de claridad de la definición de acto terrorista en el Código Penal de 1995 a fin de que su aplicación se limite a delitos que revistan incuestionablemente carácter de terrorismo:</s>
+      </p>
+      <p id="378">
+        <s id="378:1" lang="es">a) Garantizar el derecho a la presunción de inocencia, evitando la inversión de la carga de la prueba;</s>
+      </p>
+      <p id="379">
+        <s id="379:1" lang="es">b) Asegurarse de que la noción de &quot;circunstancias excepcionales&quot; no cree un obstáculo sistemático a la libertad condicional;</s>
+      </p>
+      <p id="380">
+        <s id="380:1" lang="es">c) Contemplar la posible derogación de las disposiciones que facultan a la Organización Australiana de Inteligencia sobre Cuestiones de Seguridad para detener a personas sin consentirles el acceso a asistencia jurídica y con procedimientos secretos, por períodos renovables de hasta siete días.</s>
+      </p>
+      <p id="381">
+        <s id="381:1" lang="es">Párrafo 14: Rediseñar las medidas de respuesta de emergencia, en consulta directa con los pueblos indígenas interesados, a fin de asegurar que sean compatibles con la Ley contra la discriminación racial de 1995 y con el Pacto.</s>
+      </p>
+      <p id="382">
+        <s id="382:1" lang="es">Párrafo 17: Intensificar sus esfuerzos para eliminar la violencia contra la mujer, especialmente la perpetrada contra las mujeres indígenas, y poner en práctica sin dilación su Plan de acción nacional para reducir la violencia contra las mujeres y sus hijos, así como las recomendaciones formuladas en el informe de 2008 sobre la violencia doméstica y las personas sin hogar.</s>
+      </p>
+      <p id="383">
+        <s id="383:1" lang="es">Párrafo 23:</s>
+      </p>
+      <p id="384">
+        <s id="384:1" lang="es">a) Considerar la posibilidad de eliminar todas las medidas subsistentes de su política de detención obligatoria de los inmigrantes;</s>
+      </p>
+      <p id="385">
+        <s id="385:1" lang="es">b) Aplicar las recomendaciones formuladas por la Comisión de Derechos Humanos en su informe sobre la detención de inmigrantes de 2008;</s>
+      </p>
+      <p id="386">
+        <s id="386:1" lang="es">c) Considerar la posibilidad de clausurar el centro de detención de la isla de Navidad;</s>
+      </p>
+      <p id="387">
+        <s id="387:1" lang="es">d) Incorporar en su legislación un marco integral en materia de inmigración, en cumplimiento de lo dispuesto en el Pacto.</s>
+      </p>
+      <p id="388">
+        <s id="388:1" lang="es">Fecha de presentación del próximo informe: 1º de abril de 2013</s>
+      </p>
+      <p id="389">
+        <s id="389:1" lang="es">96º período de sesiones (julio de 2009)</s>
+      </p>
+      <p id="390">
+        <s id="390:1" lang="es">Estado parte: Azerbaiyán</s>
+      </p>
+      <p id="391">
+        <s id="391:1" lang="es">Informe examinado: Tercer informe periódico (pendiente desde el 1º de noviembre de 2005), presentado el 4 de octubre de 2007.</s>
+      </p>
+      <p id="392">
+        <s id="392:1" lang="es">Párrafo 9: Abstenerse de extraditar, devolver, expulsar u obligar a regresar a extranjeros a un país en el que estén en peligro de ser sometidos a tortura o malos tratos y establecer un mecanismo para permitir que los extranjeros que afirmen que la obligación de regresar les haría correr peligro de tortura o malos tratos puedan presentar recurso con efecto suspensivo contra una decisión de expulsión.</s>
+      </p>
+      <p id="393">
+        <s id="393:1" lang="es">Párrafo 11: Establecer sin demora un órgano independiente facultado para recibir todas las denuncias por el empleo de la fuerza incompatible con el Código de conducta para funcionarios encargados de hacer cumplir la ley (resolución 34/169 de la Asamblea General) y los Principios Básicos sobre el Empleo de la Fuerza y de Armas de Fuego por los Funcionarios Encargados de Hacer Cumplir la Ley (1990) y otros abusos de autoridad cometidos por representantes de las fuerzas del orden e investigar esas denuncias; hacer lo necesario para que todas las denuncias relativas a tortura o malos tratos sean investigadas de manera pronta y exhaustiva y que las víctimas reciban una reparación; velar por que los responsables de esos actos sean perseguidos y castigados; asegurar que todos los lugares de detención sean sometidos periódicamente a inspecciones independientes; impartir formación suficiente a los agentes del orden y al personal de prisiones y velar por que los derechos garantizados por el Pacto estén plenamente protegidos; y proponerse seriamente lograr que se utilice de forma sistemática material de grabación de audio y vídeo en las comisarías de policía y los lugares de detención.</s>
+      </p>
+      <p id="394">
+        <s id="394:1" lang="es">Párrafo 15: Adoptar las medidas necesarias para poner fin a las restricciones directas e indirectas a la libertad de expresión: ajustar la legislación sobre difamación al artículo 19 del Pacto estableciendo un justo equilibro entre la protección de la reputación de las personas y la libertad de expresión; encontrar un equilibrio entre la información sobre los actos de las &quot;personalidades públicas&quot; y el derecho de una sociedad democrática a estar informada de las cuestiones de interés público; proteger de manera efectiva al personal de los medios de difusión contra las tentativas de atentar contra su integridad y su vida, prestar particular atención a esos actos y reaccionar con rigor ante ellos; abstenerse de restringir de forma injustificada el trabajo de los periodistas independientes y la difusión a nivel local de las emisiones de las cadenas de radio; y tratar a quienes utilicen medios de difusión no convencionales en el estricto respeto del artículo 19 del Pacto.</s>
+      </p>
+      <p id="395">
+        <s id="395:1" lang="es">Párrafo 18: Simplificar el procedimiento de inscripción del domicilio para que todas las personas que residen legalmente en Azerbaiyán, con inclusión de las personas desplazadas dentro del país, puedan ejercer plenamente los derechos y libertades que les garantiza el Pacto.</s>
+      </p>
+      <p id="396">
+        <s id="396:1" lang="es">Fecha límite de recepción de la información: 30 de julio de 2010</s>
+      </p>
+      <p id="397">
+        <s id="397:1" lang="es">6 de julio de 2010: Se recibió un informe de seguimiento.</s>
+      </p>
+      <p id="398">
+        <s id="398:1" lang="es">Medidas recomendadas: Las respuestas complementarias del Estado parte deberían traducirse y examinarse en un período de sesiones posterior.</s>
+      </p>
+      <p id="399">
+        <s id="399:1" lang="es">Fecha de presentación del próximo informe: 1º de agosto de 2013</s>
+      </p>
+      <p id="400">
+        <s id="400:1" lang="es">Estado parte: Chad</s>
+      </p>
+      <p id="401">
+        <s id="401:1" lang="es">Informe examinado: Informe inicial (pendiente desde el 8 de septiembre de 1996), presentado el 18 de septiembre de 2007.</s>
+      </p>
+      <p id="402">
+        <s id="402:1" lang="es">Párrafo 10: Adoptar todas las medidas apropiadas para poner fin a todas las violaciones de los derechos humanos y garantizar que todas las violaciones de las que tenga conocimiento sean objeto de investigación y que los responsables sean perseguidos y sancionados penalmente; asegurarse de que los órganos y agentes del Estado brinden la protección necesaria a las víctimas de violaciones de los derechos humanos y comprometerse, en cualquier circunstancia, a garantizar a las víctimas el acceso efectivo a vías de recurso y a una reparación adecuada.</s>
+      </p>
+      <p id="403">
+        <s id="403:1" lang="es">Párrafo 13: Adoptar todas las medidas necesarias y apropiadas para:</s>
+      </p>
+      <p id="404">
+        <s id="404:1" lang="es">a) Aumentar la protección de las personas desplazadas en el interior y en los alrededores de los campamentos;</s>
+      </p>
+      <p id="405">
+        <s id="405:1" lang="es">b) Reforzar su capacidad para garantizar la protección de las mujeres desplazadas, realizar investigaciones, iniciar enjuiciamientos, sancionar a todos los autores de actos de violencia sexual y brindar a las víctimas toda la asistencia necesaria;</s>
+      </p>
+      <p id="406">
+        <s id="406:1" lang="es">c) Preparar y aprobar un marco legal y una estrategia nacional que cubra todas las etapas del desplazamiento;</s>
+      </p>
+      <p id="407">
+        <s id="407:1" lang="es">d) Crear condiciones en que se ofrezcan soluciones duraderas para las personas desplazadas, en que se prevea su regreso libremente consentido y en total seguridad.</s>
+      </p>
+      <p id="408">
+        <s id="408:1" lang="es">Párrafo 20: Adoptar todas las medidas necesarias y eficaces para hacer comparecer ante la justicia a los responsables de violaciones graves de los derechos humanos, con inclusión de las que tuvieron lugar a raíz de los acontecimientos de febrero de 2008, y poner en práctica rápidamente las recomendaciones de la Comisión de Investigación de 2008.</s>
+      </p>
+      <p id="409">
+        <s id="409:1" lang="es">Párrafo 32: Proteger a la menor Khadidja Ousmane Mahamat, brindarle toda la asistencia necesaria y enjuiciar y sancionar a los autores de los actos de violencia perpetrados contra ella.</s>
+      </p>
+      <p id="410">
+        <s id="410:1" lang="es">Fecha límite de recepción de la información: 29 de julio de 2010</s>
+      </p>
+      <p id="411">
+        <s id="411:1" lang="es">Medidas recomendadas: Debería enviarse un recordatorio.</s>
+      </p>
+      <p id="412">
+        <s id="412:1" lang="es">Estado parte: Países Bajos</s>
+      </p>
+      <p id="413">
+        <s id="413:1" lang="es">Informe examinado: Cuarto informe periódico (pendiente desde el 1º de agosto de 2006), presentado el 9 de mayo de 2007.</s>
+      </p>
+      <p id="414">
+        <s id="414:1" lang="es">Párrafo 7: Revisar la legislación relativa a la interrupción de la vida a solicitud propia y la ayuda al suicidio habida cuenta del reconocimiento del derecho a la vida consagrado en el Pacto.</s>
+      </p>
+      <p id="415">
+        <s id="415:1" lang="es">Párrafo 9: Garantizar que el procedimiento de tramitación de las solicitudes de asilo permita un examen detenido y apropiado de los expedientes previendo un plazo suficiente para la presentación de los justificantes, y, en todos los casos, velar por el respeto del principio de no devolución.</s>
+      </p>
+      <p id="416">
+        <s id="416:1" lang="es">Párrafo 23: Adoptar medidas con urgencia para mejorar las condiciones en los lugares de detención a fin de que estén conformes con las normas del artículo 10, párrafo 1.</s>
+      </p>
+      <p id="417">
+        <s id="417:1" lang="es">Fecha límite de recepción de la información: 28 de julio de 2010</s>
+      </p>
+      <p id="418">
+        <s id="418:1" lang="es">Fecha de presentación del próximo informe: 31 de julio de 2014</s>
+      </p>
+      <p id="419">
+        <s id="419:1" lang="es">Estado parte: República Unida de Tanzanía</s>
+      </p>
+      <p id="420">
+        <s id="420:1" lang="es">Informe examinado: Cuarto informe periódico (pendiente desde junio de 2002), presentado el 16 de octubre de 2007.</s>
+      </p>
+      <p id="421">
+        <s id="421:1" lang="es">Párrafo 11: Adoptar medidas eficaces y concretas para combatir enérgicamente la mutilación genital femenina, en particular en las regiones en que esta práctica sigue estando extendida, y hacer lo necesario para que los autores comparezcan ante la justicia; y modificar su legislación para sancionar penalmente la mutilación genital femenina en el caso de las mujeres mayores de 18 años.</s>
+      </p>
+      <p id="422">
+        <s id="422:1" lang="es">Párrafo 16: Adoptar medidas para abolir los castigos corporales como sanciones autorizadas por la ley; y promover formas no violentas de disciplina para sustituir los castigos corporales en el sistema educativo y realizar campañas de información para la población sobre sus efectos nocivos.</s>
+      </p>
+      <p id="423">
+        <s id="423:1" lang="es">Párrafo 20: Derogar la legislación que prevé penas de cárcel por la mora en el pago de una deuda.</s>
+      </p>
+    </body>
+  </text>
+</TEI.2>

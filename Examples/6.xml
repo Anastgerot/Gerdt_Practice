@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The United Nations Parallel Corpus v1.0 - CEDAW/SP/2000/6</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>United Nations DGACM</publisher>
+        <pubPlace>New York</pubPlace>
+        <date>20000913</date>
+        <idno type="symbol">CEDAW/SP/2000/6</idno>
+        <idno type="jobno">N0064142</idno>
+        <availability>
+          <p>The following disclaimer, an integral part of the United Nations Parallel Corpus v1.0, 
+             shall be respected in regard to the Corpus v1.0 (no other restrictions apply):</p>
+
+          <p>The United Nations Parallel Corpus is made available without warranty of any kind, 
+             explicit or implied. The United Nations specifically makes no warranties or 
+             representations as to the accuracy or completeness of the information contained in 
+             the United Nations corpus.</p>
+
+          <p>Under no circumstances shall the United Nations be liable for any loss, liability,
+             injury or damage incurred or suffered that is claimed to have resulted from the use
+             of the United Nations Corpus. The use of the United Nations Corpus is at the user's 
+             sole risk. The user specifically acknowledges and agrees that the United Nations is 
+             not liable for the conduct of any user. If the user is dissatisfied with any of the 
+             material provided in the United Nations Corpus, the users's sole and exclusive remedy 
+             is to discontinue using the United Nations Corpus.</p>
+
+          <p>When using the United Nations Corpus, the user must acknowledge the United Nations as the
+             source of the information. For references, please use this reference:
+             Ziemski, M., Junczys-Dowmunt, M., and Pouliquen, B. (2016) The United Nations
+             Parallel Corpus, Language Resources and Evaluation (LREC’16), Portorož, Slovenia, 
+             May 2016.</p>
+
+          <p>Nothing herein shall constitute or be considered to be a limitation upon or waiver,
+             express or implied, of the privileges and immunities of the United Nations, which
+             are specifically reserved.</p>
+        </availability>
+        <distributor>http://conferences.unite.un.org/UNCorpus</distributor>
+      </publicationStmt>
+      <sourceDesc>
+        <p>http://www.un.org/en/official-documents-system-search/index.html</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords>
+          <term>GENDER EQUALITY</term>
+          <term>WOMEN'S STATUS</term>
+          <term>CONFERENCES</term>
+        </keywords>
+      </textClass>
+      <langUsage>
+        <language ident="es">Spanish</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p id="1">
+        <s id="1:1" lang="es">Reunión de los Estados partes en la Convención</s>
+      </p>
+      <p id="2">
+        <s id="2:1" lang="es">sobre la eliminación de todas las formas</s>
+      </p>
+      <p id="3">
+        <s id="3:1" lang="es">de discriminación contra la mujer</s>
+      </p>
+      <p id="4">
+        <s id="4:1" lang="es">Undécima reunión</s>
+      </p>
+      <p id="5">
+        <s id="5:1" lang="es">Nueva York, 31 de agosto de 2000</s>
+      </p>
+      <p id="6">
+        <s id="6:1" lang="es">Informe de la reunión de los Estados partes</s>
+      </p>
+      <p id="7">
+        <s id="7:1" lang="es">La representante del Secretario General, Sra. Angela E.V. King, Subsecretaria General y Asesora Especial en Cuestiones de Género y Adelanto de la Mujer, en su calidad de Presidenta provisional, inauguró la undécima reunión de los Estados partes el 31 de agosto de 2000.</s>
+      </p>
+      <p id="8">
+        <s id="8:1" lang="es">La Subsecretaria General formuló una declaración en nombre del Secretario General en que se refirió a varias recomendaciones aprobadas por la Asamblea General en su vigésimo tercer período extraordinario de sesiones que figuraban en el documento &quot;La Mujer en el año 2000: igualdad entre los géneros, desarrollo y paz para el siglo XXI&quot;, en que la Asamblea General examinó la ejecución de la Plataforma de Acción de Beijing y adoptó una serie de decisiones sobre las nuevas acciones e iniciativas encaminadas a su aplicación.</s>
+        <s id="8:2" lang="es">La Subsecretaria General observó que los gobiernos se habían adherido a los principios de la Convención sobre la eliminación de todas las formas de discriminación contra la mujer, se habían comprometido a ponerlos en práctica y habían acordado crear y mantener para el año 2005 un ordenamiento jurídico que no fuese discriminatorio y tuviese en cuenta las cuestiones relacionadas con el género.</s>
+        <s id="8:3" lang="es">Asimismo, los Gobiernos habían acordado eliminar las lagunas legislativas que dejaban a las mujeres y niñas sin la debida protección de sus derechos y sin que pudieran recurrir de manera efectiva contra los actos de discriminación por motivos de género y garantizar la ratificación universal de la Convención, del Protocolo Facultativo de la Convención y la aceptación de la modificación del párrafo 1 del artículo 20 de la Convención relativo a los calendarios de reuniones.</s>
+        <s id="8:4" lang="es">La Subsecretaria General, aunque expresó su decepción porque no se hubiese alcanzado el objetivo de la ratificación universal de la Convención para el año 2000, objetivo acordado en la Cuarta Conferencia Mundial sobre la Mujer, dijo que en el período extraordinario de sesiones se había señalado que el hecho de que 165 Estados partes hubiesen ratificado la Convención o se hubiesen adherido a ella era uno de los logros de la ejecución de la Plataforma de Acción.</s>
+        <s id="8:5" lang="es">Asimismo señaló que el hecho de que la Asamblea General, en su cuadragésimo quinto período de sesiones, hubiese aprobado el Protocolo Facultativo de la Convención por el que se reconocía a las mujeres y a grupos de mujeres que hubiesen agotado todas las vías nacionales el derecho a presentar ante el Comité para la Eliminación de la Discriminación contra la Mujer peticiones en que se denunciasen vulneraciones de la Convención era un logro significativo de la ejecución de la Plataforma de Acción.</s>
+      </p>
+      <p id="9">
+        <s id="9:1" lang="es">La Subsecretaria General informó de que 43 Estados partes habían firmado el Protocolo Facultativo y cinco habían presentado los instrumentos de ratificación o adhesión.</s>
+        <s id="9:2" lang="es">Asimismo, indicó que la Secretaría se estaba preparando para la entrada en vigor del Protocolo Facultativo y había manifestado su entera disposición a apoyar al Comité en la elaboración de los procedimientos necesarios para la administración del instrumento.</s>
+      </p>
+      <p id="10">
+        <s id="10:1" lang="es">Además, la Subsecretaria General observó que, desde la décima reunión de los Estados partes, celebrada el 17 de febrero de 1998, el Comité había celebrado cinco períodos de sesiones.</s>
+        <s id="10:2" lang="es">Además de examinar los informes presentados por 37 Estados partes, el Comité aprobó su 24ª recomendación general sobre el artículo 12 de la Convención relativo a la mujer y la salud.</s>
+        <s id="10:3" lang="es">El Comité adoptó, asimismo, una declaración sobre las reservas y una declaración sobre el marco jurídico para la aplicación de la Plataforma de Acción de Beijing y los vínculos entre la Convención y la Plataforma.</s>
+        <s id="10:4" lang="es">El Comité reformó su reglamento, cuya versión definitiva sería aprobada en el vigésimo cuarto período de sesiones, previsto para enero de 2001.</s>
+        <s id="10:5" lang="es">En los cinco períodos de sesiones el Comité aprobó una serie de importantes decisiones y sugerencias, incluida la de organizar una reunión de un grupo de trabajo antes de la celebración del período de sesiones para que estableciese listas de cuestiones y preguntas relativas a los informes periódicos antes de la celebración del período de sesiones en el que se examinarían dichos informes, y garantizar que las listas de cuestiones y preguntas sobre los informes periódicos se centrasen, en la medida de lo posible, en las principales esferas de interés relacionadas con la aplicación de la Convención en los Estados partes.</s>
+        <s id="10:6" lang="es">El Comité también revisó sus procedimientos y el modelo para la elaboración de las observaciones finales y aprobó una serie de procedimientos relativos a las observaciones de los Estados miembros sobre las observaciones finales y a la aprobación de las directrices que hay que seguir en los casos en los que se solicite a los Estados partes la presentación de informes especiales.</s>
+      </p>
+      <p id="11">
+        <s id="11:1" lang="es">La Subsecretaria General informó de que aún no se habían presentado 236 informes y que el Comité, en su vigésimo tercer período de sesiones, decidió, con carácter excepcional y como medida provisional, invitar a los Estados partes que aún no hubiesen presentado los informes que lo hiciesen en un único documento.</s>
+        <s id="11:2" lang="es">La Subsecretaria General instó a todos los Estados partes en cuestión, en particular los que nunca habían presentado informes, a que cumpliesen la decisión.</s>
+        <s id="11:3" lang="es">Además, recordó a los Estados partes que se podían solicitar por conducto de la División para el Adelanto de la Mujer los servicios técnicos y de asesoramiento en relación con la Convención y el Protocolo Facultativo.</s>
+        <s id="11:4" lang="es">Asimismo, instó a los Estados partes a que aceptasen la modificación del párrafo 1 del artículo 20 relativa a los calendarios de reuniones del Comité.</s>
+      </p>
+      <p id="12">
+        <s id="12:1" lang="es">Tras la declaración de la Presidenta provisional resultó elegido Presidente de la reunión el Embajador Mohamed Sacirbey (Bosnia y Herzegovina).</s>
+        <s id="12:2" lang="es">Para ocupar los cargos de Vicepresidentes se eligió a la Sr. Fesseha A. Tessema (Etiopía), la Sra. Atsuko Nishimura (Japón), la Embajadora Claudia Fritsche (Liechtenstein) y al Sr. Luis Raúl Estévez - López (Guatemala).</s>
+        <s id="12:3" lang="es">Seguidamente se aprobó el programa provisional (CEDAW/SP/2000/1).</s>
+      </p>
+      <p id="13">
+        <s id="13:1" lang="es">De conformidad con los párrafos 4 y 5 del artículo 17 de la Convención, los Estados partes eligieron en votación secreta a 11 miembros del Comité para la Eliminación de la Discriminación contra la Mujer.</s>
+        <s id="13:2" lang="es">Cuatro de estos miembros eran ya miembros del Comité que habían sido propuestos para ser reelegidos.</s>
+        <s id="13:3" lang="es">Los expertos reelegidos fueron Feride Acar (Turquía), María Yolanda Ferrer Gómez (Cuba), Aída González Martínez (México), y Hanna Beate Schöpp-Schilling (Alemania).</s>
+        <s id="13:4" lang="es">Los nuevos miembros elegidos fueron Sjiamsiah Achmad (Indonesia), Regina Tavares Da Silva (Portugal), Françoise Gaspard (Francia), Fatima Kwaku (Nigeria), Göran Melander (Suecia), Asha Rose Mtengeti-Migiro (República Unida de Tanzanía), y Heisoo Shin (República de Corea).</s>
+        <s id="13:5" lang="es">La lista de todos los candidatos y sus currículos figuran en los documentos CEDAW/SP/2000/3 y CEDAW/SP/2000/3/Add. 1.</s>
+      </p>
+      <p id="14">
+        <s id="14:1" lang="es">Los participantes en la reunión tuvieron ante sí el documento CEDAW/SP/2000/2 presentado de conformidad con el artículo 28 de la Convención, que dispone que &quot;el Secretario General reciba y comunicará a todos los Estados el texto de las reservas formuladas por los Estados en el momento de la adhesión o ratificación&quot;.</s>
+        <s id="14:2" lang="es">En este artículo también se dispone que el Secretario General informe a todo los Estados de todas las reservas, declaraciones, objeciones y notificaciones de retirada de reservas a la Convención.</s>
+        <s id="14:3" lang="es">En el documento también figura la lista de todos los Estados partes que hayan depositado ante el Secretario General los instrumentos de aceptación de la modificación del párrafo 1 del artículo 20 de la Convención, así como los de los Estados que hubiesen firmado y ratificado el Protocolo Facultativo de la Convención.</s>
+      </p>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,2702 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The United Nations Parallel Corpus v1.0 - NPT/CONF.2005/1</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>United Nations DGACM</publisher>
+        <pubPlace>New York</pubPlace>
+        <date>20040520</date>
+        <idno type="symbol">NPT/CONF.2005/1</idno>
+        <idno type="jobno">N0435840</idno>
+        <availability>
+          <p>The following disclaimer, an integral part of the United Nations Parallel Corpus v1.0, 
+             shall be respected in regard to the Corpus v1.0 (no other restrictions apply):</p>
+
+          <p>The United Nations Parallel Corpus is made available without warranty of any kind, 
+             explicit or implied. The United Nations specifically makes no warranties or 
+             representations as to the accuracy or completeness of the information contained in 
+             the United Nations corpus.</p>
+
+          <p>Under no circumstances shall the United Nations be liable for any loss, liability,
+             injury or damage incurred or suffered that is claimed to have resulted from the use
+             of the United Nations Corpus. The use of the United Nations Corpus is at the user's 
+             sole risk. The user specifically acknowledges and agrees that the United Nations is 
+             not liable for the conduct of any user. If the user is dissatisfied with any of the 
+             material provided in the United Nations Corpus, the users's sole and exclusive remedy 
+             is to discontinue using the United Nations Corpus.</p>
+
+          <p>When using the United Nations Corpus, the user must acknowledge the United Nations as the
+             source of the information. For references, please use this reference:
+             Ziemski, M., Junczys-Dowmunt, M., and Pouliquen, B. (2016) The United Nations
+             Parallel Corpus, Language Resources and Evaluation (LREC’16), Portorož, Slovenia, 
+             May 2016.</p>
+
+          <p>Nothing herein shall constitute or be considered to be a limitation upon or waiver,
+             express or implied, of the privileges and immunities of the United Nations, which
+             are specifically reserved.</p>
+        </availability>
+        <distributor>http://conferences.unite.un.org/UNCorpus</distributor>
+      </publicationStmt>
+      <sourceDesc>
+        <p>http://www.un.org/en/official-documents-system-search/index.html</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords>
+          <term>NUCLEAR NON-PROLIFERATION</term>
+          <term>DISARMAMENT AGREEMENTS</term>
+          <term>CONFERENCES</term>
+          <term>DOCUMENTS</term>
+        </keywords>
+      </textClass>
+      <langUsage>
+        <language ident="es">Spanish</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p id="1">
+        <s id="1:1" lang="es">Informe final del Comité Preparatorio de la Conferencia de las Partes del Año 2005 encargada del examen del Tratado sobre la no proliferación de las armas nucleares</s>
+      </p>
+      <p id="2">
+        <s id="2:1" lang="es">Índice</s>
+      </p>
+      <p id="3">
+        <s id="3:1" lang="es">Párrafos</s>
+      </p>
+      <p id="4">
+        <s id="4:1" lang="es">Página</s>
+      </p>
+      <p id="5">
+        <s id="5:1" lang="es">Mandato y organización de los trabajos</s>
+      </p>
+      <p id="6">
+        <s id="6:1" lang="es">Labor sustantiva del Comité</s>
+      </p>
+      <p id="7">
+        <s id="7:1" lang="es">Organización de la labor de la Conferencia de Examen</s>
+      </p>
+      <p id="8">
+        <s id="8:1" lang="es">Participación en la Conferencia de Examen</s>
+      </p>
+      <p id="9">
+        <s id="9:1" lang="es">Aprobación del informe final</s>
+      </p>
+      <p id="10">
+        <s id="10:1" lang="es">Anexos</s>
+      </p>
+      <p id="11">
+        <s id="11:1" lang="es">Actas resumidas</s>
+      </p>
+      <p id="12">
+        <s id="12:1" lang="es">Lista de documentos</s>
+      </p>
+      <p id="13">
+        <s id="13:1" lang="es">Proyecto de reglamento</s>
+      </p>
+      <p id="14">
+        <s id="14:1" lang="es">En su quincuagésimo sexto período de sesiones, la Asamblea General, en su resolución 56/24 O, de 29 de noviembre de 2001, tomó nota de la decisión adoptada por las partes en el Tratado sobre la no proliferación de las armas nucleares (TNP), tras celebrar las consultas correspondientes, de que la primera reunión del Comité Preparatorio se celebrará en Nueva York del 8 al 19 de abril de 2002.</s>
+      </p>
+      <p id="15">
+        <s id="15:1" lang="es">Por consiguiente, el Comité celebró su primer período de sesiones en Nueva York del 8 al 19 de abril de 2002.</s>
+        <s id="15:2" lang="es">De conformidad con la decisión adoptada en ese período de sesiones, el Comité celebró su segundo período de sesiones en Ginebra del 28 de abril al 9 de mayo de 2003 y el tercero en Nueva York del 26 de abril al 7 de mayo de 2004.</s>
+        <s id="15:3" lang="es">Los informes sobre los dos primeros períodos de sesiones del Comité se publicaron con las signaturas NPT/CONF.2005/PC.I/21 y Corr.1 y NPT/CONF.2005/PC.II/50, respectivamente.</s>
+      </p>
+      <p id="16">
+        <s id="16:1" lang="es">En el primer período de sesiones del Comité Preparatorio, las delegaciones habían llegado al entendimiento de que se propondría a un representante del Grupo de los Estados Occidentales para que presidiera el primer período de sesiones, a un representante del Grupo de los Estados de Europa Oriental para que presidiera el segundo, a un representante del Grupo de los Estados No Alineados y otros Estados partes en el Tratado sobre la no proliferación de las armas nucleares para que presidiera el tercero, y a un representante del Grupo de los Estados No Alineados y otros Estados partes en el Tratado para que presidiera la Conferencia del Año 2005 encargada del examen del Tratado.</s>
+      </p>
+      <p id="17">
+        <s id="17:1" lang="es">En virtud de dicho entendimiento, el Comité Preparatorio, en su primer período de sesiones, eligió al Sr. Henrik Salander (Suecia) Presidente del primer período de sesiones.</s>
+        <s id="17:2" lang="es">También decidió que el Sr. László Molnár (Hungría) presidiera el segundo período de sesiones.</s>
+        <s id="17:3" lang="es">Además, se decidió que, cuando no desempeñaran funciones de Presidentes, los presidentes de los períodos de sesiones del Comité Preparatorio actuaran como vicepresidentes del Comité.</s>
+      </p>
+      <p id="18">
+        <s id="18:1" lang="es">En su tercer período de sesiones, el Comité eligió al Sr. Sudjadnan Parnohadiningrat (Indonesia) Presidente del tercer período de sesiones.</s>
+        <s id="18:2" lang="es">En ese mismo período de sesiones, se informó al Comité de que la delegación de Suecia había comunicado al Presidente que la Sra. Elisabet Borsiin Bonnier sucedería al Sr. Salander como Vicepresidenta de la Mesa del Comité Preparatorio.</s>
+      </p>
+      <p id="19">
+        <s id="19:1" lang="es">En el tercer período de sesiones, el Comité autorizó a su Mesa y al Presidente electo a que se ocuparan de cuestiones técnicas y otras cuestiones de organización en el período anterior a la Conferencia.</s>
+        <s id="19:2" lang="es">También decidió que el Presidente del tercer período de sesiones declarara abierta la Conferencia.</s>
+      </p>
+      <p id="20">
+        <s id="20:1" lang="es">En su primer período de sesiones, el Comité aprobó el programa siguiente, que aparece en el párrafo 8 del documento NPT/CONF.2005/PC.I/21 y Corr.1:</s>
+      </p>
+      <p id="21">
+        <s id="21:1" lang="es">1. Apertura del período de sesiones.</s>
+      </p>
+      <p id="22">
+        <s id="22:1" lang="es">2. Elección del Presidente.</s>
+      </p>
+      <p id="23">
+        <s id="23:1" lang="es">3. Aprobación del programa.</s>
+      </p>
+      <p id="24">
+        <s id="24:1" lang="es">4. Debate general sobre cuestiones relacionadas con todos los aspectos de la labor del Comité Preparatorio.</s>
+      </p>
+      <p id="25">
+        <s id="25:1" lang="es">5. Declaraciones de organizaciones no gubernamentales.</s>
+      </p>
+      <p id="26">
+        <s id="26:1" lang="es">6. Trabajos preparatorios del examen del funcionamiento del Tratado de conformidad con el párrafo 3 de su artículo VIII, especialmente el examen de los principios, objetivos y medios de fomentar la plena aplicación del Tratado, así como su universalidad, incluidos asuntos sustantivos concretos relacionados con la aplicación del Tratado y las decisiones 1 y 2, así como la resolución relativa al Oriente Medio aprobada en 1995, y los resultados de la Conferencia del Año 2000 encargada del examen del Tratado, incluidos los acontecimientos que pudieran afectar al funcionamiento y propósito del Tratado.</s>
+      </p>
+      <p id="27">
+        <s id="27:1" lang="es">7. Organización de los trabajos del Comité Preparatorio:</s>
+      </p>
+      <p id="28">
+        <s id="28:1" lang="es">a) Elección de la Mesa;</s>
+      </p>
+      <p id="29">
+        <s id="29:1" lang="es">b) Fechas y sedes en que se celebrarán los futuros períodos de sesiones;</s>
+      </p>
+      <p id="30">
+        <s id="30:1" lang="es">c) Métodos de trabajo:</s>
+      </p>
+      <p id="31">
+        <s id="31:1" lang="es">i) Adopción de decisiones;</s>
+      </p>
+      <p id="32">
+        <s id="32:1" lang="es">ii) Participantes;</s>
+      </p>
+      <p id="33">
+        <s id="33:1" lang="es">iii) Idiomas de trabajo;</s>
+      </p>
+      <p id="34">
+        <s id="34:1" lang="es">iv) Actas y documentos.</s>
+      </p>
+      <p id="35">
+        <s id="35:1" lang="es">8. Informe sobre los resultados del período de sesiones al Comité Preparatorio en su próximo período de sesiones.</s>
+      </p>
+      <p id="36">
+        <s id="36:1" lang="es">9. Organización de la Conferencia del Año 2005 encargada del examen del Tratado:</s>
+      </p>
+      <p id="37">
+        <s id="37:1" lang="es">a) Fecha y sede;</s>
+      </p>
+      <p id="38">
+        <s id="38:1" lang="es">b) Proyecto de reglamento;</s>
+      </p>
+      <p id="39">
+        <s id="39:1" lang="es">c) Elección del Presidente y otros miembros de la Mesa;</s>
+      </p>
+      <p id="40">
+        <s id="40:1" lang="es">d) Nombramiento del Secretario General de la Conferencia de Examen;</s>
+      </p>
+      <p id="41">
+        <s id="41:1" lang="es">e) Programa provisional;</s>
+      </p>
+      <p id="42">
+        <s id="42:1" lang="es">f) Financiación de la Conferencia de Examen, incluido su Comité Preparatorio;</s>
+      </p>
+      <p id="43">
+        <s id="43:1" lang="es">g) Documentación de antecedentes;</s>
+      </p>
+      <p id="44">
+        <s id="44:1" lang="es">h) Documento(s) final(es).</s>
+      </p>
+      <p id="45">
+        <s id="45:1" lang="es">10. Aprobación del informe final y de las recomendaciones del Comité Preparatorio a la Conferencia de Examen.</s>
+      </p>
+      <p id="46">
+        <s id="46:1" lang="es">11. Otros asuntos.</s>
+      </p>
+      <p id="47">
+        <s id="47:1" lang="es">La Sra. Hannelore Hoppe, Jefa de la Subdivisión de Armas de Destrucción en Masa del Departamento de Asuntos de Desarme, actuó como Secretaria del primer período de sesiones del Comité Preparatorio.</s>
+        <s id="47:2" lang="es">La Sra. Silvana Fonseca da Silva, Jefa de la Subdivisión de Armas de Destrucción en Masa del Departamento de Asuntos de Desarme, actuó como Secretaria de los períodos de sesiones segundo y tercero del Comité Preparatorio.</s>
+        <s id="47:3" lang="es">El Sr. Tariq Rauf, Jefe de Coordinación de Políticas de</s>
+      </p>
+      <p id="48">
+        <s id="48:1" lang="es">Verificación y Seguridad de la Oficina de Relaciones Externas y Coordinación de Políticas del Organismo Internacional de Energía Atómica (OIEA), representó al OIEA en todos los períodos de sesiones.</s>
+      </p>
+      <p id="49">
+        <s id="49:1" lang="es">Los siguientes 153 Estados partes participaron en uno o más períodos de sesiones del Comité Preparatorio:</s>
+      </p>
+      <p id="50">
+        <s id="50:1" lang="es">Afganistán, Albania, Alemania, Andorra, Arabia Saudita, Argelia, Argentina, Armenia, Australia, Austria, Azerbaiyán, Bahamas, Bahrein, Bangladesh, Barbados, Belarús, Bélgica, Belice, Bhután, Bolivia, Bosnia y Herzegovina, Botswana, Brasil, Brunei Darussalam, Bulgaria, Burkina Faso, Camboya, Camerún, Canadá, Chile, China, Chipre, Colombia, Congo, Costa Rica, Côte d&apos;Ivoire, Croacia, Cuba, Dinamarca, Djibouti, Ecuador, Egipto, El Salvador, Emiratos Árabes Unidos, Eslovaquia, Eslovenia, España, Estados Unidos de América, Estonia, Etiopía, ex República Yugoslava de Macedonia, Federación de Rusia, Fiji, Filipinas, Finlandia, Francia, Georgia, Ghana, Grecia, Guatemala, Guinea, Guinea Ecuatorial, Guyana, Haití, Hungría, Indonesia, Irán (República Islámica del), Iraq, Irlanda, Islandia, Islas Marshall, Islas Salomón, Italia, Jamahiriya Árabe Libia, Jamaica, Japón, Jordania, Kazajstán, Kenya, Kirguistán, Kuwait, Lesotho, Letonia, Líbano, Liberia, Liechtenstein, Lituania, Luxemburgo, Madagascar, Malasia, Malawi, Malí, Malta, Marruecos, Mauricio, Mauritania, México, Micronesia (Estados Federados de), Mónaco, Mongolia, Mozambique, Myanmar, Namibia, Nauru, Nepal, Nicaragua, Níger, Nigeria, Noruega, Nueva Zelandia, Omán, Países Bajos, Palau, Perú, Polonia, Portugal, Qatar, Reino Unido de Gran Bretaña e Irlanda del Norte, República Árabe Siria, República Centroafricana, República Checa, República de Corea, República Democrática Popular Lao, República de Moldova, República Dominicana, República Unida de Tanzanía, Rumania, Samoa, Santa Sede, Senegal, Serbia y Montenegro, Sierra Leona, Singapur, Sri Lanka, Sudáfrica, Sudán, Suecia, Suiza, Tailandia, Timor-Leste, Togo, Tonga, Túnez, Turquía, Ucrania, Uganda, Uruguay, Uzbekistán, Venezuela, Viet Nam, Yemen, Zambia y Zimbabwe.</s>
+      </p>
+      <p id="51">
+        <s id="51:1" lang="es">En el segundo período de sesiones, el Presidente hizo la siguiente declaración: &quot;Como ustedes recordarán, en el Documento Final de la Conferencia de las Partes del Año 2000 encargada del examen del Tratado sobre la no proliferación de las armas nucleares, se encomendó a los Presidentes de los períodos de sesiones del Comité Preparatorio la tarea de `sostener consultas con los Estados partes a fin de preparar el terreno para los resultados de los períodos de sesiones, así como sus programas&apos;.</s>
+        <s id="51:2" lang="es">En consecuencia, sostuve esas consultas, en las que se puso de manifiesto la existencia de opiniones divergentes sobre la situación de la República Popular Democrática de Corea en relación con el Tratado.</s>
+        <s id="51:3" lang="es">Estoy convencido de que un debate sobre esta cuestión sólo iría en detrimento del propósito del Comité Preparatorio, a saber, `examinar los principios, objetivos y medios de fomentar la plena aplicación del Tratado, así como su universalidad&apos;.</s>
+        <s id="51:4" lang="es">A la luz de lo que antecede, el Presidente, en el ejercicio de sus funciones, tiene la intención de no abrir un debate sobre esta cuestión y de retener la placa con el nombre de dicho país temporalmente bajo su custodia.</s>
+        <s id="51:5" lang="es">Por tanto, el Presidente ha pedido a la Secretaría que mantenga la placa con el nombre del país en la sala de conferencias durante el segundo período de sesiones del Comité Preparatorio.</s>
+        <s id="51:6" lang="es">Ello no ha de perjudicar en modo alguno el resultado de las consultas en curso sobre la cuestión&quot;.</s>
+        <s id="51:7" lang="es">El Comité tomó nota de la declaración.</s>
+      </p>
+      <p id="52">
+        <s id="52:1" lang="es">En el tercer período de sesiones, el Presidente hizo la siguiente declaración: &quot;Quisiera hacer referencia a varios aspectos de las consultas previas al presente período de sesiones, que efectué de conformidad con el mandato conferido a los Presidentes de los períodos de sesiones del Comité Preparatorio en el Documento Final de la Conferencia de las Partes del Año 2000 encargada del examen del Tratado sobre la no proliferación de las armas nucleares.</s>
+        <s id="52:2" lang="es">En las consultas se puso de manifiesto, entre otras cosas, que seguía habiendo opiniones divergentes sobre la situación de la República Popular Democrática de Corea en relación con el Tratado.</s>
+        <s id="52:3" lang="es">En las consultas se puso de relieve, asimismo, que los Estados partes estaban dispuestos a reafirmar las medidas adoptadas por mi predecesor, el Embajador László Molnár, a este respecto.</s>
+        <s id="52:4" lang="es">En consecuencia, el Presidente, en el ejercicio de sus funciones, tiene la intención de no abrir un debate sobre esta cuestión y de retener la placa con el nombre de dicho país temporalmente bajo su custodia.</s>
+        <s id="52:5" lang="es">Por tanto, el Presidente ha pedido a la Secretaría que mantenga la placa con el nombre del país en la sala de conferencias durante el tercer período de sesiones del Comité Preparatorio.</s>
+        <s id="52:6" lang="es">Ello no ha de perjudicar en modo alguno el resultado de las consultas en curso sobre la cuestión&quot;.</s>
+        <s id="52:7" lang="es">El Comité tomó nota de la declaración.</s>
+      </p>
+      <p id="53">
+        <s id="53:1" lang="es">En su primer período de sesiones, el Comité decidió lo siguiente:</s>
+      </p>
+      <p id="54">
+        <s id="54:1" lang="es">a) Se permitiría que los representantes de los Estados que no fueran partes en el Tratado sobre la no proliferación de las armas nucleares e hicieran la solicitud del caso, asistieran, en calidad de observadores, a las sesiones del Comité que no fueran sesiones privadas, ocuparan un asiento en el Comité detrás de la placa con el nombre de sus países y recibieran documentos del Comité.</s>
+        <s id="54:2" lang="es">También tendrían derecho a presentar documentos a los participantes en el Comité.</s>
+        <s id="54:3" lang="es">Conforme a ello, asistieron al primer período de sesiones del Comité, en calidad de observadores los representantes de Cuba;</s>
+      </p>
+      <p id="55">
+        <s id="55:1" lang="es">b) Se permitiría que los representantes de organismos especializados y organizaciones intergubernamentales internacionales y regionales que lo solicitaran, asistieran, en calidad de observadores, a las sesiones del Comité que no fueran sesiones privadas, ocuparan un asiento en el Comité detrás de la placa con el nombre de sus organizaciones y recibieran documentos del Comité.</s>
+        <s id="55:2" lang="es">También tendrían derecho a presentar, por escrito, sus opiniones y observaciones sobre cuestiones de su competencia, las cuales podrían distribuirse como documentos del Comité.</s>
+        <s id="55:3" lang="es">Las siguientes organizaciones intergubernamentales internacionales y regionales estuvieron representadas, en calidad de observadores, en las sesiones del Comité: Organismo para la Proscripción de las Armas Nucleares en la América Latina y el Caribe (OPANAL), Comisión Europea, Comité Internacional de la Cruz Roja, Liga de los Estados Árabes, Organización de la Unidad Africana (primer período de sesiones), Organización de la Conferencia Islámica, Comisión Preparatoria de la Organización del Tratado de Prohibición Completa de los Ensayos Nucleares y Foro de las Islas del Pacífico;</s>
+      </p>
+      <p id="56">
+        <s id="56:1" lang="es">c) Se permitiría que los representantes de las organizaciones no gubernamentales que lo solicitaran, asistieran a las sesiones del Comité que no fueran sesiones privadas, ocuparan asientos en la sección reservada al público, recibieran documentos del Comité y facilitaran, a sus expensas, material presentado por escrito a los participantes en el Comité.</s>
+        <s id="56:2" lang="es">Además, en cada período de sesiones, el Comitéasignaría una sesión a las organizaciones no gubernamentales para que sus representantes hicieran uso de la palabra ante el Comité.</s>
+        <s id="56:3" lang="es">Asistieron a una o más sesiones del Comité los representantes de 111 organizaciones no gubernamentales.</s>
+      </p>
+      <p id="57">
+        <s id="57:1" lang="es">En su primer período de sesiones, el Comité decidió hacer todo lo posible por adoptar sus decisiones por consenso.</s>
+        <s id="57:2" lang="es">En caso de que no se pudiese llegar a un consenso, el Comité adoptaría sus decisiones de conformidad con el reglamento de la Conferencia de Examen de 2000, que se aplicaría mutatis mutandis.</s>
+      </p>
+      <p id="58">
+        <s id="58:1" lang="es">También en su primer período de sesiones, el Comité decidió que sus idiomas de trabajo fueran el árabe, el chino, el español, el francés, el inglés y el ruso.</s>
+      </p>
+      <p id="59">
+        <s id="59:1" lang="es">En todos los períodos de sesiones se levantaron actas resumidas de la sesión de apertura, el debate general y las sesiones de clausura, de conformidad con la decisión adoptada por el Comité en su primer período de sesiones.</s>
+        <s id="59:2" lang="es">Las actas resumidas del primer período de sesiones se publicaron con las signaturas NPT/CONF.2005/ PC.I/SR.1 a 4, 6, 18 y 19.</s>
+        <s id="59:3" lang="es">Las actas resumidas del segundo período de sesiones se publicaron con las signaturas NPT/CONF.2005/PC.II/SR.1 a 4 y 19.</s>
+        <s id="59:4" lang="es">Las actas</s>
+      </p>
+      <p id="60">
+        <s id="60:1" lang="es">resumidas del tercer período de sesiones (NPT/CONF.2000/PC.III/SR.1 a 3 y 5) se publican por separado como anexo I del presente informe.</s>
+      </p>
+      <p id="61">
+        <s id="61:1" lang="es">En cada período de sesiones, el Comité destinó algunas sesiones a un debate general sobre cuestiones relacionadas con todos los aspectos de su labor, en las cuales formularon declaraciones muchas delegaciones.</s>
+        <s id="61:2" lang="es">Todas las declaraciones se consignan en las actas resumidas de esas sesiones.</s>
+      </p>
+      <p id="62">
+        <s id="62:1" lang="es">Asimismo, en todos los períodos de sesiones, el Comité reservó una sesión para las presentaciones de los representantes de las organizaciones no gubernamentales.</s>
+      </p>
+      <p id="63">
+        <s id="63:1" lang="es">II. Labor sustantiva del Comité</s>
+      </p>
+      <p id="64">
+        <s id="64:1" lang="es">El Comité dedicó 30 sesiones a la celebración de debates sustantivos en relación con el tema 6 del programa.</s>
+      </p>
+      <p id="65">
+        <s id="65:1" lang="es">Los debates de todos los períodos de sesiones del Comité Preparatorio se estructuraron de conformidad con los calendarios indicativos, en los que se asignó el mismo tiempo al examen de tres grupos de cuestiones y de tres conjuntos concretos de cuestiones.</s>
+      </p>
+      <p id="66">
+        <s id="66:1" lang="es">En el tercer período de sesiones, el Presidente formuló la siguiente declaración: &quot;Con objeto de resolver las cuestiones pendientes, en particular el calendario de este período de sesiones del Comité, y evitar que cualquier acuerdo sobre la manera de tratar las cuestiones pertinentes para el Tratado afecte a la manera en que se abordarán en la Conferencia de Examen, me propongo organizar nuestros trabajos de los próximos días de la siguiente forma: el Presidente dará la oportunidad a los Estados partes de que se refieran específicamente a las garantías de seguridad en el tiempo asignado al grupo 1, y a la resolución de 1995 relativa al Oriente Medio en el tiempo asignado a las cuestiones regionales.</s>
+        <s id="66:2" lang="es">Para llegar a esta conclusión, el Presidente ha tenido en cuenta las diferentes opiniones expresadas sobre el calendario de trabajo y el tiempo limitado del que disponemos para nuestras deliberaciones en el presente período de sesiones del Comité.</s>
+        <s id="66:3" lang="es">Se pide a las delegaciones que estructuren sus deliberaciones sobre las cuestiones conforme al tiempo asignado en esta propuesta.</s>
+        <s id="66:4" lang="es">Espero firmemente que este planteamiento permita cumplir el mandato del Comité con resultados positivos.</s>
+        <s id="66:5" lang="es">En lo que respecta a los demás temas de nuestro programa, se aplicará la estructura del programa de trabajo de los dos períodos de sesiones anteriores del Comité, haciendo los ajustes que sean necesarios&quot;.</s>
+        <s id="66:6" lang="es">El Comité tomó nota de esa declaración y del calendario indicativo propuesto por el Presidente.</s>
+      </p>
+      <p id="67">
+        <s id="67:1" lang="es">El Comité examinó los tres conjuntos de cuestiones siguientes, consignados en el anexo VIII del informe final del Comité Preparatorio de la Conferencia del Año 2000 encargada del examen del Tratado (NPT/CONF.2000/1):</s>
+      </p>
+      <p id="68">
+        <s id="68:1" lang="es">a) Aplicación de las disposiciones del Tratado relativas a la no proliferación de las armas nucleares, el desarme y la paz y la seguridad internacionales;</s>
+      </p>
+      <p id="69">
+        <s id="69:1" lang="es">b) Aplicación de las disposiciones del Tratado relativas a la no proliferación de las armas nucleares, a las salvaguardias y a las zonas libres de armas nucleares;</s>
+      </p>
+      <p id="70">
+        <s id="70:1" lang="es">c) Aplicación de las disposiciones del Tratado relativas al derecho inalienable de todos los Estados partes en el Tratado de desarrollar la investigación, la producción y la utilización de la energía nuclear con fines pacíficos sin discriminación y de conformidad con los artículos I y II.</s>
+      </p>
+      <p id="71">
+        <s id="71:1" lang="es">El Comité examinó los siguientes tres conjuntos concretos de cuestiones:</s>
+      </p>
+      <p id="72">
+        <s id="72:1" lang="es">a) Aplicación del artículo VI del Tratado sobre la no proliferación de las armas nucleares y del párrafo 3 y apartado c) del párrafo 4 de la decisión de 1995 sobre los principios y objetivos para la no proliferación de las armas nucleares y el desarme, así como de los acuerdos, conclusiones y compromisos enunciados en la sección titulada &quot;Artículo VI y párrafos octavo a duodécimo del preámbulo&quot; del Documento Final de la Conferencia de Examen de 2000;</s>
+      </p>
+      <p id="73">
+        <s id="73:1" lang="es">b) Cuestiones regionales, incluso respecto del Oriente Medio y de la aplicación de la resolución de 1995 relativa al Oriente Medio y de los compromisos, conclusiones y presentaciones hechos llegar posteriormente al Secretario General de las Naciones Unidas, el Presidente de la Conferencia de Examen de 2005 y los Presidentes de los períodos de sesiones del Comité Preparatorio, conforme a los apartados pertinentes enumerados en la sección titulada &quot;Cuestiones regionales: el Oriente Medio, en particular la aplicación de la resolución de 1995 relativa al Oriente</s>
+      </p>
+      <p id="74">
+        <s id="74:1" lang="es">Medio&quot;, que figura en el Documento Final de la Conferencia de Examen de 2000;</s>
+      </p>
+      <p id="75">
+        <s id="75:1" lang="es">c) Seguridad de los programas de utilización de la energía nuclear con fines pacíficos.</s>
+      </p>
+      <p id="76">
+        <s id="76:1" lang="es">Guiándose por las disposiciones del párrafo 7 de la sección titulada &quot;Mejoramiento de la eficacia del proceso consolidado de examen del Tratado&quot; del Documento Final de la Conferencia de Examen de 2000, los Presidentes de los períodos de sesiones primero y segundo del Comité elaboraron resúmenes fácticos del examen de las cuestiones por el Comité, que se adjuntaron a los informes de los períodos de sesiones primero y segundo.</s>
+      </p>
+      <p id="77">
+        <s id="77:1" lang="es">El Comité tuvo ante sí varios documentos presentados por diferentes delegaciones.</s>
+        <s id="77:2" lang="es">La lista de los documentos presentados durante los períodos de sesiones del Comité aparece en el anexo II del presente informe.</s>
+      </p>
+      <p id="78">
+        <s id="78:1" lang="es">III. Organización de la labor de la Conferencia de Examen</s>
+      </p>
+      <p id="79">
+        <s id="79:1" lang="es">En sus períodos de sesiones, el Comité examinó las siguientes cuestiones relativas a la organización y los trabajos de la Conferencia de Examen de 2005:</s>
+      </p>
+      <p id="80">
+        <s id="80:1" lang="es">a) Fechas y lugar de celebración;</s>
+      </p>
+      <p id="81">
+        <s id="81:1" lang="es">c) Elección del Presidente y demás miembros de la Mesa;</s>
+      </p>
+      <p id="82">
+        <s id="82:1" lang="es">d) Nombramiento del Secretario General;</s>
+      </p>
+      <p id="83">
+        <s id="83:1" lang="es">Fechas y lugar de celebración de la Conferencia</s>
+      </p>
+      <p id="84">
+        <s id="84:1" lang="es">En su tercer período de sesiones, el Comité reafirmó la decisión que había adoptado en su primer período de sesiones de que la Conferencia de Examen del Año 2005 de las Partes en el Tratado sobre la no proliferación de las armas nucleares se celebrara en Nueva York del 2 al 27 de mayo de 2005.</s>
+      </p>
+      <p id="85">
+        <s id="85:1" lang="es">En su tercer período de sesiones, el Comité examinó el proyecto de reglamento de la Conferencia y acordó recomendar a la Conferencia el proyecto de reglamento que figura en el anexo III del presente informe.</s>
+      </p>
+      <p id="86">
+        <s id="86:1" lang="es">También en su tercer período de sesiones, el Comité acordó recomendar a la Conferencia que, independientemente de lo dispuesto en el artículo 44.3 del proyecto de reglamento recomendado a la Conferencia, se invitara a los organismos especializados y a las organizaciones intergubernamentales internacionales y regionales a hacer presentaciones orales ante la Conferencia, por las decisiones que ésta adoptara en cada caso.</s>
+      </p>
+      <p id="87">
+        <s id="87:1" lang="es">En su tercer período de sesiones, el Comité acordó recomendar a la Conferencia que, con arreglo al proyecto de reglamento, se permitiera a los representantes de organizaciones no gubernamentales asistir a las sesiones que no fueran privadas y recibir documentos de la Conferencia; que, de conformidad con la práctica establecida, se permitiera a las organizaciones no gubernamentales poner a disposición de los participantes en la Conferencia material impreso, cuyos gastos deben haber sufragado ellas mismas; y que se les permitiera también intervenir ante la Conferencia, conforme a lo dispuesto en el Documento Final de la Conferencia de Examen de 2000.</s>
+      </p>
+      <p id="88">
+        <s id="88:1" lang="es">Elección del Presidente y demás miembros de la Mesa</s>
+      </p>
+      <p id="89">
+        <s id="89:1" lang="es">En su tercer período de sesiones, el Comité apoyó por unanimidad la candidatura del Sr. Sérgio de Queiroz Duarte del Brasil a la Presidencia de la Conferencia de Examen de 2005.</s>
+      </p>
+      <p id="90">
+        <s id="90:1" lang="es">También en su tercer período de sesiones, el Comité acordó recomendar que la Comisión Principal I estuviera presidida por un representante del Grupo de los Estados No Alineados y otros Estados, a saber, el Presidente del Comité Preparatorio en su tercer período de sesiones (Indonesia); que la Comisión Principal II estuviera presidida por un representante del Grupo de los Estados de Europa Oriental, a saber, el Presidente del Comité Preparatorio en su segundo período de sesiones (Hungría); y que la Comisión Principal III estuviera presidida por un representante del Grupo de Estados Occidentales, a saber, el Presidente del Comité Preparatorio en su primer período de sesiones (Suecia).</s>
+      </p>
+      <p id="91">
+        <s id="91:1" lang="es">El Comité también acordó recomendar para el cargo de Presidente del Comité de Redacción a un representante del Grupo de Estados de Europa Oriental, y para el de Presidente de la Comisión de Poderes, a un representante del Grupo de los Estados No Alineados y otros Estados.</s>
+      </p>
+      <p id="92">
+        <s id="92:1" lang="es">Nombramiento del Secretario General</s>
+      </p>
+      <p id="93">
+        <s id="93:1" lang="es">En su primer período de sesiones, el Comité decidió invitar al Secretario General de las Naciones Unidas a que, en consulta con los miembros del Comité Preparatorio, propusiera a un funcionario para el cargo de Secretario General provisional de la Conferencia de las Partes del Año 2005 encargada del examen del Tratado sobre la no proliferación de las armas nucleares, candidatura que sería confirmada posteriormente por la propia Conferencia.</s>
+        <s id="93:2" lang="es">En su tercer período de sesiones, se</s>
+      </p>
+      <p id="94">
+        <s id="94:1" lang="es">comunicó al Comité que el Secretario General, tras celebrar consultas con los miembros del Comité Preparatorio, había decidido proponer a la Sra. Silvana Fonseca da Silva, Jefa de la Subdivisión de Armas de Destrucción en Masa, del Departamento de Asuntos de Desarme, de la Secretaría de las Naciones Unidas, como Secretaria General provisional de la Conferencia.</s>
+        <s id="94:2" lang="es">El Comité tomó nota de la</s>
+      </p>
+      <p id="95">
+        <s id="95:1" lang="es">propuesta.</s>
+      </p>
+      <p id="96">
+        <s id="96:1" lang="es">Financiación de la Conferencia de Examen, incluido su Comité Preparatorio</s>
+      </p>
+      <p id="97">
+        <s id="97:1" lang="es">En su segundo período de sesiones, el Comité tomó nota de los gastos estimados de la Conferencia, incluido su Comité Preparatorio (NPT/CONF.2005/PC.II/1).</s>
+        <s id="97:2" lang="es">En su tercer período de sesiones, el Comité aprobó la tabla de división de los gastos.</s>
+        <s id="97:3" lang="es">La tabla de división de los gastos figura en el apéndice del proyecto de reglamento que aparece en el anexo III del presente informe.</s>
+      </p>
+      <p id="98">
+        <s id="98:1" lang="es">Documento(s) final(es)</s>
+      </p>
+      <p id="99">
+        <s id="99:1" lang="es">En su tercer período de sesiones, el Comité decidió aplazar el examen de este asunto hasta la Conferencia de Examen de 2005.</s>
+      </p>
+      <p id="100">
+        <s id="100:1" lang="es">IV. Participación en la Conferencia de Examen</s>
+      </p>
+      <p id="101">
+        <s id="101:1" lang="es">El Comité decidió que el Presidente del tercer período de sesiones del Comité Preparatorio enviara invitaciones a los Estados que, de conformidad con la decisión sobre la participación, tuvieran derecho a participar en la Conferencia, así como al Secretario General de las Naciones Unidas y al Director General del Organismo Internacional de Energía Atómica.</s>
+      </p>
+      <p id="102">
+        <s id="102:1" lang="es">V. Aprobación del informe final</s>
+      </p>
+      <p id="103">
+        <s id="103:1" lang="es">El Comité Preparatorio aprobó su informe final en su última sesión, celebrada el 7 de mayo de 2004.</s>
+      </p>
+      <p id="104">
+        <s id="104:1" lang="es">Las actas resumidas de las sesiones del tercer período de sesiones del Comité Preparatorio se distribuirán por separado con las signaturas NPT/CONF.2005/PC.III/SR.1 a 3 y 5).</s>
+      </p>
+      <p id="105">
+        <s id="105:1" lang="es">Primer período de sesiones</s>
+      </p>
+      <p id="106">
+        <s id="106:1" lang="es">NPT/CONF.2005/PC.I/1</s>
+      </p>
+      <p id="107">
+        <s id="107:1" lang="es">Programa provisional</s>
+      </p>
+      <p id="108">
+        <s id="108:1" lang="es">NPT/CONF.2005/PC.I/2</s>
+      </p>
+      <p id="109">
+        <s id="109:1" lang="es">Medidas adoptadas para institucionalizar la condición de Estado libre de armas nucleares de Mongolia: informe presentado por Mongolia</s>
+      </p>
+      <p id="110">
+        <s id="110:1" lang="es">NPT/CONF.2005/PC.I/3</s>
+      </p>
+      <p id="111">
+        <s id="111:1" lang="es">Medidas para propiciar el establecimiento de una zona libre de armas nucleares en el Oriente Medio y la realización de los objetivos y metas de la resolución de 1995 sobre el Oriente Medio: compilación de los informes presentados por Argelia, Australia, Egipto y Jordania</s>
+      </p>
+      <p id="112">
+        <s id="112:1" lang="es">NPT/CONF.2005/PC.I/3/Add.1</s>
+      </p>
+      <p id="113">
+        <s id="113:1" lang="es">Medidas para propiciar el establecimiento de una zona libre de armas nucleares en el Oriente Medio y la realización de los objetivos y metas de la resolución de 1995 sobre el Oriente Medio: compilación de los informes presentados por el Canadá, China, Marruecos, el Reino Unido de Gran Bretaña e Irlanda del Norte y Suecia</s>
+      </p>
+      <p id="114">
+        <s id="114:1" lang="es">NPT/CONF.2005/PC.I/3/Add.2</s>
+      </p>
+      <p id="115">
+        <s id="115:1" lang="es">Medidas para propiciar el establecimiento de una zona libre de armas nucleares en el Oriente Medio y la realización de los objetivos y metas de la resolución de 1995 sobre el Oriente Medio: compilación de los informes presentados por la Arabia Saudita y Túnez</s>
+      </p>
+      <p id="116">
+        <s id="116:1" lang="es">NPT/CONF.2005/PC.I/3/Add.3</s>
+      </p>
+      <p id="117">
+        <s id="117:1" lang="es">Medidas para propiciar el establecimiento de una zona libre de armas nucleares en el Oriente Medio y la realización de los objetivos y metas de la resolución de 1995 sobre el Oriente Medio: informe presentado por los Estados Unidos de América</s>
+      </p>
+      <p id="118">
+        <s id="118:1" lang="es">NPT/CONF.2005/PC.I/3/Add.4</s>
+      </p>
+      <p id="119">
+        <s id="119:1" lang="es">Medidas para propiciar el establecimiento de una zona libre de armas nucleares en el Oriente Medio y la realización de los objetivos y metas de la resolución de 1995 sobre el Oriente Medio: compilación de los informes presentados por la Jamahiriya Árabe Libia y el Japón</s>
+      </p>
+      <p id="120">
+        <s id="120:1" lang="es">NPT/CONF.2005/PC.I/3/Add.5</s>
+      </p>
+      <p id="121">
+        <s id="121:1" lang="es">Medidas para propiciar el establecimiento de una zona libre de armas nucleares en el Oriente Medio y la realización de los objetivos y metas de la resolución de 1995 sobre el Oriente Medio: compilación de los informes presentados por Francia y Túnez</s>
+      </p>
+      <p id="122">
+        <s id="122:1" lang="es">NPT/CONF.2005/PC.I/3/Add.6</s>
+      </p>
+      <p id="123">
+        <s id="123:1" lang="es">Medidas para propiciar el establecimiento de una zona libre de armas nucleares en el Oriente Medio y la realización de los objetivos y metas de la resolución de 1995 sobre el Oriente Medio: informe presentado por Qatar</s>
+      </p>
+      <p id="124">
+        <s id="124:1" lang="es">NPT/CONF.2005/PC.I/4</s>
+      </p>
+      <p id="125">
+        <s id="125:1" lang="es">Aplicación del artículo VI y del apartado c) del párrafo 4 de la decisión de 1995 sobre &quot;Principios y objetivos de la no proliferación nuclear y del desarme nuclear&quot;: informe presentado por Polonia</s>
+      </p>
+      <p id="126">
+        <s id="126:1" lang="es">NPT/CONF.2005/PC.I/5</s>
+      </p>
+      <p id="127">
+        <s id="127:1" lang="es">Aplicación del artículo VI y del apartado c) del párrafo 4 de la decisión de 1995 sobre &quot;Principios y objetivos de la no proliferación nuclear y del desarme nuclear&quot;: informe presentado por Tailandia</s>
+      </p>
+      <p id="128">
+        <s id="128:1" lang="es">NPT/CONF.2005/PC.I/5/Add.1</s>
+      </p>
+      <p id="129">
+        <s id="129:1" lang="es">Aplicación de medidas complementarias para coadyuvar a promover el desarme nuclear y la no proliferación de las armas nucleares mediante las actividades de la Oficina de Energía Atómica para la Paz: documento presentado por Tailandia</s>
+      </p>
+      <p id="130">
+        <s id="130:1" lang="es">NPT/CONF.2005/PC.I/6</s>
+      </p>
+      <p id="131">
+        <s id="131:1" lang="es">Cumplimiento de las obligaciones contraídas en virtud del artículo VI del Tratado sobre la no proliferación de las armas nucleares: informe presentado por Australia</s>
+      </p>
+      <p id="132">
+        <s id="132:1" lang="es">NPT/CONF.2005/PC.I/7</s>
+      </p>
+      <p id="133">
+        <s id="133:1" lang="es">Aplicación del Tratado sobre la no proliferación de las armas nucleares: informe presentado por Nueva Zelandia</s>
+      </p>
+      <p id="134">
+        <s id="134:1" lang="es">NPT/CONF.2005/PC.I/8</s>
+      </p>
+      <p id="135">
+        <s id="135:1" lang="es">Informe en el marco del mejoramiento de la eficacia del proceso consolidado de examen del Tratado sobre la no proliferación de las armas nucleares, sobre la aplicación del artículo VI y del apartado c) del párrafo 4 de la decisión de 1995 sobre &quot;Principios y objetivos para la no proliferación nuclear y el desarme nuclear&quot;, presentado por Indonesia</s>
+      </p>
+      <p id="136">
+        <s id="136:1" lang="es">NPT/CONF.2005/PC.I/9</s>
+      </p>
+      <p id="137">
+        <s id="137:1" lang="es">Documento de la Coalición para el Nuevo Programa, presentado por Egipto en nombre de los países del Nuevo Programa</s>
+      </p>
+      <p id="138">
+        <s id="138:1" lang="es">NPT/CONF.2005/PC.I/10</s>
+      </p>
+      <p id="139">
+        <s id="139:1" lang="es">Aplicación del artículo VI y del apartado c) del párrafo 4 de la decisión de 1995 sobre &quot;Principios y objetivos para la no proliferación de las armas nucleares y el desarme&quot;: informe presentado por Suecia</s>
+      </p>
+      <p id="140">
+        <s id="140:1" lang="es">NPT/CONF.2005/PC.I/11</s>
+      </p>
+      <p id="141">
+        <s id="141:1" lang="es">Aplicación del Tratado sobre la no proliferación de las armas nucleares: informe presentado por el Canadá</s>
+      </p>
+      <p id="142">
+        <s id="142:1" lang="es">NPT/CONF.2005/PC.I/I2/Corr.1</s>
+      </p>
+      <p id="143">
+        <s id="143:1" lang="es">Presentación de los Estados Unidos de América (véase el documento NPT/CONF.2005/PC.I/3/Add.3)</s>
+      </p>
+      <p id="144">
+        <s id="144:1" lang="es">NPT/CONF.2005/PC.I/13</s>
+      </p>
+      <p id="145">
+        <s id="145:1" lang="es">Aplicación del artículo VI y del apartado c) del párrafo 4 de la decisión de 1995 sobre &quot;Principios y objetivos para la no proliferación de las armas nucleares y el desarme&quot;: informe presentado por Alemania</s>
+      </p>
+      <p id="146">
+        <s id="146:1" lang="es">NPT/CONF.2005/PC.I/14</s>
+      </p>
+      <p id="147">
+        <s id="147:1" lang="es">Aplicación del artículo VI del Tratado sobre la no proliferación de las armas nucleares y del apartado c) del párrafo 4 de la decisión de 1995 sobre &quot;Principios y objetivos para la no proliferación de las armas nucleares y el desarme&quot;: informe presentado por el Japón</s>
+      </p>
+      <p id="148">
+        <s id="148:1" lang="es">NPT/CONF.2005/PC.I/15</s>
+      </p>
+      <p id="149">
+        <s id="149:1" lang="es">Declaración formulada por Myanmar en nombre de la Asociación de Naciones del Asia Sudoriental acerca del Tratado sobre una zona libre de armas nucleares en el Asia sudoriental (Tratado de Bangkok)</s>
+      </p>
+      <p id="150">
+        <s id="150:1" lang="es">NPT/CONF.2005/PC.I/16</s>
+      </p>
+      <p id="151">
+        <s id="151:1" lang="es">Declaración formulada por España el 8 de abril de 2002 en nombre de la Unión Europea</s>
+      </p>
+      <p id="152">
+        <s id="152:1" lang="es">NPT/CONF.2005/PC.I/17</s>
+      </p>
+      <p id="153">
+        <s id="153:1" lang="es">Declaración formulada por España el 15 de abril de 2002 en nombre de la Unión Europea</s>
+      </p>
+      <p id="154">
+        <s id="154:1" lang="es">NPT/CONF.2005/PC.I/18</s>
+      </p>
+      <p id="155">
+        <s id="155:1" lang="es">Aplicación del artículo VI del Tratado y del apartado c) del párrafo 4 de la decisión de 1995 sobre &quot;Principios y objetivos para la no proliferación de las armas nucleares y el desarme&quot;: informe presentado por Irlanda</s>
+      </p>
+      <p id="156">
+        <s id="156:1" lang="es">NPT/CONF.2005/PC.I/19</s>
+      </p>
+      <p id="157">
+        <s id="157:1" lang="es">Nota verbal de fecha 18 de abril de 2002 dirigida a la secretaría del primer período de sesiones del Comité Preparatorio de la Conferencia de las Partes del Año 2005 encargada del examen del tratado sobre la no proliferación de las armas nucleares por la Misión Permanente de la República Islámica del Irán ante las Naciones Unidas</s>
+      </p>
+      <p id="158">
+        <s id="158:1" lang="es">NPT/CONF.2005/PC.I/20</s>
+      </p>
+      <p id="159">
+        <s id="159:1" lang="es">Informe con arreglo a la disposición del documento final de la Conferencia de las Partes del Año 2000 encargada del examen del Tratado sobre la no proliferación de las armas nucleares, en particular de los artículos VI y VII del Tratado, presentado por Malasia</s>
+      </p>
+      <p id="160">
+        <s id="160:1" lang="es">NPT/CONF.2005/PC.I/WP.1</s>
+      </p>
+      <p id="161">
+        <s id="161:1" lang="es">Documento de trabajo presentado por Egipto en nombre de la Coalición para el Nuevo Programa (Brasil, Egipto, Irlanda, México, Nueva Zelandia, Sudáfrica y Suecia)</s>
+      </p>
+      <p id="162">
+        <s id="162:1" lang="es">NPT/CONF.2005/PC.I/WP.2</s>
+      </p>
+      <p id="163">
+        <s id="163:1" lang="es">Documento de trabajo presentado por Indonesia en nombre de los Estados miembros del Movimiento de los Países No Alineados que son partes en el Tratado sobre la no proliferación de las armas nucleares</s>
+      </p>
+      <p id="164">
+        <s id="164:1" lang="es">NPT/CONF.2005/PC.I/WP.3</s>
+      </p>
+      <p id="165">
+        <s id="165:1" lang="es">Presentación de informes de los Estados partes: documento de trabajo presentado por el Canadá</s>
+      </p>
+      <p id="166">
+        <s id="166:1" lang="es">NPT/CONF.2005/PC.I/WP.4</s>
+      </p>
+      <p id="167">
+        <s id="167:1" lang="es">Consecución de un mundo libre de armas nucleares: documento de trabajo presentado por Alemania</s>
+      </p>
+      <p id="168">
+        <s id="168:1" lang="es">NPT/CONF.2005/PC.I/WP.5</s>
+      </p>
+      <p id="169">
+        <s id="169:1" lang="es">Armas nucleares no estratégicas: documento de trabajo presentado por Alemania</s>
+      </p>
+      <p id="170">
+        <s id="170:1" lang="es">NPT/CONF.2005/PC.I/WP.6</s>
+      </p>
+      <p id="171">
+        <s id="171:1" lang="es">Desarme nuclear y reducción del peligro de una guerra nuclear: documento de trabajo presentado por China</s>
+      </p>
+      <p id="172">
+        <s id="172:1" lang="es">NPT/CONF.2005/PC.I/WP.7</s>
+      </p>
+      <p id="173">
+        <s id="173:1" lang="es">Documento de trabajo presentado por el Japón</s>
+      </p>
+      <p id="174">
+        <s id="174:1" lang="es">NPT/CONF.2005/PC.I/WP.8</s>
+      </p>
+      <p id="175">
+        <s id="175:1" lang="es">Utilización de la energía nuclear con fines pacíficos: documento de trabajo presentado por China</s>
+      </p>
+      <p id="176">
+        <s id="176:1" lang="es">NPT/CONF.2005/PC.I/WP.9</s>
+      </p>
+      <p id="177">
+        <s id="177:1" lang="es">Prevención de la proliferación de las armas nucleares, zonas libres de armas nucleares y la cuestión nuclear del Oriente Medio: documento de trabajo presentado por China</s>
+      </p>
+      <p id="178">
+        <s id="178:1" lang="es">NPT/CONF.2005/PC.I/WP.10</s>
+      </p>
+      <p id="179">
+        <s id="179:1" lang="es">NPT/CONF.2005/PC.I/WP.11</s>
+      </p>
+      <p id="180">
+        <s id="180:1" lang="es">Elementos propuestos para su inclusión en el informe del Comité Preparatorio sobre los trabajos del primer período de sesiones: documento de trabajo presentado por la República de Kazajstán, la República Kirguisa, la República de Tayikistán, Turkmenistán y la República de Uzbekistán</s>
+      </p>
+      <p id="181">
+        <s id="181:1" lang="es">NPT/CONF.2005/PC.I/WP.12</s>
+      </p>
+      <p id="182">
+        <s id="182:1" lang="es">Protección contra el terrorismo nuclear y seguridad de los materiales nucleares y de las instalaciones nucleares: documento de trabajo presentado por Alemania</s>
+      </p>
+      <p id="183">
+        <s id="183:1" lang="es">NPT/CONF.2005/PC.I/WP.13</s>
+      </p>
+      <p id="184">
+        <s id="184:1" lang="es">Documento de trabajo presentado por las delegaciones de Brasil, Egipto, Irlanda, México, Nueva Zelandia, Sudáfrica y Suecia</s>
+      </p>
+      <p id="185">
+        <s id="185:1" lang="es">NPT/CONF.2005/PC.I/WP.14</s>
+      </p>
+      <p id="186">
+        <s id="186:1" lang="es">Declaración formulada por Indonesia el 19 de abril de 2002 en nombre de los miembros del Movimiento de los Países No Alineados que son partes en el Tratado sobre la no proliferación de las armas nucleares</s>
+      </p>
+      <p id="187">
+        <s id="187:1" lang="en">NPT/CONF.2005/PC.I/CRP.1</s>
+      </p>
+      <p id="188">
+        <s id="188:1" lang="en">Proyecto de informe del Comité Preparatorio sobre su primer período de sesiones</s>
+      </p>
+      <p id="189">
+        <s id="189:1" lang="en">NPT/CONF.2005/PC.I/INF.1</s>
+      </p>
+      <p id="190">
+        <s id="190:1" lang="en">Information note</s>
+      </p>
+      <p id="191">
+        <s id="191:1" lang="en">NPT/CONF.2005/PC.I/INF.2</s>
+      </p>
+      <p id="192">
+        <s id="192:1" lang="en">List of non-govenmental organizations</s>
+      </p>
+      <p id="193">
+        <s id="193:1" lang="en">NPT/CONF.2005/PC.I/INF.3</s>
+      </p>
+      <p id="194">
+        <s id="194:1" lang="en">Indicative timetable</s>
+      </p>
+      <p id="195">
+        <s id="195:1" lang="en">NPT/CONF.2005/PC.I/INF.4</s>
+      </p>
+      <p id="196">
+        <s id="196:1" lang="es">List of participants</s>
+      </p>
+      <p id="197">
+        <s id="197:1" lang="es">Segundo período de sesiones</s>
+      </p>
+      <p id="198">
+        <s id="198:1" lang="es">NPT/CONF.2005/PC.II/1</s>
+      </p>
+      <p id="199">
+        <s id="199:1" lang="es">Gastos estimados de la Conferencia de las Partes del Año 2005 encargada del examen del Tratado sobre la no proliferación de las armas nucleares</s>
+      </p>
+      <p id="200">
+        <s id="200:1" lang="es">NPT/CONF.2005/PC.II/2</s>
+      </p>
+      <p id="201">
+        <s id="201:1" lang="es">Aplicación del Tratado sobre la no proliferación de las armas nucleares y del apartado c) del párrafo 4 de la Decisión de 1995 sobre los &quot;Principios y objetivos para la no proliferación de las armas nucleares y el desarme nuclear&quot;: informe presentado por Hungría</s>
+      </p>
+      <p id="202">
+        <s id="202:1" lang="es">NPT/CONF.2005/PC.II/3</s>
+      </p>
+      <p id="203">
+        <s id="203:1" lang="es">Declaración del Organismo para la Proscripción de las Armas Nucleares en la América Latina y el Caribe</s>
+      </p>
+      <p id="204">
+        <s id="204:1" lang="es">NPT/CONF.2005/PC.II/3/Rev.1</s>
+      </p>
+      <p id="205">
+        <s id="205:1" lang="es">Declaración del Organismo para la Proscripción de las Armas Nucleares en la América Latina y el Caribe - Revisión</s>
+      </p>
+      <p id="206">
+        <s id="206:1" lang="es">NPT/CONF.2005/PC.II/4</s>
+      </p>
+      <p id="207">
+        <s id="207:1" lang="es">Últimos trabajos de la Comisión Preparatoria de la Organización del Tratado de prohibición completa de los ensayos nucleares</s>
+      </p>
+      <p id="208">
+        <s id="208:1" lang="es">NPT/CONF.2005/PC.II/5</s>
+      </p>
+      <p id="209">
+        <s id="209:1" lang="es">Aplicación del artículo VI del Tratado y del apartado c) del párrafo 4 de la Decisión de 1995 sobre &quot;Principios y objetivos para la no proliferación de las armas nucleares y el desarme nuclear&quot;: informe presentado por la República de Corea</s>
+      </p>
+      <p id="210">
+        <s id="210:1" lang="es">NPT/CONF.2005/PC.II/6</s>
+      </p>
+      <p id="211">
+        <s id="211:1" lang="es">Informe del Reino de Marruecos relativo a la aplicación del Tratado sobre la no proliferación de las armas nucleares y la resolución de 1995 relativa al Oriente Medio</s>
+      </p>
+      <p id="212">
+        <s id="212:1" lang="es">NPT/CONF.2005/PC.II/7</s>
+      </p>
+      <p id="213">
+        <s id="213:1" lang="es">Medidas adoptadas por la República de Croacia para dar cumplimiento a las disposiciones del Tratado sobre la no proliferación de las armas nucleares: informe presentado por Croacia</s>
+      </p>
+      <p id="214">
+        <s id="214:1" lang="es">NPT/CONF.2005/PC.II/8</s>
+      </p>
+      <p id="215">
+        <s id="215:1" lang="es">Aplicación del artículo VI del Tratado y del apartado c) del párrafo 4 de la Decisión de 1995 sobre &quot;Principios y objetivos para la no proliferación de las armas nucleares y el desarme nuclear&quot;: informe presentado por Eslovaquia</s>
+      </p>
+      <p id="216">
+        <s id="216:1" lang="es">NPT/CONF.2005/PC.II/9</s>
+      </p>
+      <p id="217">
+        <s id="217:1" lang="es">Medidas adoptadas durante el ultimo año para propiciar el establecimiento de una zona libre de armas nucleares en el Oriente Medio y la realización de los objetivos y metas de la resolución de 1995 relativa al Oriente Medio: informe presentado por Egipto</s>
+      </p>
+      <p id="218">
+        <s id="218:1" lang="es">NPT/CONF.2005/PC.II/10</s>
+      </p>
+      <p id="219">
+        <s id="219:1" lang="es">Aplicación del Tratado sobre la no proliferación de las armas nucleares: informe presentado por Lituania</s>
+      </p>
+      <p id="220">
+        <s id="220:1" lang="es">NPT/CONF.2005/PC.II/10/Corr.1</s>
+      </p>
+      <p id="221">
+        <s id="221:1" lang="es">(en inglés únicamente)</s>
+      </p>
+      <p id="222">
+        <s id="222:1" lang="es">Implementation of the Treaty on the Non-Proliferation of Nuclear Weapons: report submitted by Lithuania - Corrigendum</s>
+      </p>
+      <p id="223">
+        <s id="223:1" lang="es">NPT/CONF.2005/PC.II/11</s>
+      </p>
+      <p id="224">
+        <s id="224:1" lang="es">Medidas adoptadas por la República Popular de China para impulsar el proceso de paz en el Oriente Medio y promover el establecimiento de una zona libre de armas nucleares en el Oriente Medio: informe presentado por China</s>
+      </p>
+      <p id="225">
+        <s id="225:1" lang="es">NPT/CONF.2005/PC.II/12</s>
+      </p>
+      <p id="226">
+        <s id="226:1" lang="es">Medidas para propiciar el establecimiento de una zona libre de armas nucleares en el Oriente Medio y la realización de los objetivos y metas de la resolución de 1995 relativa al Oriente Medio: informe presentado por Australia</s>
+      </p>
+      <p id="227">
+        <s id="227:1" lang="es">NPT/CONF.2005/PC.II/13</s>
+      </p>
+      <p id="228">
+        <s id="228:1" lang="es">Cumplimiento de las obligaciones contraídas en virtud del artículo VI del Tratado sobre la no proliferación de las armas nucleares y el apartado c) del párrafo 4 de la Decisión de 1995 sobre &quot;Principios y objetivos para la no proliferación nuclear y el desarme nuclear&quot;: informe presentado por Australia</s>
+      </p>
+      <p id="229">
+        <s id="229:1" lang="es">NPT/CONF.2005/PC.II/14</s>
+      </p>
+      <p id="230">
+        <s id="230:1" lang="es">Tratado sobre la no proliferación de las armas nucleares: informe presentado por Nueva Zelandia</s>
+      </p>
+      <p id="231">
+        <s id="231:1" lang="es">NPT/CONF.2005/PC.II/15</s>
+      </p>
+      <p id="232">
+        <s id="232:1" lang="es">Informe del Gobierno de la República Argelina Democrática y Popular sobre las medidas adoptadas para propiciar el establecimiento de una zona libre de armas nucleares en el Oriente Medio y la realización de los objetivos y metas de la resolución de 1995 relativa al Oriente Medio: informe presentado por la República Argelina Democrática y Popular</s>
+      </p>
+      <p id="233">
+        <s id="233:1" lang="es">NPT/CONF.2005/PC.II/16</s>
+      </p>
+      <p id="234">
+        <s id="234:1" lang="es">Documento de la Coalición para el Nuevo Programa presentado por Nueva Zelandia en nombre del Brasil, Egipto, Irlanda, México, Sudáfrica y Suecia como miembros de la Coalición para el Nuevo Programa</s>
+      </p>
+      <p id="235">
+        <s id="235:1" lang="es">NPT/CONF.2005/PC.II/17</s>
+      </p>
+      <p id="236">
+        <s id="236:1" lang="es">Informe del Reino de Marruecos relativo a la aplicación del Tratado sobre la no proliferación de las armas nucleares y del apartado c) del párrafo 4 de la Decisión de 1995 sobre los &quot;Principios y objetivos para la no proliferación de las armas nucleares&quot;, así como a la aplicación de la resolución de 1995 sobre la creación de una zona libre de armas nucleares en el Oriente Medio</s>
+      </p>
+      <p id="237">
+        <s id="237:1" lang="es">NPT/CONF.2005/PC.II/18</s>
+      </p>
+      <p id="238">
+        <s id="238:1" lang="es">Aplicación del artículo VI del TNP, teniendo presentes las conclusiones del Documento Final de la Conferencia de las Partes del Año 2000 y el apartado c) del párrafo 4 de los Principios y objetivos de 1995: informe presentado por los Países Bajos</s>
+      </p>
+      <p id="239">
+        <s id="239:1" lang="es">NPT/CONF.2005/PC.II/19</s>
+      </p>
+      <p id="240">
+        <s id="240:1" lang="es">NPT/CONF.2005/PC.II/20</s>
+      </p>
+      <p id="241">
+        <s id="241:1" lang="es">Medidas para propiciar la creación de una zona libre de armas nucleares en el Oriente Medio y la realización de los objetivos y metas de la resolución de 1995 relativo al Oriente Medio: informe presentado por el Canadá</s>
+      </p>
+      <p id="242">
+        <s id="242:1" lang="es">NPT/CONF.2005/PC.II/21</s>
+      </p>
+      <p id="243">
+        <s id="243:1" lang="es">Declaración conjunta de la Federación de Rusia y los Estados Unidos de América sobre el Tratado de Moscú en el segundo período de sesiones del Comité Preparatorio de la Conferencia de las Partes del Año 2005 encargada del examen del Tratado sobre la no proliferación de las armas nucleares</s>
+      </p>
+      <p id="244">
+        <s id="244:1" lang="es">NPT/CONF.2005/PC.II/22</s>
+      </p>
+      <p id="245">
+        <s id="245:1" lang="es">Disposiciones del Documento Final de la Conferencia de las Partes del Año 2000 encargada del examen del Tratado sobre la no proliferación de las armas nucleares, en particular los artículos VI y VII del Tratado: informe presentado por Malasia</s>
+      </p>
+      <p id="246">
+        <s id="246:1" lang="es">NPT/CONF.2005/PC.II/23</s>
+      </p>
+      <p id="247">
+        <s id="247:1" lang="es">Aplicación del artículo VI del Tratado sobre la no proliferación de las armas nucleares y el apartado c) del párrafo 4 de la Decisión de 1995 sobre &quot;Principios y objetivos para la no proliferación de las armas nucleares y el desarme nuclear&quot;: Informe presentado por Suiza</s>
+      </p>
+      <p id="248">
+        <s id="248:1" lang="es">NPT/CONF.2005/PC.II/24</s>
+      </p>
+      <p id="249">
+        <s id="249:1" lang="es">Cumplimiento de las obligaciones contraídas en virtud del artículo VI del Tratado sobre la no proliferación de las armas nucleares y el apartado c) del párrafo 4 de la Decisión de 1995 sobre &quot;Principios y objetivos para la no proliferación nuclear y el desarme nuclear&quot;: informe presentado por Indonesia</s>
+      </p>
+      <p id="250">
+        <s id="250:1" lang="es">NPT/CONF.2005/PC.II/25</s>
+      </p>
+      <p id="251">
+        <s id="251:1" lang="es">Fortalecimiento del proceso de examen del Tratado de no proliferación de las armas nucleares: cumplimiento de las obligaciones contraídas en virtud del artículo VI y otras disposiciones: Informe presentado por Sudáfrica</s>
+      </p>
+      <p id="252">
+        <s id="252:1" lang="es">NPT/CONF.2005/PC.II/26</s>
+      </p>
+      <p id="253">
+        <s id="253:1" lang="es">Aplicación del Tratado sobre la no proliferación de las armas nucleares: informe presentado por la República de Bulgaria</s>
+      </p>
+      <p id="254">
+        <s id="254:1" lang="es">NPT/CONF.2005/PC.II/27</s>
+      </p>
+      <p id="255">
+        <s id="255:1" lang="es">Cumplimiento de las obligaciones contraídas en virtud del artículo VI del Tratado sobre la no proliferación de las armas nucleares y el apartado c) del párrafo 4 de la Decisión de 1995 sobre &quot;Principios y objetivos para la no proliferación nuclear y el desarme nuclear&quot;: informe presentado por Finlandia</s>
+      </p>
+      <p id="256">
+        <s id="256:1" lang="es">NPT/CONF.2005/PC.II/28</s>
+      </p>
+      <p id="257">
+        <s id="257:1" lang="es">Aplicación del Tratado sobre la no proliferación de las armas nucleares: informe presentado por Sri Lanka</s>
+      </p>
+      <p id="258">
+        <s id="258:1" lang="es">NPT/CONF.2005/PC.II/29</s>
+      </p>
+      <p id="259">
+        <s id="259:1" lang="es">Aplicación del artículo VI y el apartado c) del párrafo 4 de la Decisión de 1995 sobre &quot;Principios y objetivos para la no proliferación de las armas nucleares y el desarme nuclear&quot;: informe presentado por Suecia</s>
+      </p>
+      <p id="260">
+        <s id="260:1" lang="es">NPT/CONF.2005/PC.II/30</s>
+      </p>
+      <p id="261">
+        <s id="261:1" lang="es">Medidas para promover el establecimiento de una zona libre de armas nucleares en el Oriente Medio: informe presentado por la Arabia Saudita</s>
+      </p>
+      <p id="262">
+        <s id="262:1" lang="es">NPT/CONF.2005/PC.II/31</s>
+      </p>
+      <p id="263">
+        <s id="263:1" lang="es">Medidas para propiciar la creación de una zona libre de armas nucleares en el Oriente Medio y la realización de los objetivos y métodos de la resolución de 1995 relativa al Oriente Medio: informe presentado por el Japón</s>
+      </p>
+      <p id="264">
+        <s id="264:1" lang="es">NPT/CONF.2005/PC.II/32</s>
+      </p>
+      <p id="265">
+        <s id="265:1" lang="es">Aplicación del artículo VI del Tratado sobre la no proliferación de las armas nucleares: informe presentado por el Japón</s>
+      </p>
+      <p id="266">
+        <s id="266:1" lang="es">NPT/CONF.2005/PC.II/33</s>
+      </p>
+      <p id="267">
+        <s id="267:1" lang="es">Aplicación del Tratado sobre la no proliferación de las armas nucleares: informe presentado por el Brasil</s>
+      </p>
+      <p id="268">
+        <s id="268:1" lang="es">NPT/CONF.2005/PC.II/34</s>
+      </p>
+      <p id="269">
+        <s id="269:1" lang="es">Principios y objetivos para la no proliferación de las armas nucleares y el desarme: informe presentado por Noruega</s>
+      </p>
+      <p id="270">
+        <s id="270:1" lang="es">NPT/CONF.2005/PC.II/35</s>
+      </p>
+      <p id="271">
+        <s id="271:1" lang="es">Informe sobre las medidas adoptadas para propiciar la creación de una zona libre de armas nucleares y de otras armas de destrucción en masa efectivamente verificable en el Oriente Medio y la realización de los objetivos y metas de la resolución de 1995 relativa al Oriente Medio: informe presentado por Suecia</s>
+      </p>
+      <p id="272">
+        <s id="272:1" lang="es">Medidas adoptadas con objeto de promover el clima necesario para alentar a las naciones a establecer en el Oriente Medio una zona libre de armas de destrucción en masa efectivamente verificable y la realización de los objetivos y metas de la resolución de 1995 relativa al Oriente Medio: informe presentado por los Estados Unidos de América</s>
+      </p>
+      <p id="273">
+        <s id="273:1" lang="es">NPT/CONF.2005/PC.II/37</s>
+      </p>
+      <p id="274">
+        <s id="274:1" lang="es">Aplicación del artículo VI del Tratado sobre la no proliferación de las armas nucleares y el apartado c) del párrafo 4 de la Decisión de 1995 sobre &quot;Principios y objetivos para la no proliferación de las armas nucleares y el desarme nuclear&quot;, así como las 13 medidas del Documento Final de la Conferencia de las Partes del Año 2000: informe presentado por Bélgica</s>
+      </p>
+      <p id="275">
+        <s id="275:1" lang="es">NPT/CONF.2005/PC.II/38</s>
+      </p>
+      <p id="276">
+        <s id="276:1" lang="es">Documento presentado por la Delegación Permanente de la Liga de los Estados Árabes ante las Naciones Unidas en Ginebra, en nombre de la Liga de los Estados Árabes, en el segundo período de sesiones del Comité Preparatorio de la Conferencia de las Partes del Año 2005 encargada del examen del Tratado sobre la no proliferación de las armas nucleares</s>
+      </p>
+      <p id="277">
+        <s id="277:1" lang="es">NPT/CONF.2005/PC.II/39</s>
+      </p>
+      <p id="278">
+        <s id="278:1" lang="es">Aplicación del artículo VI del Tratado sobre la no proliferación de las armas nucleares y del párrafo 3 y el apartado c) del párrafo 4 de la Decisión de 1995 sobre &quot;Principios y objetivos para la no proliferación de las armas nucleares y el desarme&quot;: informe presentado por Irlanda</s>
+      </p>
+      <p id="279">
+        <s id="279:1" lang="es">NPT/CONF.2005/PC.II/40</s>
+      </p>
+      <p id="280">
+        <s id="280:1" lang="es">Aplicación del Tratado sobre la no proliferación de las armas nucleares: informe presentado por Mongolia</s>
+      </p>
+      <p id="281">
+        <s id="281:1" lang="es">NPT/CONF.2005/PC.II/41</s>
+      </p>
+      <p id="282">
+        <s id="282:1" lang="es">Aplicación del artículo VI del Tratado sobre la no proliferación de las armas nucleares y del apartado c) del párrafo 4 de la Decisión de 1995 sobre principios y objetivos para la no proliferación de las armas nucleares y el desarme nuclear: informe presentado por México</s>
+      </p>
+      <p id="283">
+        <s id="283:1" lang="es">NPT/CONF.2005/PC.II/42</s>
+      </p>
+      <p id="284">
+        <s id="284:1" lang="es">Aplicación del artículo VI y del apartado c) del párrafo 4 de la Decisión de 1995 sobre principios y objetivos para la no proliferación de las armas nucleares y el desarme nuclear: informe presentado por Rumania</s>
+      </p>
+      <p id="285">
+        <s id="285:1" lang="es">NPT/CONF.2005/PC.II/43</s>
+      </p>
+      <p id="286">
+        <s id="286:1" lang="es">Informe sobre el Oriente Medio de conformidad con el apartado 7 del párrafo 16 del capítulo del documento final de la Conferencia de las Partes del Año 2000 encargada del examen del TNP dedicado al artículo VII, relativo a las medidas adoptadas por Francia para promover la creación de una zona libre de armas nucleares y de otras armas de destrucción en masa y la consecución de las metas y objetivos de la resolución de 1995 sobre el Oriente Medio: informe presentado por Francia</s>
+      </p>
+      <p id="287">
+        <s id="287:1" lang="es">NPT/CONF.2005/PC.II/44</s>
+      </p>
+      <p id="288">
+        <s id="288:1" lang="es">Establecimiento de una zona libre de armas nucleares en el Oriente Medio: informe presentado por la República Islámica del Irán</s>
+      </p>
+      <p id="289">
+        <s id="289:1" lang="es">NPT/CONF.2005/PC.II/45</s>
+      </p>
+      <p id="290">
+        <s id="290:1" lang="es">Aplicación del artículo VI: informe presentado por la República Islámica del Irán</s>
+      </p>
+      <p id="291">
+        <s id="291:1" lang="es">NPT/CONF.2005/PC.II/46</s>
+      </p>
+      <p id="292">
+        <s id="292:1" lang="es">Realización de las metas y los objetivos de la resolución de 1995 relativa al Oriente Medio en el marco del proceso consolidado de examen del Tratado sobre la no proliferación de las armas nucleares: informe presentado por la República Árabe Siria</s>
+      </p>
+      <p id="293">
+        <s id="293:1" lang="es">NPT/CONF.2005/PC.II/47</s>
+      </p>
+      <p id="294">
+        <s id="294:1" lang="es">Realización de las metas y los objetivos de la resolución de 1995 sobre el Oriente Medio: informe presentado por Jordania</s>
+      </p>
+      <p id="295">
+        <s id="295:1" lang="es">NPT/CONF.2005/PC.II/48</s>
+      </p>
+      <p id="296">
+        <s id="296:1" lang="es">Informe del Reino Unido de Gran Bretaña e Irlanda del Norte sobre las metas y los objetivos de la resolución de 1995 relativa al Oriente Medio</s>
+      </p>
+      <p id="297">
+        <s id="297:1" lang="es">NPT/CONF.2005/PC.II/49</s>
+      </p>
+      <p id="298">
+        <s id="298:1" lang="es">Aumento de la eficacia del proceso consolidado de examen del Tratado sobre la no proliferación de las armas nucleares y aplicación del artículo VI del Tratado y del apartado c) del párrafo 4 de la Decisión de 1995 sobre principios y objetivos para la no proliferación de las armas nucleares y el desarme nuclear: informe presentado por el Perú</s>
+      </p>
+      <p id="299">
+        <s id="299:1" lang="es">NPT/CONF.2005/PC.II/WP.1</s>
+      </p>
+      <p id="300">
+        <s id="300:1" lang="es">Verificación del desarme nuclear: primer informe provisional sobre los estudios de verificación de las ojivas nucleares y sus componentes: documento de trabajo presentado por el Reino Unido de Gran Bretaña e Irlanda del Norte</s>
+      </p>
+      <p id="301">
+        <s id="301:1" lang="es">NPT/CONF.2005/PC.II/WP.2</s>
+      </p>
+      <p id="302">
+        <s id="302:1" lang="es">NPT/CONF.2005/PC.II/WP.3</s>
+      </p>
+      <p id="303">
+        <s id="303:1" lang="es">Documento de trabajo sobre el desarme nuclear y la reducción del peligro de guerra nuclear, presentado por China</s>
+      </p>
+      <p id="304">
+        <s id="304:1" lang="es">NPT/CONF.2005/PC.II/WP.4</s>
+      </p>
+      <p id="305">
+        <s id="305:1" lang="es">Documento de trabajo sobre la prevención de la proliferación de las armas nucleares presentado por China</s>
+      </p>
+      <p id="306">
+        <s id="306:1" lang="es">NPT/CONF.2005/PC.II/WP.5</s>
+      </p>
+      <p id="307">
+        <s id="307:1" lang="es">Documento de trabajo sobre las zonas libres de armas nucleares presentado por China</s>
+      </p>
+      <p id="308">
+        <s id="308:1" lang="es">NPT/CONF.2005/PC.II/WP.6</s>
+      </p>
+      <p id="309">
+        <s id="309:1" lang="es">Documento de trabajo sobre la utilización de la energía nuclear con fines pacíficos presentado por China</s>
+      </p>
+      <p id="310">
+        <s id="310:1" lang="es">NPT/CONF.2005/PC.II/WP.7</s>
+      </p>
+      <p id="311">
+        <s id="311:1" lang="es">Documento de trabajo sobre la cuestión nuclear del Oriente Medio presentado por China</s>
+      </p>
+      <p id="312">
+        <s id="312:1" lang="es">NPT/CONF.2005/PC.II/WP.8/</s>
+      </p>
+      <p id="313">
+        <s id="313:1" lang="es">Corr.1</s>
+      </p>
+      <p id="314">
+        <s id="314:1" lang="es">Informe del Reino Unido de Gran Bretaña e Irlanda del Norte sobre las metas y los objetivos de la resolución de 1995 relativa al Oriente Medio (véase el documento NPT/CONF.2005/PC.II/48)</s>
+      </p>
+      <p id="315">
+        <s id="315:1" lang="es">NPT/CONF.2005/PC.II/WP.9</s>
+      </p>
+      <p id="316">
+        <s id="316:1" lang="es">Consolidación del proceso de examen del Tratado sobre la no proliferación de las armas nucleares: documento de trabajo presentado por Sudáfrica</s>
+      </p>
+      <p id="317">
+        <s id="317:1" lang="es">NPT/CONF.2005/PC.II/WP.10</s>
+      </p>
+      <p id="318">
+        <s id="318:1" lang="es">Documento de trabajo presentado por la República de Cuba</s>
+      </p>
+      <p id="319">
+        <s id="319:1" lang="es">NPT/CONF.2005/PC.II/WP.11</s>
+      </p>
+      <p id="320">
+        <s id="320:1" lang="es">Documento de trabajo: &quot;Garantías de seguridad&quot;, presentado por Nueva Zelandia en nombre del Brasil, Egipto, Irlanda, México, Sudáfrica y Suecia en calidad de miembros de la Coalición para el Nuevo Programa</s>
+      </p>
+      <p id="321">
+        <s id="321:1" lang="es">NPT/CONF.2005/PC.II/WP.12</s>
+      </p>
+      <p id="322">
+        <s id="322:1" lang="es">Grupo II - Artículo VII: documento de trabajo presentado por Uzbekistán</s>
+      </p>
+      <p id="323">
+        <s id="323:1" lang="es">NPT/CONF.2005/PC.II/WP.13</s>
+      </p>
+      <p id="324">
+        <s id="324:1" lang="es">&quot;Reducción de las armas nucleares no estratégicas&quot;: documento de trabajo presentado por Austria, México y Suecia</s>
+      </p>
+      <p id="325">
+        <s id="325:1" lang="es">NPT/CONF.2005/PC.II/WP.14</s>
+      </p>
+      <p id="326">
+        <s id="326:1" lang="es">Garantías negativas de seguridad: documento de trabajo presentado por la República Islámica del Irán</s>
+      </p>
+      <p id="327">
+        <s id="327:1" lang="es">NPT/CONF.2005/PC.II/WP.15</s>
+      </p>
+      <p id="328">
+        <s id="328:1" lang="es">NPT/CONF.2005/PC.II/WP.16</s>
+      </p>
+      <p id="329">
+        <s id="329:1" lang="es">Participación de las ONG en el proceso de examen del TNP: documento presentado por el Canadá</s>
+      </p>
+      <p id="330">
+        <s id="330:1" lang="es">NPT/CONF.2005/PC.II/WP.17</s>
+      </p>
+      <p id="331">
+        <s id="331:1" lang="es">Documento de trabajo presentado por Bélgica, Noruega y los Países Bajos para su examen en el segundo período de sesiones del Comité Preparatorio de la Conferencia de las Partes del Año 2005 encargada del examen del Tratado sobre la no proliferación de las armas nucleares</s>
+      </p>
+      <p id="332">
+        <s id="332:1" lang="es">NPT/CONF.2005/PC.II/WP.18</s>
+      </p>
+      <p id="333">
+        <s id="333:1" lang="es">Documento de trabajo sobre la educación acerca del desarme y la no proliferación, presentado por Egipto, Hungría, el Japón, México, Nueva Zelandia, el Perú, Polonia y Suecia</s>
+      </p>
+      <p id="334">
+        <s id="334:1" lang="es">NPT/CONF.2005/PC.II/WP.19</s>
+      </p>
+      <p id="335">
+        <s id="335:1" lang="es">Documento de trabajo presentado por Malasia en nombre de los Estados miembros del Movimiento de los Países No Alineados y de otros Estados que son partes en el Tratado sobre la no proliferación de las armas nucleares</s>
+      </p>
+      <p id="336">
+        <s id="336:1" lang="en">NPT/CONF.2005/PC.II/CRP.1</s>
+      </p>
+      <p id="337">
+        <s id="337:1" lang="en">Proyecto de informe del Comité Preparatorio sobre su segundo período de sesiones</s>
+      </p>
+      <p id="338">
+        <s id="338:1" lang="en">NPT/CONF.2005/PC.II/INF.1</s>
+      </p>
+      <p id="339">
+        <s id="339:1" lang="en">NPT/CONF.2005/PC.II/INF.2</s>
+      </p>
+      <p id="340">
+        <s id="340:1" lang="en">NPT/CONF.2005/PC.II/INF.3</s>
+      </p>
+      <p id="341">
+        <s id="341:1" lang="en">List of non-governmental organizations</s>
+      </p>
+      <p id="342">
+        <s id="342:1" lang="en">NPT/CONF.2005/PC.II/INF.3/</s>
+      </p>
+      <p id="343">
+        <s id="343:1" lang="en">Add.1</s>
+      </p>
+      <p id="344">
+        <s id="344:1" lang="en">List of non-governmental organizations - Addendum</s>
+      </p>
+      <p id="345">
+        <s id="345:1" lang="en">List of non-governmental organizations - Corrigendum</s>
+      </p>
+      <p id="346">
+        <s id="346:1" lang="en">NPT/CONF.2005/PC.II/INF.4</s>
+      </p>
+      <p id="347">
+        <s id="347:1" lang="en">NPT/CONF.2005/PC.II/MISC.1</s>
+      </p>
+      <p id="348">
+        <s id="348:1" lang="es">Provisional list of participants</s>
+      </p>
+      <p id="349">
+        <s id="349:1" lang="es">Tercer período de sesiones</s>
+      </p>
+      <p id="350">
+        <s id="350:1" lang="es">NPT/CONF.2005/PC.III/1</s>
+      </p>
+      <p id="351">
+        <s id="351:1" lang="es">Aplicación del Tratado: informe presentado por el Canadá</s>
+      </p>
+      <p id="352">
+        <s id="352:1" lang="es">NPT/CONF.2005/PC.III/2</s>
+      </p>
+      <p id="353">
+        <s id="353:1" lang="es">Medidas para promover una zona libre de armas nucleares en el Oriente Medio y la realización de los objetivos y metas de la resolución de 1995 sobre el Oriente Medio: informe presentado por el Canadá</s>
+      </p>
+      <p id="354">
+        <s id="354:1" lang="es">NPT/CONF.2005/PC.III/3</s>
+      </p>
+      <p id="355">
+        <s id="355:1" lang="es">Informe del Reino Unido sobre los objetivos y metas de la resolución de 1995 sobre el Oriente Medio</s>
+      </p>
+      <p id="356">
+        <s id="356:1" lang="es">NPT/CONF.2005/PC.III/4</s>
+      </p>
+      <p id="357">
+        <s id="357:1" lang="es">Últimos trabajos de la Comisión Preparatoria de la Organización del Tratado de prohibición completa de los ensayos nucleares: informe presentado por la secretaría técnica provisional de la Comisión Preparatoria</s>
+      </p>
+      <p id="358">
+        <s id="358:1" lang="es">NPT/CONF.2005/PC.III/5</s>
+      </p>
+      <p id="359">
+        <s id="359:1" lang="es">Aplicación del Tratado: informe presentado por la República de Lituania</s>
+      </p>
+      <p id="360">
+        <s id="360:1" lang="es">NPT/CONF.2005/PC.III/6</s>
+      </p>
+      <p id="361">
+        <s id="361:1" lang="es">Medidas adoptadas por China para impulsar el proceso de paz en el Oriente Medio y promover el establecimiento de una zona libre de armas nucleares en la región del Oriente Medio: informe presentado por China</s>
+      </p>
+      <p id="362">
+        <s id="362:1" lang="es">NPT/CONF.2005/PC.III/7</s>
+      </p>
+      <p id="363">
+        <s id="363:1" lang="es">Aplicación del artículo VI del Tratado sobre la no proliferación de las armas nucleares y del apartado c) del párrafo 4 de la decisión de 1995 sobre los principios y objetivos para la no proliferación de las armas nucleares y el desarme nuclear: informe presentado por Australia</s>
+      </p>
+      <p id="364">
+        <s id="364:1" lang="es">NPT/CONF.2005/PC.III/8</s>
+      </p>
+      <p id="365">
+        <s id="365:1" lang="es">Medidas para promover la creación de una zona libre de armas nucleares en el Oriente Medio y la realización de los objetivos y metas de la resolución de 1995 sobre el Oriente Medio: informe presentado por Australia</s>
+      </p>
+      <p id="366">
+        <s id="366:1" lang="es">NPT/CONF.2005/PC.III/9</s>
+      </p>
+      <p id="367">
+        <s id="367:1" lang="es">Aplicación del artículo VI del Tratado sobre la no proliferación de las armas nucleares y del apartado c) del párrafo 4 de la decisión de 1995 sobre los principios y objetivos para la no proliferación de las armas nucleares y el desarme nuclear: informe presentado por Suiza</s>
+      </p>
+      <p id="368">
+        <s id="368:1" lang="es">NPT/CONF.2005/PC.III/10</s>
+      </p>
+      <p id="369">
+        <s id="369:1" lang="es">Aplicación del artículo VI y del apartado c) del párrafo 4 de la decisión de 1995 sobre los principios y objetivos para la no proliferación de las armas nucleares y el desarme: informe presentado por la República de Corea</s>
+      </p>
+      <p id="370">
+        <s id="370:1" lang="es">NPT/CONF.2005/PC.III/11</s>
+      </p>
+      <p id="371">
+        <s id="371:1" lang="es">Recomendaciones sustantivas de la Coalición para el Nuevo Programa al tercer período de sesiones del Comité Preparatorio</s>
+      </p>
+      <p id="372">
+        <s id="372:1" lang="es">NPT/CONF.2005/PC.III/12</s>
+      </p>
+      <p id="373">
+        <s id="373:1" lang="es">Informe de Marruecos relativo a la aplicación del Tratado y la resolución de 1995 sobre el Oriente Medio</s>
+      </p>
+      <p id="374">
+        <s id="374:1" lang="es">NPT/CONF.2005/PC.III/13</s>
+      </p>
+      <p id="375">
+        <s id="375:1" lang="es">Aplicación del Tratado sobre la no proliferación de las armas nucleares: informe presentado por Eslovaquia</s>
+      </p>
+      <p id="376">
+        <s id="376:1" lang="es">NPT/CONF.2005/PC.III/14</s>
+      </p>
+      <p id="377">
+        <s id="377:1" lang="es">Aplicación del artículo VI del Tratado y del apartado c) del párrafo 4 de la decisión de 1995 sobre los principios y objetivos para la no proliferación de las armas nucleares y el desarme: informe presentado por el Japón</s>
+      </p>
+      <p id="378">
+        <s id="378:1" lang="es">NPT/CONF.2005/PC.III/15</s>
+      </p>
+      <p id="379">
+        <s id="379:1" lang="es">Medidas para promover la creación de una zona libre de armas nucleares en el Oriente Medio y la realización de los objetivos y metas de la resolución de 1995 sobre el Oriente Medio: informe presentado por el Japón</s>
+      </p>
+      <p id="380">
+        <s id="380:1" lang="es">NPT/CONF.2005/PC.III/16</s>
+      </p>
+      <p id="381">
+        <s id="381:1" lang="es">Aplicación del artículo VI del Tratado sobre la no proliferación de las armas nucleares, teniendo en cuenta las conclusiones que figuran en el documento final de la Conferencia de Examen de 2000 y el apartado c) del párrafo 4 de la decisión de 1995 sobre los principios y objetivos para la no proliferación de las armas nucleares y el desarme nuclear: informe presentado por los Países Bajos</s>
+      </p>
+      <p id="382">
+        <s id="382:1" lang="es">NPT/CONF.2005/PC.III/17</s>
+      </p>
+      <p id="383">
+        <s id="383:1" lang="es">Declaración de La Habana: documento presentado por Cuba</s>
+      </p>
+      <p id="384">
+        <s id="384:1" lang="es">NPT/CONF.2005/PC.III/18</s>
+      </p>
+      <p id="385">
+        <s id="385:1" lang="es">Aplicación del Tratado: informe presentado por Hungría</s>
+      </p>
+      <p id="386">
+        <s id="386:1" lang="es">NPT/CONF.2005/PC.III/19</s>
+      </p>
+      <p id="387">
+        <s id="387:1" lang="es">Informe presentado por la República Árabe Siria en el tercer período de sesiones del Comité Preparatorio con vistas a la realización de los objetivos y metas de la resolución de 1995 sobre el Oriente Medio en el marco del proceso reforzado de examen del Tratado sobre la no proliferación de las armas nucleares</s>
+      </p>
+      <p id="388">
+        <s id="388:1" lang="es">NPT/CONF.2005/PC.III/20</s>
+      </p>
+      <p id="389">
+        <s id="389:1" lang="es">Informe presentado por Portugal sobre la aplicación del artículo VI del Tratado sobre la no proliferación de las armas nucleares y del apartado c) del párrafo 4 de la decisión sobre los principios y objetivos para la no proliferación de las armas nucleares y el desarme nuclear de la Conferencia de examen y prórroga de 1995</s>
+      </p>
+      <p id="390">
+        <s id="390:1" lang="es">NPT/CONF.2005/PC.III/21</s>
+      </p>
+      <p id="391">
+        <s id="391:1" lang="es">Informe sobre las medidas adoptadas para propiciar el establecimiento de una zona libre de armas nucleares y de otras armas de destrucción en masa efectivamente verificable en el Oriente Medio y la realización de los objetivos y metas de la resolución de 1995 sobre el Oriente Medio: informe presentado por Suecia</s>
+      </p>
+      <p id="392">
+        <s id="392:1" lang="es">NPT/CONF.2005/PC.III/22</s>
+      </p>
+      <p id="393">
+        <s id="393:1" lang="es">Aplicación del artículo VI del Tratado y del apartado c) del párrafo 4 de la decisión de 1995 sobre los principios y objetivos para la no proliferación de las armas nucleares y el desarme nuclear: informe presentado por Suecia</s>
+      </p>
+      <p id="394">
+        <s id="394:1" lang="es">NPT/CONF.2005/PC.III/23</s>
+      </p>
+      <p id="395">
+        <s id="395:1" lang="es">Aplicación del artículo VI del Tratado, así como del inciso c) del párrafo 4 de los principios y objetivos para la no proliferación de las armas nucleares y el desarme adoptados en 1995: informe presentado por México</s>
+      </p>
+      <p id="396">
+        <s id="396:1" lang="es">NPT/CONF.2005/PC.III/24</s>
+      </p>
+      <p id="397">
+        <s id="397:1" lang="es">Aplicación del artículo VI del Tratado y del apartado c) del párrafo 4 de la decisión de 1995 sobre los principios y objetivos para la no proliferación de las armas nucleares y el desarme nuclear: informe presentado por Ucrania</s>
+      </p>
+      <p id="398">
+        <s id="398:1" lang="es">NPT/CONF.2005/PC.III/25</s>
+      </p>
+      <p id="399">
+        <s id="399:1" lang="es">Aplicación del artículo VI y del apartado c) del párrafo 4 de la decisión de 1995 sobre principios y objetivos para la no proliferación de las armas nucleares y el desarme: informe presentado por Rumania</s>
+      </p>
+      <p id="400">
+        <s id="400:1" lang="es">NPT/CONF.2005/PC.III/26</s>
+      </p>
+      <p id="401">
+        <s id="401:1" lang="es">Medidas adoptadas durante el último año para propiciar el establecimiento de una zona libre de armas nucleares en el Oriente Medio y la realización de los objetivos y metas de la resolución de 1995 sobre el Oriente Medio: informe presentado por Egipto</s>
+      </p>
+      <p id="402">
+        <s id="402:1" lang="es">NPT/CONF.2005/PC.III/27</s>
+      </p>
+      <p id="403">
+        <s id="403:1" lang="es">NPT/CONF.2005/PC.III/28</s>
+      </p>
+      <p id="404">
+        <s id="404:1" lang="en">Aplicación del artículo VI del Tratado sobre la no proliferación de las armas nucleares y del apartado c) del párrafo 4 de la decisión de 1995 relativa a los principios y objetivos para la no proliferación de las armas nucleares y el desarme: informe presentado por Noruega</s>
+      </p>
+      <p id="405">
+        <s id="405:1" lang="es">NPT/CONF.2005/PC.III/29</s>
+      </p>
+      <p id="406">
+        <s id="406:1" lang="es">Aplicación del artículo VI del Tratado sobre la no proliferación de las armas nucleares y del apartado c) del párrafo 4 de la decisión de 1995 sobre principios y objetivos para la no proliferación de las armas nucleares y el desarme nuclear: informe presentado por Grecia</s>
+      </p>
+      <p id="407">
+        <s id="407:1" lang="en">NPT/CONF.2005/PC.III/30</s>
+      </p>
+      <p id="408">
+        <s id="408:1" lang="en">(No se ha publicado)</s>
+      </p>
+      <p id="409">
+        <s id="409:1" lang="en">NPT/CONF.2005/PC.III/31</s>
+      </p>
+      <p id="410">
+        <s id="410:1" lang="en">Informe en cumplimiento del artículo VI del TNP, de acuerdo con el documento final de la Conferencia de Examen de 2000 (13 Medidas), que presenta España a la III Comisión Preparatoria</s>
+      </p>
+      <p id="411">
+        <s id="411:1" lang="es">NPT/CONF.2005/PC.III/32</s>
+      </p>
+      <p id="412">
+        <s id="412:1" lang="es">NPT/CONF.2005/PC.III/33</s>
+      </p>
+      <p id="413">
+        <s id="413:1" lang="es">NPT/CONF.2005/PC.III/34</s>
+      </p>
+      <p id="414">
+        <s id="414:1" lang="es">Aplicación del Tratado: informe presentado por Luxemburgo</s>
+      </p>
+      <p id="415">
+        <s id="415:1" lang="es">NPT/CONF.2005/PC.III/35</s>
+      </p>
+      <p id="416">
+        <s id="416:1" lang="es">Informe sobre el Oriente Medio de conformidad con el apartado 7 del párrafo 16 del capítulo del Documento Final de la Conferencia de las Partes del Año 2000 encargada del examen del Tratado sobre la no proliferación de las armas nucleares dedicado al artículo VII, relativo a las medidas adoptadas por Francia para promover la creación de una zona</s>
+      </p>
+      <p id="417">
+        <s id="417:1" lang="es">libre de armas nucleares y de otras armas de destrucción en masa y la consecución de las metas y objetivos de la resolución de 1995 sobre el Oriente Medio</s>
+      </p>
+      <p id="418">
+        <s id="418:1" lang="es">NPT/CONF.2005/PC.III/36</s>
+      </p>
+      <p id="419">
+        <s id="419:1" lang="es">Aplicación del Tratado: informe presentado por Austria</s>
+      </p>
+      <p id="420">
+        <s id="420:1" lang="es">NPT/CONF.2005/PC.III/37</s>
+      </p>
+      <p id="421">
+        <s id="421:1" lang="es">Aplicación del artículo VI del Tratado y del párrafo 3 y el apartado c) del párrafo 4 de la decisión de 1995 sobre los principios y objetivos para la no proliferación de las armas nucleares y el desarme nuclear: informe presentado por Irlanda</s>
+      </p>
+      <p id="422">
+        <s id="422:1" lang="es">NPT/CONF.2005/PC.III/38</s>
+      </p>
+      <p id="423">
+        <s id="423:1" lang="es">Aplicación del artículo VI del Tratado y del apartado c) del párrafo 4 de la decisión de 1995 sobre principios y objetivos para la no proliferación de las armas nucleares y el desarme nuclear, así como sobre las 13 medidas prácticas convenidas en el documento final de la Conferencia de Examen del Año 2000: informe presentado por Bélgica</s>
+      </p>
+      <p id="424">
+        <s id="424:1" lang="es">NPT/CONF.2005/PC.III/39</s>
+      </p>
+      <p id="425">
+        <s id="425:1" lang="es">Aplicación del artículo VI y del apartado c) del párrafo 4 de la decisión de 1995 sobre los principios y objetivos para la no proliferación de las armas nucleares y el desarme: informe presentado por Finlandia</s>
+      </p>
+      <p id="426">
+        <s id="426:1" lang="es">NPT/CONF.2005/PC.III/40</s>
+      </p>
+      <p id="427">
+        <s id="427:1" lang="es">Documento presentado por los Estados Unidos de América</s>
+      </p>
+      <p id="428">
+        <s id="428:1" lang="es">NPT/CONF.2005/PC.III/41</s>
+      </p>
+      <p id="429">
+        <s id="429:1" lang="es">Aplicación del artículo VI y del apartado c) del párrafo 4 de la decisión de 1995 sobre los principios y objetivos para la no proliferación de las armas nucleares y el desarme: informe presentado por Malasia</s>
+      </p>
+      <p id="430">
+        <s id="430:1" lang="es">NPT/CONF.2005/PC.III/42</s>
+      </p>
+      <p id="431">
+        <s id="431:1" lang="es">Recomendaciones sustantivas de la República Islámica del Irán al tercer período de sesiones del Comité Preparatorio de la Conferencia de las Partes del Año 2005 encargada del examen del Tratado sobre la no proliferación de las armas nucleares</s>
+      </p>
+      <p id="432">
+        <s id="432:1" lang="es">NPT/CONF.2005/PC.III/43</s>
+      </p>
+      <p id="433">
+        <s id="433:1" lang="es">Documento de posición sobre los resultados finales del tercer período de sesiones del Comité Preparatorio de la Conferencia de las Partes del Año 2005 encargada del examen del Tratado sobre la no proliferación de las armas nucleares: presentado por los Estados no alineados y otros Estados partes en el Tratado sobre la no proliferación de las armas nucleares</s>
+      </p>
+      <p id="434">
+        <s id="434:1" lang="es">NPT/CONF.2005/PC.III/44</s>
+      </p>
+      <p id="435">
+        <s id="435:1" lang="es">Aplicación del Tratado sobre la no proliferación de las armas nucleares: informe presentado por la República de Kazajstán</s>
+      </p>
+      <p id="436">
+        <s id="436:1" lang="es">NPT/CONF.2005/PC.III/45</s>
+      </p>
+      <p id="437">
+        <s id="437:1" lang="es">Aplicación del artículo VI del Tratado sobre la no proliferación de las armas nucleares y del apartado c) del párrafo 4 de la decisión de 1995 sobre los principios y objetivos para la no proliferación de las armas nucleares y el desarme: informe presentado por la República Checa</s>
+      </p>
+      <p id="438">
+        <s id="438:1" lang="es">NPT/CONF.2005/PC.III/46</s>
+      </p>
+      <p id="439">
+        <s id="439:1" lang="es">La crisis contemporánea del cumplimiento: documento presentado por los Estados Unidos de América</s>
+      </p>
+      <p id="440">
+        <s id="440:1" lang="es">NPT/CONF.2005/PC.III/47</s>
+      </p>
+      <p id="441">
+        <s id="441:1" lang="es">Informe sobre las medidas adoptadas para promover la creación de una zona libre de armas nucleares en el Oriente Medio y la realización de las metas y objetivos de la resolución de 1995 sobre el Oriente Medio: informe presentado por Túnez</s>
+      </p>
+      <p id="442">
+        <s id="442:1" lang="es">NPT/CONF.2005/PC.III/48</s>
+      </p>
+      <p id="443">
+        <s id="443:1" lang="es">Informe del Gobierno de Argelia acerca de las medidas adoptadas para promover la creación de una zona libre de armas nucleares en el Oriente Medio y la realización de las metas y objetivos de la resolución de 1995 sobre el Oriente Medio</s>
+      </p>
+      <p id="444">
+        <s id="444:1" lang="es">NPT/CONF.2005/PC.III/WP.1</s>
+      </p>
+      <p id="445">
+        <s id="445:1" lang="es">Medidas para superar el déficit institucional del Tratado sobre la no proliferación de las armas nucleares: documento de trabajo presentado por el Canadá</s>
+      </p>
+      <p id="446">
+        <s id="446:1" lang="es">NPT/CONF.2005/PC.III/WP.2</s>
+      </p>
+      <p id="447">
+        <s id="447:1" lang="es">NPT/CONF.2005/PC.III/WP.3</s>
+      </p>
+      <p id="448">
+        <s id="448:1" lang="en">Verificación del desarme nuclear: segundo informe provisional sobre los estudios de la verificación de las ojivas nucleares y sus componentes: documento de trabajo presentado por el Reino Unido de Gran Bretaña e Irlanda del Norte</s>
+      </p>
+      <p id="449">
+        <s id="449:1" lang="en">NPT/CONF.2005/PC.III/WP.4</s>
+      </p>
+      <p id="450">
+        <s id="450:1" lang="es">Documento de trabajo sobre la cuestión del desarme nuclear y la reducción del peligro de guerra nuclear presentado por China</s>
+      </p>
+      <p id="451">
+        <s id="451:1" lang="en">NPT/CONF.2005/PC.III/WP.5</s>
+      </p>
+      <p id="452">
+        <s id="452:1" lang="es">NPT/CONF.2005/PC.III/WP.6</s>
+      </p>
+      <p id="453">
+        <s id="453:1" lang="en">NPT/CONF.2005/PC.III/WP.7</s>
+      </p>
+      <p id="454">
+        <s id="454:1" lang="es">NPT/CONF.2005/PC.III/WP.8</s>
+      </p>
+      <p id="455">
+        <s id="455:1" lang="es">Documento de trabajo sobre la cuestión nuclear en el Oriente Medio presentado por China</s>
+      </p>
+      <p id="456">
+        <s id="456:1" lang="es">NPT/CONF.2005/PC.III/WP.9</s>
+      </p>
+      <p id="457">
+        <s id="457:1" lang="es">Documento de trabajo sobre garantías de seguridad presentado por China</s>
+      </p>
+      <p id="458">
+        <s id="458:1" lang="es">NPT/CONF.2005/PC.III/WP.10</s>
+      </p>
+      <p id="459">
+        <s id="459:1" lang="es">Grupo de Gestión del Plutonio: actividades realizadas desde la Conferencia de las Partes del Año 2000 encargada del examen del Tratado sobre la no proliferación de las armas nucleares: documento de trabajo presentado por Suiza en nombre de Alemania, Bélgica, China, Estados Unidos de América, Federación de Rusia, Francia, Japón y Reino Unido de Gran Bretaña e Irlanda del Norte</s>
+      </p>
+      <p id="460">
+        <s id="460:1" lang="es">NPT/CONF.2005/PC.III/WP.11</s>
+      </p>
+      <p id="461">
+        <s id="461:1" lang="es">NPT/CONF.2005/PC.III/WP.12</s>
+      </p>
+      <p id="462">
+        <s id="462:1" lang="es">Documento presentado en nombre de los Estados miembros de la Liga de los Estados Árabes en el tercer período de sesiones del Comité Preparatorio de la Conferencia de las Partes del Año 2005 encargada del examen del Tratado</s>
+      </p>
+      <p id="463">
+        <s id="463:1" lang="es">NPT/CONF.2005/PC.III/WP.13</s>
+      </p>
+      <p id="464">
+        <s id="464:1" lang="es">Documento de trabajo sobre la reducción de las armas nucleares no estratégicas presentado por Austria, Suecia y Ucrania</s>
+      </p>
+      <p id="465">
+        <s id="465:1" lang="es">NPT/CONF.2005/PC.III/WP.14</s>
+      </p>
+      <p id="466">
+        <s id="466:1" lang="es">Documento de trabajo sobre los controles a la exportación presentado por Alemania</s>
+      </p>
+      <p id="467">
+        <s id="467:1" lang="es">NPT/CONF.2005/PC.III/WP.15</s>
+      </p>
+      <p id="468">
+        <s id="468:1" lang="es">Fortalecimiento del Tratado sobre la no proliferación de las armas nucleares contra el retiro y el incumplimiento - Sugerencias para el establecimiento de procedimientos y mecanismos: documento de trabajo presentado por Alemania</s>
+      </p>
+      <p id="469">
+        <s id="469:1" lang="es">NPT/CONF.2005/PC.III/WP.16</s>
+      </p>
+      <p id="470">
+        <s id="470:1" lang="es">Cumplimiento: documento de trabajo presentado por Alemania</s>
+      </p>
+      <p id="471">
+        <s id="471:1" lang="es">NPT/CONF.2005/PC.III/WP.17</s>
+      </p>
+      <p id="472">
+        <s id="472:1" lang="es">Documento de trabajo sobre la educación para el desarme y la no proliferación: presentado por Egipto, Hungría, Japón, México, Nueva Zelandia, Perú, Polonia y Suecia</s>
+      </p>
+      <p id="473">
+        <s id="473:1" lang="es">NPT/CONF.2005/PC.III/WP.18</s>
+      </p>
+      <p id="474">
+        <s id="474:1" lang="es">Las actividades del Japón en materia de educación para el desarme y la no proliferación: documento de trabajo presentado por el Japón</s>
+      </p>
+      <p id="475">
+        <s id="475:1" lang="es">NPT/CONF.2005/PC.III/WP.19</s>
+      </p>
+      <p id="476">
+        <s id="476:1" lang="es">Recomendaciones para la Conferencia de las Partes del Año 2005 encargada del examen del Tratado sobre la no proliferación de las armas nucleares en relación con el fortalecimiento de la aplicación de los artículos I, II, III y IV: documento de trabajo presentado por los Estados Unidos de América</s>
+      </p>
+      <p id="477">
+        <s id="477:1" lang="es">NPT/CONF.2005/PC.III/WP.20</s>
+      </p>
+      <p id="478">
+        <s id="478:1" lang="es">La iniciativa de seguridad contra la proliferación y sus implicaciones para el Tratado: documento de trabajo presentado por Cuba</s>
+      </p>
+      <p id="479">
+        <s id="479:1" lang="es">NPT/CONF.2005/PC.III/WP.21</s>
+      </p>
+      <p id="480">
+        <s id="480:1" lang="es">Documento de trabajo sobre la zona libre de armas nucleares del Asia sudoriental presentado por los Estados miembros de la Asociación de Naciones del Asia Sudoriental (Brunei Darussalam, Camboya, Filipinas, Indonesia, Malasia, Myanmar, República Democrática Popular Lao, Singapur, Tailandia y Viet Nam)</s>
+      </p>
+      <p id="481">
+        <s id="481:1" lang="es">NPT/CONF.2005/PC.III/WP.22</s>
+      </p>
+      <p id="482">
+        <s id="482:1" lang="es">Fortalecimiento del régimen de no proliferación de las armas nucleares: documento de trabajo presentado por Francia</s>
+      </p>
+      <p id="483">
+        <s id="483:1" lang="es">NPT/CONF.2005/PC.III/WP.23</s>
+      </p>
+      <p id="484">
+        <s id="484:1" lang="es">Cooperación para la reducción de las amenazas: documento de trabajo presentado por Italia</s>
+      </p>
+      <p id="485">
+        <s id="485:1" lang="es">NPT/CONF.2005/PC.III/WP.24</s>
+      </p>
+      <p id="486">
+        <s id="486:1" lang="es">Documento de trabajo presentado por Malasia en nombre del Grupo de los Países No Alineados y de otros Estados que son partes en el Tratado</s>
+      </p>
+      <p id="487">
+        <s id="487:1" lang="es">NPT/CONF.2005/PC.III/WP.25</s>
+      </p>
+      <p id="488">
+        <s id="488:1" lang="es">Documento de trabajo presentado por Bélgica, Noruega y los Países Bajos para su examen en el tercer período de sesiones del Comité Preparatorio de la Conferencia de las Partes del Año 2005 encargada del examen del Tratado sobre la no proliferación de las armas nucleares</s>
+      </p>
+      <p id="489">
+        <s id="489:1" lang="es">NPT/CONF.2005/PC.III/WP.26</s>
+      </p>
+      <p id="490">
+        <s id="490:1" lang="es">Documento de trabajo presentado por Kazajstán, Kirguistán, Tayikistán, Turkmenistán y Uzbekistán</s>
+      </p>
+      <p id="491">
+        <s id="491:1" lang="es">NPT/CONF.2005/PC.III/WP.27</s>
+      </p>
+      <p id="492">
+        <s id="492:1" lang="es">Resumen del Presidente</s>
+      </p>
+      <p id="493">
+        <s id="493:1" lang="es">NPT/CONF.2005/PC.III/WP.28</s>
+      </p>
+      <p id="494">
+        <s id="494:1" lang="es">Declaración de los Estados Unidos de América</s>
+      </p>
+      <p id="495">
+        <s id="495:1" lang="es">NPT/CONF.2005/PC.III/WP.29</s>
+      </p>
+      <p id="496">
+        <s id="496:1" lang="es">Proyecto de enmiendas al proyecto de informe final del tercer período de sesiones del Comité Preparatorio de la Conferencia de las Partes del Año 2005 encargada del examen del Tratado</s>
+      </p>
+      <p id="497">
+        <s id="497:1" lang="es">NPT/CONF.2005/PC.III/WP.30</s>
+      </p>
+      <p id="498">
+        <s id="498:1" lang="es">Documento de trabajo del Presidente</s>
+      </p>
+      <p id="499">
+        <s id="499:1" lang="es">NPT/CONF.2005/PC.III/CRP.1</s>
+      </p>
+      <p id="500">
+        <s id="500:1" lang="es">Nota de la Secretaría (Reglamento de la Conferencia de las Partes del Año 2005 encargada del examen del Tratado sobre la no proliferación de las armas nucleares)</s>
+      </p>
+      <p id="501">
+        <s id="501:1" lang="es">NPT/CONF.2005/PC.III/CRP.2</s>
+      </p>
+      <p id="502">
+        <s id="502:1" lang="es">Lista de la distribución de los gastos</s>
+      </p>
+      <p id="503">
+        <s id="503:1" lang="en">NPT/CONF.2005/PC.III/CRP.3</s>
+      </p>
+      <p id="504">
+        <s id="504:1" lang="en">Nota de la Secretaría (Programa de la Conferencia de las Partes del Año 2005 encargada del examen del Tratado sobre la no proliferación de las armas nucleares)</s>
+      </p>
+      <p id="505">
+        <s id="505:1" lang="en">NPT/CONF.2005/PC.III/CRP.4</s>
+      </p>
+      <p id="506">
+        <s id="506:1" lang="en">Proyecto de informe final del Comité Preparatorio</s>
+      </p>
+      <p id="507">
+        <s id="507:1" lang="en">NPT/CONF.2005/PC.III/INF.1</s>
+      </p>
+      <p id="508">
+        <s id="508:1" lang="en">NPT/CONF.2005/PC.III/INF.2</s>
+      </p>
+      <p id="509">
+        <s id="509:1" lang="es">NPT/CONF.2005/PC.III/INF.3</s>
+      </p>
+      <p id="510">
+        <s id="510:1" lang="es">NPT/CONF.2005/PC.III/INF.4</s>
+      </p>
+      <p id="511">
+        <s id="511:1" lang="es">NPT/CONF.2005/PC.III/Misc.1</s>
+      </p>
+      <p id="512">
+        <s id="512:1" lang="es">Anexo III</s>
+      </p>
+      <p id="513">
+        <s id="513:1" lang="es">I. Representación y credenciales</s>
+      </p>
+      <p id="514">
+        <s id="514:1" lang="es">Delegaciones de las Partes en el Tratado</s>
+      </p>
+      <p id="515">
+        <s id="515:1" lang="es">Artículo 1</s>
+      </p>
+      <p id="516">
+        <s id="516:1" lang="es">1. Todo Estado Parte en el Tratado sobre la no proliferación de las armas nucleares (en adelante &quot;el Tratado&quot;) podrá hacerse representar en la Conferencia de las Partes en el Tratado (en adelante &quot;la Conferencia&quot;) por un jefe de delegación, así como por los demás representantes, suplentes y asesores que se juzguen necesarios.</s>
+      </p>
+      <p id="517">
+        <s id="517:1" lang="es">2. El jefe de delegación podrá designar a un suplente o a un asesor para que actúe como representante.</s>
+      </p>
+      <p id="518">
+        <s id="518:1" lang="es">Credenciales</s>
+      </p>
+      <p id="519">
+        <s id="519:1" lang="es">Artículo 2</s>
+      </p>
+      <p id="520">
+        <s id="520:1" lang="es">Las credenciales de los representantes y los nombres de los suplentes y asesores serán comunicados al Secretario General de la Conferencia, en lo posible una semana antes, por lo menos, de la fecha fijada para la apertura de la Conferencia.</s>
+        <s id="520:2" lang="es">Las credenciales deberán ser expedidas por el Jefe de Estado o de Gobierno, o por el Ministro de Relaciones Exteriores.</s>
+      </p>
+      <p id="521">
+        <s id="521:1" lang="es">Comisión de Verificación de Poderes</s>
+      </p>
+      <p id="522">
+        <s id="522:1" lang="es">Artículo 3</s>
+      </p>
+      <p id="523">
+        <s id="523:1" lang="es">La Conferencia instituirá una Comisión de Verificación de Poderes integrada por el Presidente y dos de los Vicepresidentes elegidos con arreglo al artículo 5, y seis miembros nombrados por la Conferencia a propuesta del Presidente.</s>
+        <s id="523:2" lang="es">La Comisión examinará las credenciales de los representantes e informará inmediatamente a la Conferencia.</s>
+      </p>
+      <p id="524">
+        <s id="524:1" lang="es">Participación provisional</s>
+      </p>
+      <p id="525">
+        <s id="525:1" lang="es">Artículo 4</s>
+      </p>
+      <p id="526">
+        <s id="526:1" lang="es">Los representantes podrán participar provisionalmente en la Conferencia hasta que ésta haya tomado una decisión sobre las credenciales.</s>
+      </p>
+      <p id="527">
+        <s id="527:1" lang="es">II. Presidente, vicepresidentes y otros cargos</s>
+      </p>
+      <p id="528">
+        <s id="528:1" lang="es">Elección</s>
+      </p>
+      <p id="529">
+        <s id="529:1" lang="es">Artículo 5</s>
+      </p>
+      <p id="530">
+        <s id="530:1" lang="es">La Conferencia elegirá un Presidente y 34 Vicepresidentes, así como un Presidente y dos Vicepresidentes para cada una de las tres comisiones principales, el Comité de Redacción y la Comisión de Verificación de Poderes.</s>
+        <s id="530:2" lang="es">Los cargos se elegirán de modo que se asegure una distribución representativa.</s>
+      </p>
+      <p id="531">
+        <s id="531:1" lang="es">Presidente interino</s>
+      </p>
+      <p id="532">
+        <s id="532:1" lang="es">Artículo 6</s>
+      </p>
+      <p id="533">
+        <s id="533:1" lang="es">1. Cuando el Presidente se ausente durante una sesión o parte de ella, designará a uno de los Vicepresidentes para que lo sustituya.</s>
+      </p>
+      <p id="534">
+        <s id="534:1" lang="es">2. Cuando un Vicepresidente actúe como Presidente, tendrá las mismas atribuciones y obligaciones que el Presidente.</s>
+      </p>
+      <p id="535">
+        <s id="535:1" lang="es">Derechos de voto del Presidente</s>
+      </p>
+      <p id="536">
+        <s id="536:1" lang="es">Artículo 7</s>
+      </p>
+      <p id="537">
+        <s id="537:1" lang="es">El Presidente, o el Vicepresidente que ejerza las funciones de Presidente, no participará en las votaciones, pero designará a otro miembro de su delegación para que vote en su lugar.</s>
+      </p>
+      <p id="538">
+        <s id="538:1" lang="es">III. Mesa de la Conferencia</s>
+      </p>
+      <p id="539">
+        <s id="539:1" lang="es">Composición</s>
+      </p>
+      <p id="540">
+        <s id="540:1" lang="es">Artículo 8</s>
+      </p>
+      <p id="541">
+        <s id="541:1" lang="es">1. La Mesa estará integrada por el Presidente de la Conferencia, que la presidirá, los 34 Vicepresidentes, los Presidentes de las tres comisiones principales, el Presidente del Comité de Redacción y el Presidente de la Comisión de Verificación de Poderes.</s>
+        <s id="541:2" lang="es">Todos los miembros de la Mesa pertenecerán a delegaciones diferentes y serán elegidos de modo que se asegure el carácter representativo de la Mesa.</s>
+      </p>
+      <p id="542">
+        <s id="542:1" lang="es">2. Cuando el Presidente no pueda asistir a una sesión de la Mesa, podrá designar a un Vicepresidente para que presida dicha sesión y a un miembro de su delegación para que lo sustituya.</s>
+        <s id="542:2" lang="es">Si un Vicepresidente no puede asistir, podrá designar en su lugar a un miembro de su delegación.</s>
+        <s id="542:3" lang="es">Cuando el Presidente de una comisión principal, del Comité de Redacción o de la Comisión de Verificación de Poderes no pueda asistir, podrá nombrar a uno de los Vicepresidentes para que ocupe su lugar, con derecho de voto a menos que pertenezca a la misma delegación que otro miembro de la Mesa.</s>
+      </p>
+      <p id="543">
+        <s id="543:1" lang="es">Funciones</s>
+      </p>
+      <p id="544">
+        <s id="544:1" lang="es">Artículo 9</s>
+      </p>
+      <p id="545">
+        <s id="545:1" lang="es">La Mesa asistirá al Presidente en la dirección general de los debates y coordinará los trabajos de la Conferencia con sujeción a las decisiones de ésta.</s>
+      </p>
+      <p id="546">
+        <s id="546:1" lang="es">IV. Secretaría de la Conferencia</s>
+      </p>
+      <p id="547">
+        <s id="547:1" lang="es">Funciones del Secretario General de la Conferencia</s>
+      </p>
+      <p id="548">
+        <s id="548:1" lang="es">Artículo 10</s>
+      </p>
+      <p id="549">
+        <s id="549:1" lang="es">1. Habrá un Secretario General de la Conferencia, que actuará como tal en todas las sesiones de la Conferencia, sus comisiones y órganos subsidiarios, y podrá designar a un miembro de la secretaría para que lo sustituya en esas sesiones.</s>
+      </p>
+      <p id="550">
+        <s id="550:1" lang="es">2. El Secretario General de la Conferencia dirigirá al personal que sea necesario para la Conferencia.</s>
+      </p>
+      <p id="551">
+        <s id="551:1" lang="es">Funciones de la secretaría</s>
+      </p>
+      <p id="552">
+        <s id="552:1" lang="es">Artículo 11</s>
+      </p>
+      <p id="553">
+        <s id="553:1" lang="es">De conformidad con el presente reglamento, la secretaría de la Conferencia:</s>
+      </p>
+      <p id="554">
+        <s id="554:1" lang="es">a) Interpretará a otros idiomas los discursos pronunciados en las sesiones;</s>
+      </p>
+      <p id="555">
+        <s id="555:1" lang="es">b) Recibirá, traducirá y distribuirá los documentos de la Conferencia;</s>
+      </p>
+      <p id="556">
+        <s id="556:1" lang="es">c) Publicará y distribuirá todo informe de la Conferencia;</s>
+      </p>
+      <p id="557">
+        <s id="557:1" lang="es">d) Preparará las grabaciones sonoras y las actas resumidas de las sesiones y se encargará de su conservación;</s>
+      </p>
+      <p id="558">
+        <s id="558:1" lang="es">e) Tomará las medidas necesarias para la custodia de los documentos de la Conferencia en los archivos de las Naciones Unidas y enviará copias auténticas de esos documentos a cada uno de los gobiernos depositarios; y</s>
+      </p>
+      <p id="559">
+        <s id="559:1" lang="es">f) En general, ejecutará todas las demás tareas que la Conferencia le encargue.</s>
+      </p>
+      <p id="560">
+        <s id="560:1" lang="es">Gastos</s>
+      </p>
+      <p id="561">
+        <s id="561:1" lang="es">Artículo 12</s>
+      </p>
+      <p id="562">
+        <s id="562:1" lang="es">Los gastos de la Conferencia, incluidos los de los períodos de sesiones de la Comisión Preparatoria, serán sufragados por los Estados partes en el Tratado que participen en la Conferencia, con arreglo a la lista de distribución de los gastos que figura en el Apéndice de este Reglamento.</s>
+      </p>
+      <p id="563">
+        <s id="563:1" lang="es">V. Dirección de los debates</s>
+      </p>
+      <p id="564">
+        <s id="564:1" lang="es">Quórum</s>
+      </p>
+      <p id="565">
+        <s id="565:1" lang="es">Artículo 13</s>
+      </p>
+      <p id="566">
+        <s id="566:1" lang="es">1. La mayoría de los Estados partes en el Tratado que participen en la Conferencia constituirá quórum.</s>
+      </p>
+      <p id="567">
+        <s id="567:1" lang="es">2. Todo Estado Parte podrá pedir una votación nominal en cualquier momento a fin de constatar si hay quórum en la Conferencia.</s>
+      </p>
+      <p id="568">
+        <s id="568:1" lang="es">Atribuciones generales del Presidente</s>
+      </p>
+      <p id="569">
+        <s id="569:1" lang="es">Artículo 14</s>
+      </p>
+      <p id="570">
+        <s id="570:1" lang="es">1. Además de ejercer las atribuciones que le confieren otras disposiciones del presente Reglamento, el Presidente presidirá las sesiones plenarias de la Conferencia y abrirá y levantará cada una de las sesiones, dirigirá los debates, cuidará de la aplicación del presente Reglamento, concederá la palabra, constatará si hay consenso, someterá a votación las cuestiones y proclamará las decisiones adoptadas.</s>
+        <s id="570:2" lang="es">Decidirá sobre las cuestiones de orden.</s>
+        <s id="570:3" lang="es">Con sujeción a este Reglamento, el Presidente tendrá plena autoridad para dirigir las deliberaciones y para mantener el orden en ellas.</s>
+        <s id="570:4" lang="es">El Presidente podrá sugerir a la Conferencia el cierre de la lista de oradores, la limitación del tiempo de uso de la palabra y del número de intervenciones que podrá hacer sobre un tema el representante de cada Estado, el aplazamiento o el cierre del debate y el levantamiento o la suspensión de una sesión.</s>
+      </p>
+      <p id="571">
+        <s id="571:1" lang="es">2. El Presidente, en el ejercicio de sus funciones, queda subordinado a la autoridad de la Conferencia.</s>
+      </p>
+      <p id="572">
+        <s id="572:1" lang="es">Cuestiones de orden</s>
+      </p>
+      <p id="573">
+        <s id="573:1" lang="es">Artículo 15</s>
+      </p>
+      <p id="574">
+        <s id="574:1" lang="es">Todo representante podrá en cualquier momento plantear una cuestión de orden, y el Presidente decidirá inmediatamente al respecto con arreglo al presente Reglamento.</s>
+        <s id="574:2" lang="es">Todo representante podrá apelar de la decisión del Presidente.</s>
+        <s id="574:3" lang="es">La apelación será sometida inmediatamente a votación y la decisión del Presidente prevalecerá, a menos que sea revocada por la mayoría de los representantes presentes y votantes.</s>
+        <s id="574:4" lang="es">En su intervención, el representante que plantee una cuestión de orden no podrá hablar sobre el fondo de la cuestión que se esté discutiendo.</s>
+      </p>
+      <p id="575">
+        <s id="575:1" lang="es">Intervenciones</s>
+      </p>
+      <p id="576">
+        <s id="576:1" lang="es">Artículo 16</s>
+      </p>
+      <p id="577">
+        <s id="577:1" lang="es">1. Nadie podrá tomar la palabra en la Conferencia sin autorización previa del Presidente.</s>
+        <s id="577:2" lang="es">Con sujeción a lo dispuesto en los artículos 15, 17 y 19 a 22, el Presidente concederá la palabra a los oradores en el orden en que hayan manifestado su deseo de hacer uso de ella.</s>
+      </p>
+      <p id="578">
+        <s id="578:1" lang="es">2. Los debates se limitarán al asunto que se esté discutiendo y el Presidente podrá llamar al orden a un orador cuando sus observaciones no sean pertinentes a tal asunto.</s>
+      </p>
+      <p id="579">
+        <s id="579:1" lang="es">3. La Conferencia podrá limitar la duración de las intervenciones y el número de intervenciones del representante de cada Estado sobre un asunto; se permitirá hablar sobre una moción para fijar tales límites solamente a dos representantes a favor y a dos en contra, después de lo cual la moción se someterá inmediatamente a votación.</s>
+        <s id="579:2" lang="es">En cualquier caso, el Presidente limitará la duración de cada intervención referente a una cuestión de procedimiento a un máximo de cinco minutos.</s>
+        <s id="579:3" lang="es">Cuando los debates estén limitados y un orador rebase el tiempo que le haya sido asignado, el Presidente le llamará inmediatamente al orden.</s>
+      </p>
+      <p id="580">
+        <s id="580:1" lang="es">Precedencia</s>
+      </p>
+      <p id="581">
+        <s id="581:1" lang="es">Artículo 17</s>
+      </p>
+      <p id="582">
+        <s id="582:1" lang="es">Podrá darse precedencia al Presidente de una comisión a fin de que exponga las conclusiones de su comisión.</s>
+      </p>
+      <p id="583">
+        <s id="583:1" lang="es">Cierre de la lista de oradores</s>
+      </p>
+      <p id="584">
+        <s id="584:1" lang="es">Artículo 18</s>
+      </p>
+      <p id="585">
+        <s id="585:1" lang="es">En el curso de un debate, el Presidente podrá dar lectura a la lista de oradores y, con el asentimiento de la Conferencia, declarar cerrada la lista.</s>
+        <s id="585:2" lang="es">Cuando el debate sobre un tema haya concluido por no haber más oradores, el Presidente declarará cerrado el debate.</s>
+        <s id="585:3" lang="es">En tal caso, el cierre del debate tendrá el mismo efecto que el cierre decidido de conformidad con el artículo 22.</s>
+      </p>
+      <p id="586">
+        <s id="586:1" lang="es">Derecho de respuesta</s>
+      </p>
+      <p id="587">
+        <s id="587:1" lang="es">Artículo 19</s>
+      </p>
+      <p id="588">
+        <s id="588:1" lang="es">No obstante lo dispuesto en el artículo 18, el Presidente podrá dar al representante de cualquier Estado que participe en la Conferencia el derecho de respuesta.</s>
+        <s id="588:2" lang="es">Las intervenciones correspondientes serán tan breves como sea posible y, como norma, se realizarán al final de la última sesión del día.</s>
+      </p>
+      <p id="589">
+        <s id="589:1" lang="es">Suspensión o levantamiento de la sesión</s>
+      </p>
+      <p id="590">
+        <s id="590:1" lang="es">Artículo 20</s>
+      </p>
+      <p id="591">
+        <s id="591:1" lang="es">Todo representante podrá proponer en cualquier momento la suspensión o el levantamiento de la sesión.</s>
+        <s id="591:2" lang="es">Con sujeción a lo dispuesto en el artículo 23, tales mociones se someterán inmediatamente a votación sin discusión previa.</s>
+      </p>
+      <p id="592">
+        <s id="592:1" lang="es">Aplazamiento del debate</s>
+      </p>
+      <p id="593">
+        <s id="593:1" lang="es">Artículo 21</s>
+      </p>
+      <p id="594">
+        <s id="594:1" lang="es">Todo representante podrá proponer en cualquier momento el aplazamiento del debate sobre el tema que se esté discutiendo.</s>
+        <s id="594:2" lang="es">Sólo se permitirá hablar sobre la moción a dos representantes que estén a favor del aplazamiento y a dos que se opongan a éste, después de lo cual la moción, con sujeción a lo dispuesto en el artículo 23, será sometida inmediatamente a votación.</s>
+      </p>
+      <p id="595">
+        <s id="595:1" lang="es">Cierre del debate</s>
+      </p>
+      <p id="596">
+        <s id="596:1" lang="es">Artículo 22</s>
+      </p>
+      <p id="597">
+        <s id="597:1" lang="es">Todo representante podrá proponer en cualquier momento el cierre del debate sobre el tema que se esté discutiendo, aun cuando otro representante haya manifestado su deseo de hablar.</s>
+        <s id="597:2" lang="es">Sólo se permitirá hablar sobre la moción a dos representantes que se opongan al cierre, después de lo cual la moción, con sujeción a lo dispuesto en el artículo 23, será sometida inmediatamente a votación.</s>
+      </p>
+      <p id="598">
+        <s id="598:1" lang="es">Orden de las mociones</s>
+      </p>
+      <p id="599">
+        <s id="599:1" lang="es">Artículo 23</s>
+      </p>
+      <p id="600">
+        <s id="600:1" lang="es">Las mociones que a continuación se mencionan tendrán precedencia, en el orden que se indica, sobre todas las demás propuestas o mociones presentadas:</s>
+      </p>
+      <p id="601">
+        <s id="601:1" lang="es">a) Suspensión de la sesión;</s>
+      </p>
+      <p id="602">
+        <s id="602:1" lang="es">b) Levantamiento de la sesión;</s>
+      </p>
+      <p id="603">
+        <s id="603:1" lang="es">c) Aplazamiento del debate sobre el asunto que se esté discutiendo;</s>
+      </p>
+      <p id="604">
+        <s id="604:1" lang="es">d) Cierre del debate sobre el asunto que se esté discutiendo.</s>
+      </p>
+      <p id="605">
+        <s id="605:1" lang="es">Presentación de propuestas y enmiendas de fondo</s>
+      </p>
+      <p id="606">
+        <s id="606:1" lang="es">Artículo 24</s>
+      </p>
+      <p id="607">
+        <s id="607:1" lang="es">Normalmente las propuestas y enmiendas de fondo se presentarán por escrito al Secretario General de la Conferencia, quien distribuirá copias a todas las delegaciones.</s>
+        <s id="607:2" lang="es">A menos que la Conferencia decida otra cosa, las propuestas y enmiendas de fondo no se discutirán ni serán objeto de decisión antes de haber transcurrido por lo menos 24 horas desde la distribución de las copias en todos los idiomas de la Conferencia a todas las delegaciones.</s>
+      </p>
+      <p id="608">
+        <s id="608:1" lang="es">Retiro de propuestas y mociones</s>
+      </p>
+      <p id="609">
+        <s id="609:1" lang="es">Artículo 25</s>
+      </p>
+      <p id="610">
+        <s id="610:1" lang="es">El patrocinador de una propuesta o de una moción podrá retirarla en cualquier momento antes de que haya sido objeto de decisión, a condición de que no haya sido enmendada.</s>
+        <s id="610:2" lang="es">Una propuesta o una moción así retirada podrá ser presentada de nuevo por cualquier representante.</s>
+      </p>
+      <p id="611">
+        <s id="611:1" lang="es">Decisiones sobre cuestiones de competencia</s>
+      </p>
+      <p id="612">
+        <s id="612:1" lang="es">Artículo 26</s>
+      </p>
+      <p id="613">
+        <s id="613:1" lang="es">Una moción encaminada a que la Conferencia decida sobre su competencia para pronunciarse sobre una propuesta que le haya sido presentada será objeto de una decisión antes de que se tome una decisión sobre la propuesta de que se trate.</s>
+      </p>
+      <p id="614">
+        <s id="614:1" lang="es">Reconsideración de propuestas</s>
+      </p>
+      <p id="615">
+        <s id="615:1" lang="es">Artículo 27</s>
+      </p>
+      <p id="616">
+        <s id="616:1" lang="es">Las propuestas aprobadas por consenso no podrán reconsiderarse a menos que la Conferencia decida por consenso tal reconsideración.</s>
+        <s id="616:2" lang="es">Las propuestas que hayan sido aprobadas o rechazadas por una mayoría de dos tercios, podrán ser reconsideradas si la Conferencia así lo decide por una mayoría de dos tercios.</s>
+        <s id="616:3" lang="es">Sólo se permitirá hablar sobre la moción de reconsideración a dos oradores que se opongan a ésta, tras lo cual la moción será sometida inmediatamente a votación.</s>
+      </p>
+      <p id="617">
+        <s id="617:1" lang="es">VI. Votaciones y elecciones</s>
+      </p>
+      <p id="618">
+        <s id="618:1" lang="es">Adopción de decisiones</s>
+      </p>
+      <p id="619">
+        <s id="619:1" lang="es">Artículo 28</s>
+      </p>
+      <p id="620">
+        <s id="620:1" lang="es">1. Como la tarea de la Conferencia, de conformidad con el párrafo 3 del</s>
+      </p>
+      <p id="621">
+        <s id="621:1" lang="es">artículo VIII del Tratado, consiste en examinar el funcionamiento del Tratado para asegurarse de que se cumplan los fines del preámbulo y las disposiciones del Tratado y reforzar así su eficacia, deberá hacerse todo lo posible por llegar a un acuerdo por consenso sobre las cuestiones de fondo.</s>
+        <s id="621:2" lang="es">No se procederá a votación sobre estas cuestiones hasta que se hayan agotado todos los esfuerzos por lograr el consenso.</s>
+      </p>
+      <p id="622">
+        <s id="622:1" lang="es">2. Las decisiones sobre cuestiones de procedimiento y las decisiones en las elecciones se adoptarán por mayoría de los representantes presentes y votantes.</s>
+      </p>
+      <p id="623">
+        <s id="623:1" lang="es">3. Si, no obstante haber puesto los delegados el máximo empeño por lograr un consenso, fuera preciso someter a votación una cuestión de fondo, el Presidente aplazará la votación por 48 horas y durante ese plazo hará todo lo posible, con asistencia de la Mesa, por facilitar la consecución de un acuerdo general e informará a la Conferencia antes de que termine el plazo.</s>
+      </p>
+      <p id="624">
+        <s id="624:1" lang="es">4. Si transcurrido el plazo la Conferencia no hubiera llegado a un acuerdo, se procederá a votación y las decisiones se adoptarán por una mayoría de dos tercios de los representantes presentes y votantes, a condición de que en esa mayoría esté comprendida, por lo menos, la mayoría de los Estados participantes en la Conferencia.</s>
+      </p>
+      <p id="625">
+        <s id="625:1" lang="es">5. Si hubiera que decidir si una cuestión es de procedimiento o de fondo, el Presidente de la Conferencia resolverá la cuestión.</s>
+        <s id="625:2" lang="es">Toda apelación de esta decisión será sometida inmediatamente a votación y la decisión del Presidente prevalecerá, a menos que la apelación sea aprobada por mayoría de los representantes presentes y votantes.</s>
+      </p>
+      <p id="626">
+        <s id="626:1" lang="es">6. Cuando se proceda a votación, se aplicarán los artículos del reglamento de la Asamblea General de las Naciones Unidas relativos a las votaciones, salvo disposición en contrario del presente reglamento.</s>
+      </p>
+      <p id="627">
+        <s id="627:1" lang="es">Derechos de voto</s>
+      </p>
+      <p id="628">
+        <s id="628:1" lang="es">Artículo 29</s>
+      </p>
+      <p id="629">
+        <s id="629:1" lang="es">Cada Estado Parte en el Tratado tendrá un voto.</s>
+      </p>
+      <p id="630">
+        <s id="630:1" lang="es">Significado de la expresión &quot;representantes presentes y votantes&quot;</s>
+      </p>
+      <p id="631">
+        <s id="631:1" lang="es">Artículo 30</s>
+      </p>
+      <p id="632">
+        <s id="632:1" lang="es">A los efectos del presente Reglamento, por &quot;representantes presentes y votantes&quot; se entenderá los representantes que emitan votos a favor o en contra.</s>
+        <s id="632:2" lang="es">Los representantes que se abstengan de votar serán considerados no votantes.</s>
+      </p>
+      <p id="633">
+        <s id="633:1" lang="es">Elecciones</s>
+      </p>
+      <p id="634">
+        <s id="634:1" lang="es">Artículo 31</s>
+      </p>
+      <p id="635">
+        <s id="635:1" lang="es">Todas las elecciones se efectuarán por votación secreta, salvo que la Conferencia decida otras cosa en el caso de una elección en que el número de candidatos no sea mayor que el de los puestos electivos por cubrir.</s>
+      </p>
+      <p id="636">
+        <s id="636:1" lang="es">Artículo 32</s>
+      </p>
+      <p id="637">
+        <s id="637:1" lang="es">1. Si, cuando haya que cubrirse sólo un puesto electivo, ningún candidato obtiene en la primera votación la mayoría requerida, se procederá a una segunda votación, limitada a los dos candidatos que hayan obtenido el mayor número de votos.</s>
+        <s id="637:2" lang="es">Si en la segunda votación los votos se dividen por igual, el Presidente resolverá el empate por sorteo.</s>
+      </p>
+      <p id="638">
+        <s id="638:1" lang="es">2. En el caso de que, en la primera votación, haya habido un empate entre los candidatos que ocuparon la segunda posición, se procederá a una votación especial entre dichos candidatos a fin de reducir su número a dos; del mismo modo, cuando sean tres o más los candidatos empatados con el mayor número de votos, se procederá a una votación especial.</s>
+        <s id="638:2" lang="es">Si vuelve a producirse un empate en la votación especial, el Presidente eliminará a un candidato por sorteo y luego se procederá a una votación de conformidad con el párrafo 1.</s>
+      </p>
+      <p id="639">
+        <s id="639:1" lang="es">Artículo 33</s>
+      </p>
+      <p id="640">
+        <s id="640:1" lang="es">1. Cuando hayan de cubrirse al mismo tiempo y en las mismas condiciones dos o más puestos electivos, se declarará elegidos, en un número no mayor al de esos puestos, a los candidatos que obtengan en la primera votación la mayoría necesaria y el mayor número de votos.</s>
+      </p>
+      <p id="641">
+        <s id="641:1" lang="es">2. Si el número de candidatos que obtienen esa mayoría es inferior al número de puestos por cubrir, se procederá a nuevas votaciones para cubrir los puestos restantes, salvo que, si sólo queda por cubrir un puesto, se aplicará el procedimiento previsto en el artículo 32.</s>
+        <s id="641:2" lang="es">La votación se limitará a los candidatos que, no habiendo resultado elegidos, hubieran obtenido el mayor número de votos en la votación anterior, pero el número de esos candidatos no excederá del doble del número de puestos que quedan por cubrir.</s>
+        <s id="641:3" lang="es">Sin embargo, en el caso de que un mayor número de candidatos se encuentren empatados, se procederá a una votación especial a fin de reducir ese número a la cantidad necesaria; si vuelve a producirse empate entre un número de candidatos mayor que el necesario, el Presidente reducirá ese número a la cantidad necesaria por sorteo.</s>
+      </p>
+      <p id="642">
+        <s id="642:1" lang="es">3. Si en la votación limitada (excluida cualquier votación especial efectuada en las condiciones especificadas en la última oración del párrafo 2) no se llega a ningún resultado decisivo, el Presidente decidirá por sorteo entre los candidatos.</s>
+      </p>
+      <p id="643">
+        <s id="643:1" lang="es">VII. Comisiones</s>
+      </p>
+      <p id="644">
+        <s id="644:1" lang="es">Comisiones principales y órganos subsidiarios</s>
+      </p>
+      <p id="645">
+        <s id="645:1" lang="es">Artículo 34</s>
+      </p>
+      <p id="646">
+        <s id="646:1" lang="es">La Conferencia creará tres comisiones principales para el ejercicio de sus funciones.</s>
+        <s id="646:2" lang="es">Cada una de estas comisiones podrá establecer órganos subsidiarios que se dediquen a examinar cuestiones específicas relacionadas con el Tratado.</s>
+        <s id="646:3" lang="es">Por regla general, todos y cada uno de los Estados participantes en la Conferencia podrán estar representados en los órganos subsidiarios, a menos que se decida lo contrario por consenso.</s>
+      </p>
+      <p id="647">
+        <s id="647:1" lang="es">Representación en las comisiones principales</s>
+      </p>
+      <p id="648">
+        <s id="648:1" lang="es">Artículo 35</s>
+      </p>
+      <p id="649">
+        <s id="649:1" lang="es">Cada Estado Parte en el Tratado que participe en la Conferencia podrá estar representado por un representante en cada comisión principal.</s>
+        <s id="649:2" lang="es">Para estas comisiones, cada Estado podrá designar los representantes suplentes y asesores que considere necesarios.</s>
+      </p>
+      <p id="650">
+        <s id="650:1" lang="es">Comité de Redacción</s>
+      </p>
+      <p id="651">
+        <s id="651:1" lang="es">Artículo 36</s>
+      </p>
+      <p id="652">
+        <s id="652:1" lang="es">1. La Conferencia establecerá un Comité de Redacción integrado por representantes de los mismos Estados que estén representados en la Mesa.</s>
+        <s id="652:2" lang="es">Dicho Comité coordinará la redacción de todos los textos que le sean sometidos por la Conferencia o por una de las comisiones principales, sin introducir en ellos modificaciones de fondo, los preparará para la publicación, e informará a la Conferencia o a la comisión principal de que se trate.</s>
+        <s id="652:3" lang="es">Deberá también, sin volver a abrir un debate de fondo sobre ninguna cuestión, formular proyectos y dar su opinión sobre cuestiones de redacción en respuesta a las peticiones que le hagan la Conferencia o una de las comisiones principales.</s>
+      </p>
+      <p id="653">
+        <s id="653:1" lang="es">2. Los representantes de otras delegaciones podrán asistir también a las reuniones del Comité de Redacción y podrán participar en sus deliberaciones cuando se examinen cuestiones que les interesen especialmente.</s>
+      </p>
+      <p id="654">
+        <s id="654:1" lang="es">Miembros de las Mesas y procedimientos</s>
+      </p>
+      <p id="655">
+        <s id="655:1" lang="es">Artículo 37</s>
+      </p>
+      <p id="656">
+        <s id="656:1" lang="es">Los artículos relativos a los miembros de las Mesas, la secretaría de la Conferencia, la dirección de los debates y las votaciones de la Conferencia (que figuran en los títulos II (artículo 5 a 7), IV (artículos 10 y 11), V (artículos 13 a 27) y VI (artículos 28 a 33)) serán aplicables, mutatis mutandis, a los trabajos de las comisiones y de los órganos subsidiarios, con las excepciones siguientes:</s>
+      </p>
+      <p id="657">
+        <s id="657:1" lang="es">a) Salvo que se decida otra cosa, todo órgano subsidiario elegirá una Mesa integrada por un Presidente y los demás miembros que se consideren necesarios;</s>
+      </p>
+      <p id="658">
+        <s id="658:1" lang="es">b) Los Presidentes de la Mesa de la Conferencia, del Comité de Redacción y de la Comisión de Verificación de Poderes, así como los Presidentes de los órganos subsidiarios, podrán votar en calidad de representantes de sus Estados;</s>
+      </p>
+      <p id="659">
+        <s id="659:1" lang="es">c) La mayoría de los representantes en la Mesa de la Conferencia, el Comité de Redacción, la Comisión de Verificación de Poderes o cualquier órgano subsidiario constituirá quórum; el Presidente de una comisión principal podrá declarar abierta una sesión y permitir que se celebre el debate cuando la cuarta parte al menos de los representantes de los Estados que participan en la Conferencia se hallen presentes.</s>
+      </p>
+      <p id="660">
+        <s id="660:1" lang="es">VIII. Idiomas y actas</s>
+      </p>
+      <p id="661">
+        <s id="661:1" lang="es">Idiomas de la Conferencia</s>
+      </p>
+      <p id="662">
+        <s id="662:1" lang="es">Artículo 38</s>
+      </p>
+      <p id="663">
+        <s id="663:1" lang="es">El árabe, el chino, el español, el francés, el inglés y el ruso serán los idiomas oficiales de la Conferencia.</s>
+      </p>
+      <p id="664">
+        <s id="664:1" lang="es">Interpretación</s>
+      </p>
+      <p id="665">
+        <s id="665:1" lang="es">Artículo 39</s>
+      </p>
+      <p id="666">
+        <s id="666:1" lang="es">1. Los discursos pronunciados en un idioma de la Conferencia se interpretarán a los demás idiomas.</s>
+      </p>
+      <p id="667">
+        <s id="667:1" lang="es">2. Cualquier representante podrá hacer uso de la palabra en un idioma distinto de los de la Conferencia, siempre que se encargue de proporcionar la interpretación en uno de los idiomas de la Conferencia.</s>
+        <s id="667:2" lang="es">La interpretación hecha por los intérpretes de la Secretaría en los demás idiomas de la Conferencia podrá basarse en la interpretación hecha al primero de esos idiomas.</s>
+      </p>
+      <p id="668">
+        <s id="668:1" lang="es">Idiomas en que se redactarán los documentos oficiales</s>
+      </p>
+      <p id="669">
+        <s id="669:1" lang="es">Artículo 40</s>
+      </p>
+      <p id="670">
+        <s id="670:1" lang="es">Los documentos oficiales se distribuirán en los idiomas de la Conferencia.</s>
+      </p>
+      <p id="671">
+        <s id="671:1" lang="es">Grabaciones sonoras de las sesiones</s>
+      </p>
+      <p id="672">
+        <s id="672:1" lang="es">Artículo 41</s>
+      </p>
+      <p id="673">
+        <s id="673:1" lang="es">De conformidad con la práctica de las Naciones Unidas, se harán y se conservarán grabaciones sonoras de las sesiones de la Conferencia y de todas las comisiones.</s>
+        <s id="673:2" lang="es">A menos que la comisión principal pertinente decida otra cosa, no se harán grabaciones sonoras de las sesiones de los órganos subsidiarios de las comisiones principales.</s>
+      </p>
+      <p id="674">
+        <s id="674:1" lang="es">Artículo 42</s>
+      </p>
+      <p id="675">
+        <s id="675:1" lang="es">1. La Secretaría preparará en los idiomas de la Conferencia actas resumidas de las sesiones plenarias de la Conferencia y de las sesiones de las comisiones principales.</s>
+        <s id="675:2" lang="es">Las actas se distribuirán cuanto antes en forma provisional a todos los participantes en la Conferencia.</s>
+        <s id="675:3" lang="es">Los participantes en el debate podrán presentar a la</s>
+      </p>
+      <p id="676">
+        <s id="676:1" lang="es">Secretaría, dentro de los tres días laborables siguientes a la recepción del acta resumida provisional, correcciones a los resúmenes de sus propias intervenciones; en circunstancias especiales, el Presidente podrá, en consulta con el Secretario General de la Conferencia, prorrogar el plazo para la presentación de correcciones.</s>
+        <s id="676:2" lang="es">Toda discrepancia motivada por esas correcciones será resuelta por el Presidente del órgano a que se refiera el acta, después de consultar, en caso necesario, las grabaciones</s>
+      </p>
+      <p id="677">
+        <s id="677:1" lang="es">sonoras de los debates.</s>
+        <s id="677:2" lang="es">Normalmente no se publicarán correcciones por separado de las actas provisionales.</s>
+      </p>
+      <p id="678">
+        <s id="678:1" lang="es">2. Las actas resumidas, una vez incorporadas las correcciones del caso, serán distribuidas sin demora a los participantes en la Conferencia.</s>
+      </p>
+      <p id="679">
+        <s id="679:1" lang="es">IX. Sesiones públicas y sesiones privadas</s>
+      </p>
+      <p id="680">
+        <s id="680:1" lang="es">Artículo 43</s>
+      </p>
+      <p id="681">
+        <s id="681:1" lang="es">1. Las sesiones plenarias de la Conferencia y las sesiones de las comisiones principales serán públicas a menos que el órgano interesado decida otra cosa.</s>
+      </p>
+      <p id="682">
+        <s id="682:1" lang="es">2. Las sesiones de los demás órganos de la Conferencia serán privadas.</s>
+      </p>
+      <p id="683">
+        <s id="683:1" lang="es">X. Participación y asistencia</s>
+      </p>
+      <p id="684">
+        <s id="684:1" lang="es">Artículo 44</s>
+      </p>
+      <p id="685">
+        <s id="685:1" lang="es">1. Observadores</s>
+      </p>
+      <p id="686">
+        <s id="686:1" lang="es">a) Cualquier otro Estado que, de conformidad con el artículo IX del Tratado, tenga derecho a ser parte en él, pero aún no se haya adherido al Tratado o no lo haya ratificado, podrá solicitar del Secretario General de la Conferencia que se le reconozca la condición de observador, la cual se le concederá por decisión de la Conferencia.</s>
+        <s id="686:2" lang="es">Dicho Estado tendrá derecho a designar funcionarios que asistan a las sesiones plenarias y a las de las comisiones principales que no sean privadas y a recibir los documentos de la Conferencia.</s>
+        <s id="686:3" lang="es">Todo Estado observador tendrá también derecho a presentar documentos a los participantes en la Conferencia.</s>
+      </p>
+      <p id="687">
+        <s id="687:1" lang="es">b) Cualquier organización de liberación nacional a la que la Asamblea</s>
+      </p>
+      <p id="688">
+        <s id="688:1" lang="es">General de las Naciones Unidas haya reconocido el derecho a participar como</s>
+      </p>
+      <p id="689">
+        <s id="689:1" lang="es">observadora en los períodos de sesiones y los trabajos de la Asamblea General, de todas las conferencias internacionales convocadas bajo los auspicios de la Asamblea General y de todas las conferencias internacionales convocadas bajo los auspicios de otros órganos de las Naciones Unidas podrá solicitar al Secretario General de la Conferencia que se le reconozca la condición de observadora, la cual se le concederá por decisión de la Conferencia.</s>
+        <s id="689:2" lang="es">Tal organización de liberación tendrá derecho a designar funcionarios que asistan a las sesiones plenarias y a las de las comisiones principales, que no sean privadas y a recibir los documentos de la Conferencia.</s>
+        <s id="689:3" lang="es">Toda organización reconocida como observadora tendrá también derecho a presentar</s>
+      </p>
+      <p id="690">
+        <s id="690:1" lang="es">documentos a los participantes en la Conferencia.</s>
+      </p>
+      <p id="691">
+        <s id="691:1" lang="es">2. Las Naciones Unidas y el Organismo Internacional de Energía Atómica</s>
+      </p>
+      <p id="692">
+        <s id="692:1" lang="es">El Secretario General de las Naciones Unidas y el Director General del Organismo Internacional de Energía Atómica, o sus representantes, tendrán derecho a asistir a las sesiones plenarias y a las sesiones de las comisiones principales y a recibir los documentos de la Conferencia.</s>
+        <s id="692:2" lang="es">También tendrán derecho a presentar comunicaciones, verbalmente o por escrito.</s>
+      </p>
+      <p id="693">
+        <s id="693:1" lang="es">3. Organismos especializados y organizaciones intergubernamentales internacionales regionales</s>
+      </p>
+      <p id="694">
+        <s id="694:1" lang="es">El Organismo para la Proscripción de las Armas Nucleares en la América Latina, el Foro del Pacífico Meridional, otras organizaciones intergubernamentales internacionales y regionales, y la Comisión Preparatoria de la Organización del Tratado de Prohibición Completa de los Ensayos Nucleares y cualquier organismo especializado de las Naciones Unidas podrán solicitar del Secretario General de la Conferencia que se les reconozca la condición de organismo observador, que se les concederá por decisión de la Conferencia.</s>
+        <s id="694:2" lang="es">Todo organismo observador tendrá derecho a designar funcionarios que asistan a las sesiones de las comisiones principales que no sean privadas y a recibir los documentos de la Conferencia.</s>
+        <s id="694:3" lang="es">La Conferencia también podrá invitarles a presentar por escrito sus opiniones y observaciones sobre cuestiones de su competencia, y esas comunicaciones podrán distribuirse como documentos de la Conferencia.</s>
+      </p>
+      <p id="695">
+        <s id="695:1" lang="es">4. Organizaciones no gubernamentales</s>
+      </p>
+      <p id="696">
+        <s id="696:1" lang="es">Los representantes de organizaciones no gubernamentales que asistan a las sesiones plenarias o a las sesiones de las comisiones principales tendrán derecho a recibir los documentos de la Conferencia, si así lo solicitan.</s>
+      </p>
+      <p id="697">
+        <s id="697:1" lang="es">La lista adjunta contiene la distribución de los gastos entre los Estados, basada en la participación de los Estados en los períodos de sesiones primero, segundo o tercero de la Comisión Preparatoria.</s>
+      </p>
+      <p id="698">
+        <s id="698:1" lang="es">La lista para la división efectiva de los gastos se revisará según la participación de Estados en la Conferencia, a no ser para las participaciones marcadas en la lista con un asterisco, que permanecerán tal como se indica en la lista.</s>
+        <s id="698:2" lang="es">Los gastos restantes se dividirán entre los demás Estados partes que participan en la Conferencia de conformidad con la escala de cuotas de las Naciones Unidas, prorrateada para tener en cuenta las diferencias entre la composición de las Naciones Unidas y el número de Estados partes que participan en la Conferencia.</s>
+        <s id="698:3" lang="es">En lo que respecta a los Estados partes que no son miembros de las Naciones Unidas, su cuota se determinará sobre la base de la escala análogamente prorrateada que se utiliza para determinar su cuota en las actividades en que participan.</s>
+      </p>
+      <p id="699">
+        <s id="699:1" lang="es">Lista</s>
+      </p>
+      <p id="700">
+        <s id="700:1" lang="es">Cuota</s>
+      </p>
+      <p id="701">
+        <s id="701:1" lang="es">(Porcentaje del total</s>
+      </p>
+      <p id="702">
+        <s id="702:1" lang="es">de gastos estimados</s>
+      </p>
+      <p id="703">
+        <s id="703:1" lang="es">Albania</s>
+      </p>
+      <p id="704">
+        <s id="704:1" lang="es">Alemania</s>
+      </p>
+      <p id="705">
+        <s id="705:1" lang="es">Andorra</s>
+      </p>
+      <p id="706">
+        <s id="706:1" lang="es">Arabia Saudita</s>
+      </p>
+      <p id="707">
+        <s id="707:1" lang="es">Argelia</s>
+      </p>
+      <p id="708">
+        <s id="708:1" lang="es">Argentina</s>
+      </p>
+      <p id="709">
+        <s id="709:1" lang="es">Armenia</s>
+      </p>
+      <p id="710">
+        <s id="710:1" lang="en">Australia</s>
+      </p>
+      <p id="711">
+        <s id="711:1" lang="es">Austria</s>
+      </p>
+      <p id="712">
+        <s id="712:1" lang="en">Azerbaiyán</s>
+      </p>
+      <p id="713">
+        <s id="713:1" lang="en">Bahamas</s>
+      </p>
+      <p id="714">
+        <s id="714:1" lang="en">Bahrein</s>
+      </p>
+      <p id="715">
+        <s id="715:1" lang="es">Bangladesh</s>
+      </p>
+      <p id="716">
+        <s id="716:1" lang="en">Barbados</s>
+      </p>
+      <p id="717">
+        <s id="717:1" lang="en">Belarús</s>
+      </p>
+      <p id="718">
+        <s id="718:1" lang="es">Bélgica</s>
+      </p>
+      <p id="719">
+        <s id="719:1" lang="es">Belice</s>
+      </p>
+      <p id="720">
+        <s id="720:1" lang="es">Bhután</s>
+      </p>
+      <p id="721">
+        <s id="721:1" lang="es">Bolivia</s>
+      </p>
+      <p id="722">
+        <s id="722:1" lang="es">Bosnia y Herzegovina</s>
+      </p>
+      <p id="723">
+        <s id="723:1" lang="es">Botswana</s>
+      </p>
+      <p id="724">
+        <s id="724:1" lang="es">Brasil</s>
+      </p>
+      <p id="725">
+        <s id="725:1" lang="es">Brunei Darussalam</s>
+      </p>
+      <p id="726">
+        <s id="726:1" lang="es">Bulgaria</s>
+      </p>
+      <p id="727">
+        <s id="727:1" lang="es">Burkina Faso</s>
+      </p>
+      <p id="728">
+        <s id="728:1" lang="es">Camboya</s>
+      </p>
+      <p id="729">
+        <s id="729:1" lang="es">Camerún</s>
+      </p>
+      <p id="730">
+        <s id="730:1" lang="es">Canadá</s>
+      </p>
+      <p id="731">
+        <s id="731:1" lang="es">Chile</s>
+      </p>
+      <p id="732">
+        <s id="732:1" lang="es">China</s>
+      </p>
+      <p id="733">
+        <s id="733:1" lang="es">Chipre</s>
+      </p>
+      <p id="734">
+        <s id="734:1" lang="es">Colombia</s>
+      </p>
+      <p id="735">
+        <s id="735:1" lang="es">Congo</s>
+      </p>
+      <p id="736">
+        <s id="736:1" lang="es">Costa Rica</s>
+      </p>
+      <p id="737">
+        <s id="737:1" lang="es">Côte d&apos;Ivoire</s>
+      </p>
+      <p id="738">
+        <s id="738:1" lang="es">Croacia</s>
+      </p>
+      <p id="739">
+        <s id="739:1" lang="es">Cuba</s>
+      </p>
+      <p id="740">
+        <s id="740:1" lang="es">Dinamarca</s>
+      </p>
+      <p id="741">
+        <s id="741:1" lang="es">Djibouti</s>
+      </p>
+      <p id="742">
+        <s id="742:1" lang="es">Ecuador</s>
+      </p>
+      <p id="743">
+        <s id="743:1" lang="es">Egipto</s>
+      </p>
+      <p id="744">
+        <s id="744:1" lang="es">El Salvador</s>
+      </p>
+      <p id="745">
+        <s id="745:1" lang="es">Emiratos Árabes Unidos</s>
+      </p>
+      <p id="746">
+        <s id="746:1" lang="es">Eslovaquia</s>
+      </p>
+      <p id="747">
+        <s id="747:1" lang="es">Eslovenia</s>
+      </p>
+      <p id="748">
+        <s id="748:1" lang="es">España</s>
+      </p>
+      <p id="749">
+        <s id="749:1" lang="es">Estados Unidos de América</s>
+      </p>
+      <p id="750">
+        <s id="750:1" lang="es">Estonia</s>
+      </p>
+      <p id="751">
+        <s id="751:1" lang="es">Etiopía</s>
+      </p>
+      <p id="752">
+        <s id="752:1" lang="es">ex República Yugoslava de Macedonia</s>
+      </p>
+      <p id="753">
+        <s id="753:1" lang="es">Federación de Rusia</s>
+      </p>
+      <p id="754">
+        <s id="754:1" lang="en">Fiji</s>
+      </p>
+      <p id="755">
+        <s id="755:1" lang="en">Filipinas</s>
+      </p>
+      <p id="756">
+        <s id="756:1" lang="en">Finlandia</s>
+      </p>
+      <p id="757">
+        <s id="757:1" lang="en">Francia</s>
+      </p>
+      <p id="758">
+        <s id="758:1" lang="en">Georgia</s>
+      </p>
+      <p id="759">
+        <s id="759:1" lang="en">Ghana</s>
+      </p>
+      <p id="760">
+        <s id="760:1" lang="en">Grecia</s>
+      </p>
+      <p id="761">
+        <s id="761:1" lang="en">Guatemala</s>
+      </p>
+      <p id="762">
+        <s id="762:1" lang="es">Guinea Ecuatorial</s>
+      </p>
+      <p id="763">
+        <s id="763:1" lang="es">Guyana</s>
+      </p>
+      <p id="764">
+        <s id="764:1" lang="es">Haití</s>
+      </p>
+      <p id="765">
+        <s id="765:1" lang="es">Santa Sede</s>
+      </p>
+      <p id="766">
+        <s id="766:1" lang="es">Hungría</s>
+      </p>
+      <p id="767">
+        <s id="767:1" lang="es">Indonesia</s>
+      </p>
+      <p id="768">
+        <s id="768:1" lang="es">Irán (República Islámica del)</s>
+      </p>
+      <p id="769">
+        <s id="769:1" lang="es">Iraq</s>
+      </p>
+      <p id="770">
+        <s id="770:1" lang="es">Irlanda</s>
+      </p>
+      <p id="771">
+        <s id="771:1" lang="es">Islandia</s>
+      </p>
+      <p id="772">
+        <s id="772:1" lang="es">Islas Salomón</s>
+      </p>
+      <p id="773">
+        <s id="773:1" lang="es">Italia</s>
+      </p>
+      <p id="774">
+        <s id="774:1" lang="es">Jamahiriya Árabe Libia</s>
+      </p>
+      <p id="775">
+        <s id="775:1" lang="es">Jamaica</s>
+      </p>
+      <p id="776">
+        <s id="776:1" lang="es">Japón</s>
+      </p>
+      <p id="777">
+        <s id="777:1" lang="en">Jordania</s>
+      </p>
+      <p id="778">
+        <s id="778:1" lang="es">Kazajstán</s>
+      </p>
+      <p id="779">
+        <s id="779:1" lang="es">Kenya</s>
+      </p>
+      <p id="780">
+        <s id="780:1" lang="es">Kirguistán</s>
+      </p>
+      <p id="781">
+        <s id="781:1" lang="es">Kuwait</s>
+      </p>
+      <p id="782">
+        <s id="782:1" lang="es">Lesotho</s>
+      </p>
+      <p id="783">
+        <s id="783:1" lang="es">Letonia</s>
+      </p>
+      <p id="784">
+        <s id="784:1" lang="es">Líbano</s>
+      </p>
+      <p id="785">
+        <s id="785:1" lang="es">Liechtenstein</s>
+      </p>
+      <p id="786">
+        <s id="786:1" lang="es">Lituania</s>
+      </p>
+      <p id="787">
+        <s id="787:1" lang="es">Luxemburgo</s>
+      </p>
+      <p id="788">
+        <s id="788:1" lang="es">Madagascar</s>
+      </p>
+      <p id="789">
+        <s id="789:1" lang="es">Malasia</s>
+      </p>
+      <p id="790">
+        <s id="790:1" lang="es">Malawi</s>
+      </p>
+      <p id="791">
+        <s id="791:1" lang="es">Malta</s>
+      </p>
+      <p id="792">
+        <s id="792:1" lang="es">Marruecos</s>
+      </p>
+      <p id="793">
+        <s id="793:1" lang="es">Mauricio</s>
+      </p>
+      <p id="794">
+        <s id="794:1" lang="es">Mauritania</s>
+      </p>
+      <p id="795">
+        <s id="795:1" lang="es">México</s>
+      </p>
+      <p id="796">
+        <s id="796:1" lang="es">Micronesia (Estados Federados de)</s>
+      </p>
+      <p id="797">
+        <s id="797:1" lang="es">Mónaco</s>
+      </p>
+      <p id="798">
+        <s id="798:1" lang="es">Mongolia</s>
+      </p>
+      <p id="799">
+        <s id="799:1" lang="es">Mozambique</s>
+      </p>
+      <p id="800">
+        <s id="800:1" lang="en">Myanmar</s>
+      </p>
+      <p id="801">
+        <s id="801:1" lang="en">Nauru</s>
+      </p>
+      <p id="802">
+        <s id="802:1" lang="es">Nepal</s>
+      </p>
+      <p id="803">
+        <s id="803:1" lang="en">Nicaragua</s>
+      </p>
+      <p id="804">
+        <s id="804:1" lang="es">Níger</s>
+      </p>
+      <p id="805">
+        <s id="805:1" lang="en">Nigeria</s>
+      </p>
+      <p id="806">
+        <s id="806:1" lang="es">Noruega</s>
+      </p>
+      <p id="807">
+        <s id="807:1" lang="en">Nueva Zelandia</s>
+      </p>
+      <p id="808">
+        <s id="808:1" lang="es">Omán</s>
+      </p>
+      <p id="809">
+        <s id="809:1" lang="es">Países Bajos</s>
+      </p>
+      <p id="810">
+        <s id="810:1" lang="es">Perú</s>
+      </p>
+      <p id="811">
+        <s id="811:1" lang="es">Polonia</s>
+      </p>
+      <p id="812">
+        <s id="812:1" lang="es">Portugal</s>
+      </p>
+      <p id="813">
+        <s id="813:1" lang="es">Qatar</s>
+      </p>
+      <p id="814">
+        <s id="814:1" lang="es">Reino Unido de Gran Bretaña e Irlanda del Norte</s>
+      </p>
+      <p id="815">
+        <s id="815:1" lang="es">República Árabe Siria</s>
+      </p>
+      <p id="816">
+        <s id="816:1" lang="es">República Centroafricana</s>
+      </p>
+      <p id="817">
+        <s id="817:1" lang="es">República Checa</s>
+      </p>
+      <p id="818">
+        <s id="818:1" lang="es">República de Corea</s>
+      </p>
+      <p id="819">
+        <s id="819:1" lang="es">República Democrática Popular Lao</s>
+      </p>
+      <p id="820">
+        <s id="820:1" lang="es">República Dominicana</s>
+      </p>
+      <p id="821">
+        <s id="821:1" lang="es">República de Moldova</s>
+      </p>
+      <p id="822">
+        <s id="822:1" lang="es">República Unida de Tanzanía</s>
+      </p>
+      <p id="823">
+        <s id="823:1" lang="es">Rumania</s>
+      </p>
+      <p id="824">
+        <s id="824:1" lang="es">Samoa</s>
+      </p>
+      <p id="825">
+        <s id="825:1" lang="es">Senegal</s>
+      </p>
+      <p id="826">
+        <s id="826:1" lang="es">Serbia y Montenegro</s>
+      </p>
+      <p id="827">
+        <s id="827:1" lang="es">Sierra Leona</s>
+      </p>
+      <p id="828">
+        <s id="828:1" lang="es">Singapur</s>
+      </p>
+      <p id="829">
+        <s id="829:1" lang="es">Sri Lanka</s>
+      </p>
+      <p id="830">
+        <s id="830:1" lang="es">Sudáfrica</s>
+      </p>
+      <p id="831">
+        <s id="831:1" lang="en">Sudán</s>
+      </p>
+      <p id="832">
+        <s id="832:1" lang="es">Suecia</s>
+      </p>
+      <p id="833">
+        <s id="833:1" lang="es">Suiza</s>
+      </p>
+      <p id="834">
+        <s id="834:1" lang="es">Tailandia</s>
+      </p>
+      <p id="835">
+        <s id="835:1" lang="es">Togo</s>
+      </p>
+      <p id="836">
+        <s id="836:1" lang="es">Tonga</s>
+      </p>
+      <p id="837">
+        <s id="837:1" lang="es">Túnez</s>
+      </p>
+      <p id="838">
+        <s id="838:1" lang="es">Turquía</s>
+      </p>
+      <p id="839">
+        <s id="839:1" lang="es">Ucrania</s>
+      </p>
+      <p id="840">
+        <s id="840:1" lang="es">Uganda</s>
+      </p>
+      <p id="841">
+        <s id="841:1" lang="es">Uruguay</s>
+      </p>
+      <p id="842">
+        <s id="842:1" lang="es">Uzbekistán</s>
+      </p>
+      <p id="843">
+        <s id="843:1" lang="es">Venezuela</s>
+      </p>
+      <p id="844">
+        <s id="844:1" lang="es">Viet Nam</s>
+      </p>
+      <p id="845">
+        <s id="845:1" lang="es">Yemen</s>
+      </p>
+      <p id="846">
+        <s id="846:1" lang="es">Zambia</s>
+      </p>
+      <p id="847">
+        <s id="847:1" lang="es">Zimbabwe</s>
+      </p>
+      <p id="848">
+        <s id="848:1" lang="es">* De conformidad con el artículo 12 del reglamento, estas cuotas no se han modificado.</s>
+      </p>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The United Nations Parallel Corpus v1.0 - CEDAW/SP/2000/5</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>United Nations DGACM</publisher>
+        <pubPlace>New York</pubPlace>
+        <date>20000822</date>
+        <idno type="symbol">CEDAW/SP/2000/5</idno>
+        <idno type="jobno">N0061617</idno>
+        <availability>
+          <p>The following disclaimer, an integral part of the United Nations Parallel Corpus v1.0, 
+             shall be respected in regard to the Corpus v1.0 (no other restrictions apply):</p>
+
+          <p>The United Nations Parallel Corpus is made available without warranty of any kind, 
+             explicit or implied. The United Nations specifically makes no warranties or 
+             representations as to the accuracy or completeness of the information contained in 
+             the United Nations corpus.</p>
+
+          <p>Under no circumstances shall the United Nations be liable for any loss, liability,
+             injury or damage incurred or suffered that is claimed to have resulted from the use
+             of the United Nations Corpus. The use of the United Nations Corpus is at the user's 
+             sole risk. The user specifically acknowledges and agrees that the United Nations is 
+             not liable for the conduct of any user. If the user is dissatisfied with any of the 
+             material provided in the United Nations Corpus, the users's sole and exclusive remedy 
+             is to discontinue using the United Nations Corpus.</p>
+
+          <p>When using the United Nations Corpus, the user must acknowledge the United Nations as the
+             source of the information. For references, please use this reference:
+             Ziemski, M., Junczys-Dowmunt, M., and Pouliquen, B. (2016) The United Nations
+             Parallel Corpus, Language Resources and Evaluation (LREC’16), Portorož, Slovenia, 
+             May 2016.</p>
+
+          <p>Nothing herein shall constitute or be considered to be a limitation upon or waiver,
+             express or implied, of the privileges and immunities of the United Nations, which
+             are specifically reserved.</p>
+        </availability>
+        <distributor>http://conferences.unite.un.org/UNCorpus</distributor>
+      </publicationStmt>
+      <sourceDesc>
+        <p>http://www.un.org/en/official-documents-system-search/index.html</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords>
+          <term>WOMEN'S STATUS</term>
+          <term>PERIODIC REPORTS</term>
+          <term>TREATIES</term>
+          <term>GENDER DISCRIMINATION</term>
+        </keywords>
+      </textClass>
+      <langUsage>
+        <language ident="es">Spanish</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p id="1">
+        <s id="1:1" lang="es">Reunión de los Estados Partes en la Convención</s>
+      </p>
+      <p id="2">
+        <s id="2:1" lang="es">sobre la eliminación de todas las formas de</s>
+      </p>
+      <p id="3">
+        <s id="3:1" lang="es">discriminación contra la mujer</s>
+      </p>
+      <p id="4">
+        <s id="4:1" lang="es">11ª reunión</s>
+      </p>
+      <p id="5">
+        <s id="5:1" lang="es">Nueva York, 31 de agosto de 2000</s>
+      </p>
+      <p id="6">
+        <s id="6:1" lang="es">Convención sobre la eliminación de todas las formas</s>
+      </p>
+      <p id="7">
+        <s id="7:1" lang="es">de discriminación contra la mujer</s>
+      </p>
+      <p id="8">
+        <s id="8:1" lang="es">Resultados de los períodos de sesiones 19° a 23° del Comité</s>
+      </p>
+      <p id="9">
+        <s id="9:1" lang="es">para la Eliminación de la Discriminación contra la Mujer</s>
+      </p>
+      <p id="10">
+        <s id="10:1" lang="es">Desde la décima reunión de los Estados partes, celebrada el 17 de febrero de 1998, el Comité para la Eliminación de la Discriminación contra la Mujer ha celebrado cinco períodos de sesiones, a saber, el 19° (del 22 de junio al 10 de julio de 1998); el 20° (del 19 de enero al 5 de febrero de 1999); el 21° (del 7 al 25 de junio de 1999); el 22° (del 17 de enero al 4 de febrero de 2000) y el 23° (del 12 al 30 de junio de 2000).</s>
+        <s id="10:2" lang="es">En estos períodos de sesiones, el Comité aprobó una recomendación general (24), sobre el artículo 12 de la Convención; dos declaraciones, una sobre las reservas a la Convención y otra sobre el marco jurídico para la aplicación de la Declaración y la Plataforma de Acción de Beijing y las relaciones entre la Convención y la Plataforma de Acción.</s>
+        <s id="10:3" lang="es">El Comité adoptó también 13 decisiones y 2 sugerencias, que figuran a continuación:</s>
+      </p>
+      <p id="11">
+        <s id="11:1" lang="es">A. Decimonoveno período de sesiones</s>
+      </p>
+      <p id="12">
+        <s id="12:1" lang="es">Decisión 19/I</s>
+      </p>
+      <p id="13">
+        <s id="13:1" lang="es">Reuniones del grupo de trabajo previo al período de sesiones</s>
+      </p>
+      <p id="14">
+        <s id="14:1" lang="es">En su 18° período de sesiones, el Comité decidió realizar una transición a la modalidad de trabajo por la que el grupo de trabajo previo al período de sesiones se reúne en el período de sesiones anterior al cual se han de examinar los informes presentados al grupo de trabajo.</s>
+        <s id="14:2" lang="es">En consecuencia, el Comité decidió que, para facilitar la transición a la nueva modalidad de trabajo, el grupo de trabajo previo al 21° período de sesiones se reuniese en calidad de tercer grupo de trabajo durante el 20° período de sesiones y, de ser necesario, siguiera reunido por un máximo de tres días después del 20° período de sesiones a fin de organizar las listas de cuestiones y preguntas relacionadas con los informes que habrían de examinarse en el 21° período de sesiones.</s>
+      </p>
+      <p id="15">
+        <s id="15:1" lang="es">Decisión 19/II</s>
+      </p>
+      <p id="16">
+        <s id="16:1" lang="es">Observaciones finales4</s>
+      </p>
+      <p id="17">
+        <s id="17:1" lang="es">El Comité decidió revisar sus procedimientos y formato para la formulación de observaciones finales con miras a agilizar las observaciones mientras se retenía la flexibilidad (véanse los párrafos 395 a 397).</s>
+      </p>
+      <p id="18">
+        <s id="18:1" lang="es">Decisión 19/III</s>
+      </p>
+      <p id="19">
+        <s id="19:1" lang="es">Lista de cuestiones y preguntas relacionadas con el examen de los informes periódicos4</s>
+      </p>
+      <p id="20">
+        <s id="20:1" lang="es">El Comité pidió a la Secretaría que preparara proyectos de listas de cuestiones y preguntas relacionadas con los informes periódicos, que se basaran en la comparación analítica de los informes actuales de los Estados partes e informes anteriores y el examen de ellos por el Comité, así como otras informaciones pertinentes, incluidas las observaciones finales de otros órganos creados en virtud de tratados.</s>
+        <s id="20:2" lang="es">Los proyectos de listas preparados por la Secretaría se remitirían antes de la reunión del grupo de trabajo previo al período de sesiones a los miembros del Comité designados como relatores sobre los informes de los países.</s>
+      </p>
+      <p id="21">
+        <s id="21:1" lang="es">B. Vigésimo período de sesiones</s>
+      </p>
+      <p id="22">
+        <s id="22:1" lang="es">Decisión 20/I</s>
+      </p>
+      <p id="23">
+        <s id="23:1" lang="es">Organizaciones no gubernamentales</s>
+      </p>
+      <p id="24">
+        <s id="24:1" lang="es">Recordando sus decisiones 18/I y 18/II, adoptadas en su 18° período de sesiones, el Comité para la Eliminación de la Discriminación contra la Mujer decidió que se invitara a representantes de organizaciones no gubernamentales nacionales e internacionales a suministrar información concreta al Comité respecto de los Estados partes cuyos informes tuviera ante sí el Comité en una reunión oficiosa del grupo de trabajo plenario.</s>
+      </p>
+      <p id="25">
+        <s id="25:1" lang="es">C. Vigésimo primer período de sesiones</s>
+      </p>
+      <p id="26">
+        <s id="26:1" lang="es">Decisión 21/I</s>
+      </p>
+      <p id="27">
+        <s id="27:1" lang="es">Informes de carácter excepcional</s>
+      </p>
+      <p id="28">
+        <s id="28:1" lang="es">El Comité decidió que quizá fuese necesario solicitar algunos informes de carácter excepcional a los Estados partes, en virtud del apartado b) del párrafo 1 del artículo 18 de la Convención, con miras a obtener y examinar la información sobre violaciones efectivas o posibles de los derechos humanos de la mujer, cuando hubiese motivo especial de preocupación respecto de tales violaciones.</s>
+        <s id="28:2" lang="es">En ese sentido, el Comité decidió aprobar las siguientes normas y directrices:</s>
+      </p>
+      <p id="29">
+        <s id="29:1" lang="es">a) Debe existir información fiable y suficiente que indique violaciones graves o sistemáticas de los derechos humanos de la mujer;</s>
+      </p>
+      <p id="30">
+        <s id="30:1" lang="es">b) Tales violaciones son las que se basan en el género o están dirigidas contra la mujer debido a su sexo;</s>
+      </p>
+      <p id="31">
+        <s id="31:1" lang="es">c) Los informes deben centrarse en una cuestión determinada o en cuestiones determinadas que señale el Comité;</s>
+      </p>
+      <p id="32">
+        <s id="32:1" lang="es">d) Los Estados partes han de presentar los informes pertinentes para su examen en el período de sesiones que el Comité determine.</s>
+      </p>
+      <p id="33">
+        <s id="33:1" lang="es">Decisión 21/II</s>
+      </p>
+      <p id="34">
+        <s id="34:1" lang="es">Comentarios de los Estados partes sobre</s>
+      </p>
+      <p id="35">
+        <s id="35:1" lang="es">las observaciones finales6</s>
+      </p>
+      <p id="36">
+        <s id="36:1" lang="es">El Comité decidió que los comentarios de los Estados partes sobre las observaciones finales se distribuirían a los miembros del Comité y que se acusaría recibo de ellos en un anexo del siguiente informe anual presentado por el Comité a la Asamblea General.</s>
+        <s id="36:2" lang="es">El Comité tal vez decida publicar los comentarios independientemente de su informe anual.</s>
+      </p>
+      <p id="37">
+        <s id="37:1" lang="es">Sugerencia 21/I</s>
+      </p>
+      <p id="38">
+        <s id="38:1" lang="es">Informe sobre las gestiones encaminadas a la ratificación universal, la presentación oportuna de informes y la aceptación de la enmienda del párrafo 1 del artículo 20 de la Convención</s>
+      </p>
+      <p id="39">
+        <s id="39:1" lang="es">El Comité sugirió que en cada período de sesiones del Comité se presentara un informe sobre las gestiones realizadas por la Asesora Especial en Cuestiones de Género y Adelanto de la Mujer y la División para el Adelanto de la Mujer con miras a la ratificación universal, la presentación oportuna de informes y la aceptación de la enmienda del párrafo 1 del artículo 20 de la Convención.</s>
+      </p>
+      <p id="40">
+        <s id="40:1" lang="es">D. Vigésimo segundo período de sesiones</s>
+      </p>
+      <p id="41">
+        <s id="41:1" lang="es">Decisión 22/I</s>
+      </p>
+      <p id="42">
+        <s id="42:1" lang="es">Informes de los Estados partes</s>
+      </p>
+    </body>
+  </text>
+</TEI.2>

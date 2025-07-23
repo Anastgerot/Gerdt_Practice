@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The United Nations Parallel Corpus v1.0 - CEDAW/C/ARG/CO/6</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>United Nations DGACM</publisher>
+        <pubPlace>New York</pubPlace>
+        <date>20100816</date>
+        <idno type="symbol">CEDAW/C/ARG/CO/6</idno>
+        <idno type="jobno">N1048536</idno>
+        <availability>
+          <p>The following disclaimer, an integral part of the United Nations Parallel Corpus v1.0, 
+             shall be respected in regard to the Corpus v1.0 (no other restrictions apply):</p>
+
+          <p>The United Nations Parallel Corpus is made available without warranty of any kind, 
+             explicit or implied. The United Nations specifically makes no warranties or 
+             representations as to the accuracy or completeness of the information contained in 
+             the United Nations corpus.</p>
+
+          <p>Under no circumstances shall the United Nations be liable for any loss, liability,
+             injury or damage incurred or suffered that is claimed to have resulted from the use
+             of the United Nations Corpus. The use of the United Nations Corpus is at the user's 
+             sole risk. The user specifically acknowledges and agrees that the United Nations is 
+             not liable for the conduct of any user. If the user is dissatisfied with any of the 
+             material provided in the United Nations Corpus, the users's sole and exclusive remedy 
+             is to discontinue using the United Nations Corpus.</p>
+
+          <p>When using the United Nations Corpus, the user must acknowledge the United Nations as the
+             source of the information. For references, please use this reference:
+             Ziemski, M., Junczys-Dowmunt, M., and Pouliquen, B. (2016) The United Nations
+             Parallel Corpus, Language Resources and Evaluation (LREC’16), Portorož, Slovenia, 
+             May 2016.</p>
+
+          <p>Nothing herein shall constitute or be considered to be a limitation upon or waiver,
+             express or implied, of the privileges and immunities of the United Nations, which
+             are specifically reserved.</p>
+        </availability>
+        <distributor>http://conferences.unite.un.org/UNCorpus</distributor>
+      </publicationStmt>
+      <sourceDesc>
+        <p>http://www.un.org/en/official-documents-system-search/index.html</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords>
+          <term>WOMEN'S RIGHTS</term>
+          <term>WOMEN'S STATUS</term>
+          <term>PERIODIC REPORTS</term>
+          <term>ARGENTINA</term>
+        </keywords>
+      </textClass>
+      <langUsage>
+        <language ident="es">Spanish</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p id="1">
+        <s id="1:1" lang="es">Comité para la Eliminación de la Discriminación</s>
+      </p>
+      <p id="2">
+        <s id="2:1" lang="es">contra la Mujer</s>
+      </p>
+      <p id="3">
+        <s id="3:1" lang="es">46º período de sesiones</s>
+      </p>
+      <p id="4">
+        <s id="4:1" lang="es">12 a 30 de julio de 2010</s>
+      </p>
+      <p id="5">
+        <s id="5:1" lang="es">Observaciones finales del Comité para la Eliminación</s>
+      </p>
+      <p id="6">
+        <s id="6:1" lang="es">de la Discriminación contra la Mujer</s>
+      </p>
+      <p id="7">
+        <s id="7:1" lang="es">Argentina</s>
+      </p>
+      <p id="8">
+        <s id="8:1" lang="es">El Comité examinó el sexto informe periódico de la Argentina (CEDAW/C/ARG/6) en sus sesiones 926ª y 927ª, celebradas el 13 de julio de 2010.</s>
+        <s id="8:2" lang="es">La lista de cuestiones y preguntas figura en el documento CEDAW/C/ARG/Q/6, y las respuestas de la Argentina en el documento CEDAW/C/ARG/Q/6/Add.1.</s>
+      </p>
+      <p id="9">
+        <s id="9:1" lang="es">Introducción</s>
+      </p>
+      <p id="10">
+        <s id="10:1" lang="es">El Comité expresa su agradecimiento al Estado parte por la presentación puntual de su sexto informe periódico y lo encomia por su manifiesta voluntad política de mejorar la condición jurídica y social de la mujer en la Argentina y por las medidas adoptadas con ese fin.</s>
+      </p>
+      <p id="11">
+        <s id="11:1" lang="es">El Comité expresa también su agradecimiento al Estado parte por el diálogo constructivo mantenido y los esfuerzos realizados por la delegación, encabezada por el Representante Permanente de la Argentina ante las Naciones Unidas e integrada también por la Presidenta del Consejo Nacional de las Mujeres, para responder a las preguntas planteadas por el Comité.</s>
+        <s id="11:2" lang="es">No obstante, observa que la delegación no ofreció respuestas sucintas, claras y directas en relación con algunos de los temas que se examinaban y dejó sin respuesta algunas de las preguntas formuladas por el Comité durante el diálogo, en particular con respecto a la primera parte de la Convención.</s>
+      </p>
+      <p id="12">
+        <s id="12:1" lang="es">Aspectos positivos</s>
+      </p>
+      <p id="13">
+        <s id="13:1" lang="es">El Comité felicita al Estado parte por la ratificación del Protocolo Facultativo de la Convención y por las medidas legislativas específicas adoptadas y los programas y las políticas sociales instaurados desde 2004, en particular en los ámbitos de la reducción de la pobreza, la concesión de derechos de pensión y otras medidas de seguridad social que han mejorado la condición jurídica y social de la mujer y su acceso a la educación, a fin de mitigar los efectos de la crisis económica mundial que golpeó el país en 2001.</s>
+        <s id="13:2" lang="es">El Comité también acoge con beneplácito los esfuerzos encaminados a paliar los efectos de la crisis económica y financiera de 2008-2009 y, en particular, las medidas adoptadas para introducir una perspectiva de género, con arreglo a la Convención.</s>
+        <s id="13:3" lang="es">El Comité observó el espectacular aumento de las inversiones del 176%, la disminución de las tasas de pobreza relacionadas con las mujeres y las niñas y la prioridad asignada a las mujeres y las niñas en las políticas de seguridad social.</s>
+      </p>
+      <p id="14">
+        <s id="14:1" lang="es">El Comité encomia al Estado parte por las medidas encaminadas a promover la participación de la mujer en la vida pública y por las medidas positivas adoptadas para asegurarle la igualdad de oportunidades y de trato.</s>
+        <s id="14:2" lang="es">En particular, acoge con beneplácito el hecho de que, por primera vez, una mujer haya sido elegida Presidenta, que dos mujeres hayan sido nombradas magistradas de la Corte Suprema de Justicia de la Nación, y que, en diciembre de 2007, un 38,5% de los cargos con funciones ejecutivas del Gobierno nacional estuviera ocupado por mujeres.</s>
+      </p>
+      <p id="15">
+        <s id="15:1" lang="es">El Comité también acoge con beneplácito la aprobación de la Ley Integral para Prevenir, Sancionar y Erradicar la Violencia contra las Mujeres en los ámbitos que desarrollen sus Relaciones Interpersonales (Ley 26.485 de 2009), que abarca la violencia basada en el género en todas sus manifestaciones, incluida la violencia física, psicológica, sexual, económica y patrimonial, establece la obligación de estipular medidas preventivas para ayudar a las víctimas y crea el Observatorio de la Violencia.</s>
+        <s id="15:2" lang="es">El Comité acoge con beneplácito además el establecimiento de la Oficina de Violencia Doméstica de la Corte Suprema de Justicia de la Nación.</s>
+      </p>
+      <p id="16">
+        <s id="16:1" lang="es">El Comité acoge con beneplácito las medidas adoptadas por el Gobierno para afrontar el delito de la trata de seres humanos y evitar que las víctimas de la trata vuelvan a convertirse en víctimas, en particular la ratificación en noviembre de 2002 de la Convención de las Naciones Unidas contra la Delincuencia Organizada Transnacional y los dos Protocolos de Palermo, en virtud de la Ley 25.632, y la aprobación en abril de 2008 de la Ley de Prevención y Sanción de la Trata de Personas (Ley 26.364 de 2008), por la que se modifican el Código Penal y el Código Procesal Penal de la Nación y se prohíbe y sanciona la trata de personas en todas sus formas.</s>
+        <s id="16:2" lang="es">El Comité observa que dicha Ley se aplicará en el marco del Programa Nacional de Prevención y Erradicación de la Trata de Personas y de Asistencia a sus Víctimas.</s>
+      </p>
+      <p id="17">
+        <s id="17:1" lang="es">Asimismo, el Comité acoge con beneplácito el hecho de que, al preparar el sexto informe periódico, el Estado parte hubiese adoptado un enfoque inclusivo y participativo, y señala que el Consejo Nacional de las Mujeres contó con un amplio grado de participación de diversos organismos y órganos gubernamentales.</s>
+        <s id="17:2" lang="es">También participaron en el proceso el Consejo Federal de la Mujer, que representa a las provincias en el mecanismo nacional encargado del adelanto de la mujer, el poder legislativo y las autoridades judiciales.</s>
+      </p>
+      <p id="18">
+        <s id="18:1" lang="es">Principales esferas de preocupación y recomendaciones</s>
+      </p>
+      <p id="19">
+        <s id="19:1" lang="es">El Comité recuerda la obligación del Estado parte de aplicar de manera sistemática y continua todas las disposiciones de la Convención sobre la eliminación de todas las formas de discriminación contra la mujer y considera que las preocupaciones y recomendaciones que se señalan en las presentes observaciones finales requieren la atención prioritaria del Estado parte desde el momento actual hasta la presentación del próximo informe periódico.</s>
+        <s id="19:2" lang="es">En consecuencia, el Comité exhorta al Estado parte a que centre en esas esferas sus actividades de aplicación y a que, en su próximo informe periódico, indique las medidas adoptadas y los resultados conseguidos.</s>
+        <s id="19:3" lang="es">El Comité exhorta al Estado parte a que transmita las presentes observaciones finales a todos los ministerios pertinentes, al parlamento y a las autoridades judiciales, a fin de que se pongan en práctica íntegramente.</s>
+      </p>
+      <p id="20">
+        <s id="20:1" lang="es">Parlamento</s>
+      </p>
+      <p id="21">
+        <s id="21:1" lang="es">Al tiempo que reafirma que incumbe al Gobierno la responsabilidad primordial de cumplir plenamente las obligaciones que el Estado parte ha contraído en virtud de la Convención y especialmente de rendir cuentas al respecto, el Comité destaca que la Convención es vinculante para todos los poderes públicos e invita al Estado parte a alentar a su parlamento a que, de conformidad con su reglamento y cuando proceda, adopte las medidas necesarias para dar aplicación a las presentes observaciones finales y al proceso relacionado con el próximo informe que debe presentar el Gobierno con arreglo a la Convención.</s>
+      </p>
+      <p id="22">
+        <s id="22:1" lang="es">Responsabilidad del Gobierno federal</s>
+      </p>
+      <p id="23">
+        <s id="23:1" lang="es">Si bien el Comité es consciente de la complejidad de las estructuras constitucionales federales del Estado parte, subraya que incumbe al Gobierno federal la responsabilidad de velar por que se aplique la Convención y ofrecer su liderazgo a los gobiernos provinciales y territoriales en ese contexto.</s>
+        <s id="23:2" lang="es">Preocupa al Comité el hecho de que el Gobierno federal carezca de un mecanismo eficaz que garantice la coherencia y la uniformidad de las medidas jurídicas y de otra índole que adopten los gobiernos provinciales para aplicar íntegramente la Convención.</s>
+      </p>
+      <p id="24">
+        <s id="24:1" lang="es">El Comité, teniendo en cuenta la responsabilidad que incumbe al Gobierno federal en la aplicación de la Convención, insta al Estado parte a establecer un mecanismo eficaz que asegure la rendición de cuentas y la aplicación transparente, coherente y sistemática de la Convención en todo el territorio, con la participación de las autoridades nacionales, provinciales y territoriales.</s>
+      </p>
+      <p id="25">
+        <s id="25:1" lang="es">Situación de la Convención en el ordenamiento jurídico interno</s>
+      </p>
+      <p id="26">
+        <s id="26:1" lang="es">y visibilidad</s>
+      </p>
+      <p id="27">
+        <s id="27:1" lang="es">Si bien encomia al Estado parte por otorgar rango constitucional a la Convención sobre la eliminación de todas las formas de discriminación contra la mujer y otros instrumentos internacionales de derechos humanos en su ordenamiento jurídico interno, el Comité observa que su aplicación efectiva sigue siendo limitada, al igual que la concienciación general sobre sus disposiciones y la adopción de medidas legislativas y de otra índole que prohíban la discriminación contra la mujer en todas sus formas.</s>
+        <s id="27:2" lang="es">Preocupa al Comité el desconocimiento generalizado de la Convención y su Protocolo Facultativo en la Argentina, en particular entre las autoridades judiciales y otros funcionarios encargados de hacer cumplir la ley.</s>
+        <s id="27:3" lang="es">Resulta especialmente preocupante que las propias mujeres no conozcan sus derechos con arreglo a la Convención ni el procedimiento de presentación de denuncias con arreglo al Protocolo Facultativo y, por consiguiente, carezcan de capacidad para reivindicar la promoción, la protección y el cumplimiento plenos de sus derechos en pie de igualdad con los hombres.</s>
+      </p>
+      <p id="28">
+        <s id="28:1" lang="es">El Comité insta a los Estados parte a adoptar medidas legislativas y de otra índole, con las sanciones correspondientes, que prohíban toda forma de discriminación contra la mujer y promuevan la igualdad, así como a aplicar medidas para difundir la Convención, su Protocolo Facultativo y las recomendaciones generales del Comité entre todos los interesados, incluidos ministerios gubernamentales, parlamentarios, autoridades judiciales y funcionarios encargados de hacer cumplir la ley, para que tengan conocimiento de ellos y cobren conciencia de los derechos humanos de la mujer.</s>
+        <s id="28:2" lang="es">El Comité insta también al Estado parte a organizar campañas de concienciación dirigidas a las mujeres a fin de que tomen conciencia de sus derechos humanos y asegurar que disponen de procedimientos y recursos en caso de que se violen los derechos que les asisten con arreglo a la Convención.</s>
+      </p>
+      <p id="29">
+        <s id="29:1" lang="es">Acceso a la justicia y mecanismos para presentar demandas judiciales</s>
+      </p>
+      <p id="30">
+        <s id="30:1" lang="es">Preocupa al Comité el hecho de que, aunque la legislación prevé el acceso de las mujeres a la justicia, su capacidad efectiva de ejercer ese derecho y llevar a los tribunales casos de discriminación está limitada por factores como la falta de información sobre sus derechos, barreras idiomáticas, especialmente en el caso de las mujeres indígenas, y otras dificultades estructurales para acceder a los tribunales.</s>
+        <s id="30:2" lang="es">También preocupan al Comité los estereotipos de género imperantes en el sistema de justicia y su desconocimiento de la discriminación por motivos de sexo y de género, así como de la violencia contra la mujer.</s>
+      </p>
+      <p id="31">
+        <s id="31:1" lang="es">El Comité pide al Estado parte que adopte todas las medidas necesarias para eliminar los impedimentos que pueden encontrar las mujeres para acceder a la justicia y que implante medidas encaminadas a garantizarles el acceso a la justicia.</s>
+        <s id="31:2" lang="es">En concreto, recomienda que el Estado parte promueva la concienciación de la mujer respecto de sus derechos, en particular en las zonas rurales y entre los grupos más desfavorecidos, incluidas las comunidades indígenas, mediante programas de alfabetización jurídica y prestación de asistencia letrada con el objeto de que conozcan los recursos jurídicos de que disponen para luchar contra la discriminación y los abusos y hacer valer todos los derechos que les corresponden con arreglo a la Convención.</s>
+        <s id="31:3" lang="es">Asimismo, insta al Estado parte a que vele por que la judicatura, incluidos jueces, abogados, fiscales y defensores públicos, conozca los derechos de la mujer y las obligaciones del Estado parte con arreglo a la Convención, y alienta a este a que imparta capacitación sobre cuestiones de género a todos los miembros del sistema de justicia, entre ellos los organismos encargados de hacer cumplir la ley, y a que vigile los resultados de esa labor.</s>
+      </p>
+      <p id="32">
+        <s id="32:1" lang="es">Mecanismos nacionales e incorporación de una perspectiva de género</s>
+      </p>
+      <p id="33">
+        <s id="33:1" lang="es">en las políticas y los programas nacionales</s>
+      </p>
+      <p id="34">
+        <s id="34:1" lang="es">Aunque acoge con satisfacción las actividades del Estado parte, preocupa al Comité el hecho de que, a pesar del reciente incremento del volumen de recursos financieros y humanos destinados al Consejo Nacional de las Mujeres, este sigue sin terminar de superar las deficiencias estructurales de que adolece desde su creación en 1992.</s>
+        <s id="34:2" lang="es">En ese sentido, no parece que los mecanismos nacionales estén plenamente capacitados para promover de forma eficaz el adelanto de la mujer y la igualdad entre los géneros ni para preparar y aplicar políticas públicas en la totalidad del país.</s>
+        <s id="34:3" lang="es">La aplicación de la Convención presenta grandes discrepancias entre las distintas provincias y municipios, mientras que todavía no se han eliminado determinados obstáculos sociales.</s>
+      </p>
+      <p id="35">
+        <s id="35:1" lang="es">El Comité recomienda que el Estado parte siga fortaleciendo los actuales mecanismos nacionales subsanando los déficits estructurales que impiden su funcionamiento eficaz y aportando suficientes recursos financieros y humanos para aumentar su eficacia, su visibilidad y su capacidad de influir en la formulación, la concepción y la aplicación de políticas públicas y para reforzar sus funciones de coordinación en los planos nacional, provincial y municipal.</s>
+        <s id="35:2" lang="es">Insta también al Estado parte a que siga invirtiendo en la elaboración de un sistema integral con indicadores de género a fin de mejorar la reunión de datos desglosados por sexo como método para evaluar la repercusión y la eficacia de las políticas y programas encaminados a incorporar la perspectiva de género y mejorar el disfrute por las mujeres de sus derechos humanos.</s>
+        <s id="35:3" lang="es">El Comité destaca igualmente la necesidad de un plan de acción integral de lucha contra los obstáculos, estereotipos y errores sociales a fin de modificar las actitudes y dar cumplimiento efectivo a la ley.</s>
+      </p>
+      <p id="36">
+        <s id="36:1" lang="es">Si bien acoge con beneplácito la ejecución de varios programas de transferencia de ingresos encaminados a reducir la pobreza y hacer frente al problema de la escasez de vivienda, incluida la concesión de asignaciones familiares mediante el sistema de Asignación Universal por Hijo para Protección Social, el Comité observa que no se ha incorporado plenamente una perspectiva de género en el diseño y la aplicación de estas políticas.</s>
+      </p>
+      <p id="37">
+        <s id="37:1" lang="es">El Comité recomienda que el Estado parte asegure la incorporación de perspectivas de género en todos los programas y políticas.</s>
+      </p>
+      <p id="38">
+        <s id="38:1" lang="es">Medidas especiales de carácter temporal</s>
+      </p>
+      <p id="39">
+        <s id="39:1" lang="es">Si bien toma nota de la existencia de medidas especiales de carácter temporal en la legislación nacional del Estado parte, en particular en conexión con los sectores político y sindical, el Comité observa la limitada aplicabilidad de estas medidas en otros ámbitos en lo que a su conceptualización y aplicación se refiere.</s>
+      </p>
+      <p id="40">
+        <s id="40:1" lang="es">El Comité insta al Estado parte a promover un debate amplio en relación con el artículo 4, párrafo 1, de la Convención y la recomendación general 25 del Comité, y a estipular medidas especiales de carácter temporal en todos los ámbitos, en particular en el ámbito civil, político, económico, social y cultural, con miras a lograr la igualdad efectiva entre los géneros, sobre todo para las mujeres que sufren múltiples formas de discriminación.</s>
+      </p>
+      <p id="41">
+        <s id="41:1" lang="es">Violencia contra la mujer</s>
+      </p>
+      <p id="42">
+        <s id="42:1" lang="es">Al tiempo que acoge con beneplácito la Ley Integral para Prevenir, Sancionar y Erradicar la Violencia contra las Mujeres en los ámbitos que desarrollen sus Relaciones Interpersonales (Ley 26.485 de 2009), preocupa al Comité el hecho de que, transcurrido un año desde su adopción, no se haya aprobado legislación de aplicación ni se hayan asignado recursos financieros suficientes para la aplicación de la Ley.</s>
+      </p>
+      <p id="43">
+        <s id="43:1" lang="es">El Comité insta al Estado parte a que acelere en todas las provincias la aprobación y aplicación coherentes de la legislación y el aporte de los recursos financieros necesarios para que entre plenamente en vigor la Ley Integral para Prevenir, Sancionar y Erradicar la Violencia contra las Mujeres en los ámbitos que desarrollen sus Relaciones Interpersonales.</s>
+        <s id="43:2" lang="es">Para ello, a escala nacional, provincial y municipal debe procederse a la aplicación efectiva de la legislación vigente para hacer frente a todas las formas de violencia contra la mujer, como la violencia doméstica.</s>
+        <s id="43:3" lang="es">El Comité alienta al Estado parte a fortalecer su sistema de reunión de datos relativos a todas las formas de violencia contra la mujer y a incorporar esos datos de conformidad con el procedimiento de seguimiento al que se hace referencia en el párrafo 51 de estas observaciones finales.</s>
+        <s id="43:4" lang="es">En lo que respecta a la violación en el matrimonio, el Comité insta al Estado parte a que implante un sistema que aliente a las mujeres a denunciar los incidentes de ese tipo y a que establezca un conjunto de indicadores para evaluar las tendencias por lo que se refiere a la presentación de denuncias de este delito y su incidencia.</s>
+      </p>
+      <p id="44">
+        <s id="44:1" lang="es">El Comité encomia el empeño del Estado parte por enjuiciar a los autores de los crímenes de lesa humanidad cometidos durante la pasada dictadura, pero lamenta que no se hayan impuesto penas a los autores de delitos de violencia contra mujeres perpetrados por aquella época en centros clandestinos de detención.</s>
+      </p>
+      <p id="45">
+        <s id="45:1" lang="es">El Comité recomienda que se adopten medidas proactivas para hacer públicos, enjuiciar y castigar los incidentes de violencia sexual perpetrados durante la pasada dictadura, en el marco de los juicios por crímenes de lesa humanidad, de conformidad con lo dispuesto en la resolución 1820 (2008) del Consejo de Seguridad, y que se concedan reparaciones a las víctimas.</s>
+      </p>
+      <p id="46">
+        <s id="46:1" lang="es">Mujeres reclusas</s>
+      </p>
+      <p id="47">
+        <s id="47:1" lang="es">El Comité expresa su preocupación por la información recibida en cuanto al alto número de mujeres encarceladas, la persistencia de la violencia contra las reclusas, los casos repetidos de registros e inspecciones vaginales, los incidentes de mujeres matadas mientras se encontraban detenidas y, en general, las malas condiciones de detención.</s>
+        <s id="47:2" lang="es">Asimismo, observa que siguen siendo limitadas las medidas cuyo objeto es impedir que se repitan esos actos, garantizar una mayor protección a las detenidas y enjuiciar a los responsables de actos de violencia sexual cometidos en cárceles contra mujeres.</s>
+      </p>
+      <p id="48">
+        <s id="48:1" lang="es">El Comité recomienda que se resuelva la situación de las mujeres en las cárceles elaborando políticas, estrategias y programas integrales que tengan en cuenta la dimensión del género y, en particular, insta al Estado parte a que vele por que personal penitenciario sensible a las cuestiones de género supervise a las reclusas y por que en las instituciones penitenciarias para mujeres no se emplee a personal masculino en puestos de primera línea.</s>
+        <s id="48:2" lang="es">Además, insta al Estado parte a que adopte medidas adecuadas para garantizar el pleno respeto de la dignidad y los derechos humanos de todas las personas durante los registros corporales, ateniéndose estrictamente a las normas internacionales, y a que establezca un mecanismo externo de supervisión y reparación para las reclusas que sea independiente, amplio y accesible.</s>
+      </p>
+      <p id="49">
+        <s id="49:1" lang="es">Trata y explotación de la prostitución</s>
+      </p>
+      <p id="50">
+        <s id="50:1" lang="es">Si bien encomia al Estado parte por haber empezado a reservar un lugar destacado a la cuestión de la trata de seres humanos en el temario nacional, preocupa al Comité el carácter transnacional del delito de trata y explotación de la prostitución, como por ejemplo la existencia de una red transfronteriza de agentes que captan mujeres para someterlas a trata, así como la reintegración de las víctimas en sus países de origen.</s>
+        <s id="50:2" lang="es">Además, observa que es necesario colaborar con las estructuras conexas de ámbito provincial y municipal, especialmente en el norte de la Argentina y en las zonas del noreste, donde más abundan los grupos en situación de riesgo.</s>
+      </p>
+      <p id="51">
+        <s id="51:1" lang="es">El Comité insta al Estado parte a redoblar sus esfuerzos en materia de actividades de lucha contra la trata a fin de abordar por completo y exhaustivamente los complejos aspectos de un delito de naturaleza internacional.</s>
+        <s id="51:2" lang="es">El Comité también insta al Estado parte a complementar la Ley 26.364, de abril de 2008, garantizando la protección adecuada de todas las mujeres, con independencia de su edad, así como de las personas que hayan sido víctimas de la trata y que teman ser objeto de persecución si regresan a su país de origen, de conformidad con las normas internacionales.</s>
+      </p>
+      <p id="52">
+        <s id="52:1" lang="es">Participación en la vida política y pública</s>
+      </p>
+      <p id="53">
+        <s id="53:1" lang="es">El Comité celebra que haya aumentado notablemente el número de mujeres que se dedican a la política, que por primera vez se haya elegido a una mujer Presidenta del país, que, tomadas en conjunto, las candidatas a la presidencia obtuvieran más del 78% de los votos emitidos, que un cuarto de los ministerios esté dirigido por mujeres y que, en el momento actual, el 22% de los secretarios del Poder Ejecutivo Nacional nombrados y el 23% de los subsecretarios sean mujeres.</s>
+        <s id="53:2" lang="es">Asimismo, observa que numerosas mujeres ocupan puestos superiores o ejecutivos en otras instituciones y organismos de la administración nacional o las administraciones provinciales, tanto en el poder legislativo nacional como en algunas legislaturas provinciales, en la judicatura y, en cierta medida, en el sector privado.</s>
+        <s id="53:3" lang="es">Sin embargo, el Comité observa asimismo que las diferencias entre las distintas provincias son acusadas.</s>
+      </p>
+      <p id="54">
+        <s id="54:1" lang="es">El Comité insta al Estado parte a resolver la gran disparidad entre las distintas provincias por lo que se refiere al grado de participación y representación políticas de las mujeres, en particular invirtiendo en campañas de educación y sensibilización orientadas a eliminar los obstáculos sociales imperantes y desmontar las actitudes y estereotipos sexistas que siguen predominando en algunas regiones.</s>
+      </p>
+      <p id="55">
+        <s id="55:1" lang="es">Educación</s>
+      </p>
+      <p id="56">
+        <s id="56:1" lang="es">Aunque acoge con satisfacción la información recibida en el sentido de que se han registrado progresos en la esfera de la educación, en particular mediante la consecución del segundo Objetivo de Desarrollo del Milenio y la elaboración y aplicación de legislación sobre educación, como por ejemplo la Ley Nacional 26.058 de 2005 sobre la formación técnica profesional, la Ley Nacional 26.150 de 2006 sobre la educación sexual, por la que se creó el Programa Nacional de Educación Sexual, de aplicación obligatoria en todo el país y en todos los niveles educativos a partir de los 5 años de edad, y la Ley Nacional 26.206, en la que se dispone expresamente la incorporación en la educación de una perspectiva de género, y aunque observa con agradecimiento que el Gobierno ha considerado prioritarias la formación del profesorado y la revisión de los libros de texto, el Comité expresa su preocupación por la posibilidad de que los estereotipos de género y la influencia de los medios de comunicación lleven a las mujeres a decantarse por ocupaciones sociales tradicionales y limiten sus ventajas comparativas en el mercado laboral, a pesar de que permanecen más tiempo que los hombres en el sistema de enseñanza y obtienen títulos superiores.</s>
+      </p>
+      <p id="57">
+        <s id="57:1" lang="es">El Comité insta al Estado parte a que difunda ampliamente información relativa a las oportunidades de educación de las mujeres, incluida la formación profesional, a fin de seguir ampliando sus opciones profesionales y, en particular, su acceso a trabajos mejor remunerados.</s>
+        <s id="57:2" lang="es">El Comité recomienda asimismo que se impartan cursos obligatorios sobre género al profesorado en todos los niveles del sistema de enseñanza, en la totalidad del país y en todas las provincias y municipalidades, con el objeto de eliminar los estereotipos de género de los programas de estudio, oficiales o no oficiales.</s>
+        <s id="57:3" lang="es">Deben adoptarse estrategias concretas para hacer frente a la cultura patriarcal predominante.</s>
+      </p>
+      <p id="58">
+        <s id="58:1" lang="es">Empleo</s>
+      </p>
+      <p id="59">
+        <s id="59:1" lang="es">El Comité acoge con beneplácito las medidas adoptadas para reducir la tasa de desempleo de las mujeres, así como la función de la Comisión Tripartita de Igualdad de Oportunidades entre varones y mujeres en el ámbito laboral.</s>
+        <s id="59:2" lang="es">El Comité expresa preocupación por las desigualdades en las condiciones de trabajo para las mujeres en los sectores estructurado y no estructurado de la economía, por la persistencia de la segregación ocupacional y la concentración de las mujeres en empleos poco remunerados, por las disparidades salariales entre mujeres y hombres en los sectores público y privado, por la falta de servicios de guardería y por la ausencia de legislación relativa al acoso sexual en el lugar de trabajo.</s>
+        <s id="59:3" lang="es">A pesar de que se han adoptado algunas medidas para proteger a los empleados domésticos, el Comité observa con preocupación que su situación sigue siendo precaria.</s>
+      </p>
+      <p id="60">
+        <s id="60:1" lang="es">El Comité insta al Estado parte a que adopte todas las medidas necesarias para garantizar una mejor aplicación de su legislación laboral, poner remedio a las desigualdades salariales, alentar a la mujer a buscar empleo en disciplinas no tradicionales, promulgar legislación relativa al acoso sexual en los lugares de trabajo públicos y privados, incluidas sanciones eficaces, y proporcionar protección integral a los empleados domésticos.</s>
+        <s id="60:2" lang="es">El Comité alienta también al Estado parte a que tome medidas para proporcionar servicios de guardería económicos y accesibles que permitan a las mujeres conciliar sus responsabilidades laborales y familiares.</s>
+      </p>
+      <p id="61">
+        <s id="61:1" lang="es">Salud</s>
+      </p>
+      <p id="62">
+        <s id="62:1" lang="es">El Comité, si bien aprecia la creación del Programa de Salud Sexual y Procreación Responsable, de ámbito nacional, y la publicación, en el marco de ese programa, de la &quot;Guía Técnica para la Atención de los Abortos no Punibles&quot; destinada a clarificar algunos aspectos del artículo 86 del Código Penal, observa que el acceso a los servicios de salud sexual y reproductiva sigue constituyendo un grave problema para las mujeres argentinas.</s>
+        <s id="62:2" lang="es">El Comité expresa además su preocupación por la elevada tasa de embarazos entre las adolescentes y la elevada tasa de mortalidad materna, que en una tercera parte tiene como causa el aborto ilegal.</s>
+      </p>
+      <p id="63">
+        <s id="63:1" lang="es">El Comité insta al Estado parte a que asegure el acceso de las mujeres y las adolescentes a los servicios de salud, incluidos los servicios de salud sexual y reproductiva, y a que vele por que se imparta educación sobre la salud sexual y reproductiva en todas las escuelas a todos los niveles, según corresponda.</s>
+        <s id="63:2" lang="es">El Comité insta también al Estado parte a que adopte todas las medidas necesarias para reducir aún más la elevada tasa de mortalidad materna.</s>
+        <s id="63:3" lang="es">El Comité insta además al Estado parte a que revise la legislación vigente que penaliza el aborto, que tiene graves consecuencias para la salud y la vida de las mujeres.</s>
+        <s id="63:4" lang="es">El Estado parte debe asegurarse de que la &quot;Guía Técnica para la Atención de los Abortos no Punibles&quot;, se aplique en todo el país de manera uniforme de modo que exista un acceso efectivo y en condiciones de igualdad a los servicios de salud para interrumpir el embarazo.</s>
+      </p>
+      <p id="64">
+        <s id="64:1" lang="es">El Comité observa con preocupación el extendido consumo de tabaco entre las mujeres en la Argentina, y las graves repercusiones del tabaco en la salud de las mujeres.</s>
+        <s id="64:2" lang="es">El Comité se muestra especialmente preocupado por el hecho de que las mujeres suelen ser las destinatarias de campañas publicitarias que alientan y aumentan el consumo de tabaco entre las mujeres, y hacen que contraigan y mueran de enfermedades provocadas por el tabaco.</s>
+      </p>
+      <p id="65">
+        <s id="65:1" lang="es">El Comité insta al Estado parte a que ratifique y aplique la Convención Marco de la Organización Mundial de la Salud para el Control del Tabaco y a que promulgue legislación que prohíba fumar en espacios públicos y restrinja la publicidad del tabaco.</s>
+      </p>
+      <p id="66">
+        <s id="66:1" lang="es">Mujeres de zonas rurales</s>
+      </p>
+      <p id="67">
+        <s id="67:1" lang="es">El Comité, al tiempo que reconoce las medidas de descentralización, los esfuerzos por ofrecer oportunidades de formación, los servicios relativamente generalizados de atención médica y la concesión de un gran número de créditos de los que se han beneficiado, entre otros, las familias rurales, sigue preocupado por la situación de las mujeres de las zonas rurales, en particular las mujeres de edad y las indígenas, a causa de su extrema pobreza, su marginación y su frecuente falta de acceso a la atención médica, la educación, los mecanismos crediticios y los servicios comunitarios.</s>
+      </p>
+      <p id="68">
+        <s id="68:1" lang="es">El Comité insta al Estado parte a que siga prestando una atención especial a las necesidades de las mujeres de las zonas rurales, en particular las mujeres de edad y las mujeres indígenas, y se asegure de que participan en los procesos de adopción de decisiones y de que tengan pleno acceso a la educación, los servicios de salud y los mecanismos crediticios.</s>
+      </p>
+      <p id="69">
+        <s id="69:1" lang="es">Grupos de mujeres en situación desventajosa</s>
+      </p>
+      <p id="70">
+        <s id="70:1" lang="es">El Estado parte reconoce que no se respetan plenamente los derechos de las mujeres mayores, las mujeres migrantes y las mujeres con discapacidad y que estas mujeres son a menudo víctimas de la discriminación.</s>
+        <s id="70:2" lang="es">El Estado parte reconoce, asimismo, que no se respetan plenamente los derechos de las mujeres lesbianas, bisexuales y transgénero y que estas mujeres son a veces víctimas de la discriminación y la violencia.</s>
+      </p>
+      <p id="71">
+        <s id="71:1" lang="es">El Comité insta al Estado parte a que asegure la plena protección de los derechos de las mujeres mayores, las mujeres migrantes, las mujeres con discapacidad y las mujeres lesbianas, bisexuales y transgénero, entre otras.</s>
+        <s id="71:2" lang="es">Todas las mujeres mencionadas deben poder vivir sin ser discriminadas ni víctimas de violencia y estar en disposición de ejercer todos sus derechos, incluidos los derechos civiles, culturales, económicos, políticos y sociales, así como los derechos sexuales y reproductivos.</s>
+      </p>
+      <p id="72">
+        <s id="72:1" lang="es">Mujeres refugiadas y solicitantes de asilo</s>
+      </p>
+      <p id="73">
+        <s id="73:1" lang="es">El Comité observa con preocupación que, pese a la promulgación de la ley relativa a los refugiados (Ley núm. 26.165), el establecimiento de la Comisión Nacional para los Refugiados (CONARE) y la participación del Estado parte en el programa regional de la Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados, el Estado parte no haya aprobado aún todas las disposiciones internas necesarias para facilitar la aplicación efectiva de la ley y paliar algunas deficiencias en materia de protección, en especial las relativas a los solicitantes de asilo en situaciones vulnerables, incluidas las mujeres, las niñas y los menores no acompañados.</s>
+      </p>
+      <p id="74">
+        <s id="74:1" lang="es">El Comité insta al Estado parte a que facilite la aplicación plena y efectiva de la ley relativa a los refugiados (Ley núm. 26.165), sobre todo con respecto a la protección de las solicitantes de asilo y las refugiadas, así como de los niños no acompañados, en particular mediante la adopción de todas las disposiciones internas necesarias.</s>
+        <s id="74:2" lang="es">El Comité alienta además al Estado parte a que siga impartiendo capacitación a los funcionarios de fronteras, inmigración y asilo a fin de asegurar la adopción de una perspectiva de género, la aplicación efectiva de un sistema de identificación adecuado y la adopción de medidas que tengan en cuenta las cuestiones de género en el procedimiento para la determinación de la condición de refugiado, incluso con respecto a las solicitudes de asilo motivadas por violencia de género.</s>
+        <s id="74:3" lang="es">El Comité insta también al Estado parte a que complemente la Ley núm. 26.364, de abril de 2008, garantizando una protección adecuada y acorde con el derecho internacional a todas las mujeres, con independencia de su edad, así como a las personas que hayan sido víctimas de la trata y que teman ser objeto de persecución si regresan a su país de origen.</s>
+        <s id="74:4" lang="es">Además, el Estado parte debe tomar medidas para velar por que las mujeres y las niñas refugiadas o solicitantes de asilo no se conviertan en víctimas de la trata de seres humanos ni del tráfico de migrantes, y crear un mecanismo que sirva para identificar rápidamente a las víctimas de la trata y remitir a las personas que pudieran necesitar protección a los procedimientos de asilo.</s>
+      </p>
+      <p id="75">
+        <s id="75:1" lang="es">Declaración y Plataforma de Acción de Beijing</s>
+      </p>
+      <p id="76">
+        <s id="76:1" lang="es">El Comité insta al Estado parte a que, en el cumplimiento de las obligaciones contraídas en virtud de la Convención, aplique plenamente la Declaración y la Plataforma de Acción de Beijing, que refuerzan las disposiciones de la Convención, y le pide que incluya información al respecto en su próximo informe periódico.</s>
+      </p>
+      <p id="77">
+        <s id="77:1" lang="es">Objetivos de Desarrollo del Milenio</s>
+      </p>
+      <p id="78">
+        <s id="78:1" lang="es">El Comité hace hincapié en que para alcanzar los Objetivos de Desarrollo del Milenio es indispensable la aplicación plena y efectiva de la Convención.</s>
+        <s id="78:2" lang="es">El Comité exhorta al Estado parte a que incorpore una perspectiva de género y se remita de forma explícita a las disposiciones de la Convención en todas las actividades destinadas a alcanzar dichos Objetivos, y le pide que incluya información al respecto en su próximo informe periódico.</s>
+      </p>
+      <p id="79">
+        <s id="79:1" lang="es">Difusión</s>
+      </p>
+      <p id="80">
+        <s id="80:1" lang="es">El Comité pide que se dé amplia difusión en la Argentina a las presentes observaciones finales a fin de que la población, incluidos los funcionarios públicos, los políticos, los parlamentarios y las organizaciones de mujeres y de derechos humanos, conozcan las medidas que se han tomado para garantizar la igualdad de hecho y de derecho entre hombres y mujeres, así como las que todavía quedan por tomar a ese respecto.</s>
+        <s id="80:2" lang="es">El Comité recomienda que las observaciones finales se difundan también en las comunidades locales.</s>
+        <s id="80:3" lang="es">Se alienta al Estado parte a que organice una serie de reuniones para deliberar sobre los progresos alcanzados en la aplicación de las presentes observaciones finales.</s>
+        <s id="80:4" lang="es">El Comité pide al Estado parte que siga difundiendo ampliamente, en particular entre las organizaciones de mujeres y de derechos humanos, las recomendaciones generales del Comité, la Declaración y la Plataforma de Acción de Beijing y los resultados del vigésimo tercer período extraordinario de sesiones de la Asamblea General, titulado &quot;La mujer en el año 2000: igualdad entre los géneros, desarrollo y paz para el siglo XXI&quot;.</s>
+      </p>
+      <p id="81">
+        <s id="81:1" lang="es">Ratificación de otros tratados</s>
+      </p>
+      <p id="82">
+        <s id="82:1" lang="es">El Comité señala que la adhesión del Estado parte a los nueve principales instrumentos internacionales de derechos humanos potencia que la mujer disfrute de sus derechos humanos y libertades fundamentales en todos los aspectos de la vida.</s>
+        <s id="82:2" lang="es">El Comité acoge con beneplácito que el Estado parte haya ratificado la Convención Internacional sobre la protección de los derechos de todos los trabajadores migratorios y de sus familiares.</s>
+      </p>
+      <p id="83">
+        <s id="83:1" lang="es">Seguimiento de las observaciones finales</s>
+      </p>
+      <p id="84">
+        <s id="84:1" lang="es">El Comité pide al Estado parte que le proporcione por escrito, en un plazo de dos años, información sobre las medidas adoptadas para dar cumplimiento a las recomendaciones que figuran en los párrafos 24 y 38 supra.</s>
+      </p>
+      <p id="85">
+        <s id="85:1" lang="es">Preparación del próximo informe</s>
+      </p>
+      <p id="86">
+        <s id="86:1" lang="es">El Comité pide al Estado parte que vele por la amplia participación de todo los ministerios y órganos públicos en la preparación de su próximo informe y que, durante esa fase, consulte a diversas organizaciones de mujeres y de derechos humanos.</s>
+      </p>
+      <p id="87">
+        <s id="87:1" lang="es">El Comité pide al Estado parte que responda a las preocupaciones expresadas en las presentes observaciones finales en el próximo informe periódico que prepare con arreglo al artículo 18 de la Convención.</s>
+        <s id="87:2" lang="es">El Comité invita al Estado parte a que presente su próximo informe periódico en julio de 2014.</s>
+      </p>
+      <p id="88">
+        <s id="88:1" lang="es">El Comité invita al Estado parte a que utilice las &quot;Directrices armonizadas sobre la preparación de informes con arreglo a los tratados internacionales de derechos humanos, incluidas orientaciones relativas a la preparación de un documento básico común y de informes sobre tratados específicos&quot; aprobadas en la quinta reunión de los comités que son órganos creados en virtud de tratados de derechos humanos, celebrada en junio de 2006 (véase HRI/MC/2006/3 y Corr.1).</s>
+        <s id="88:2" lang="es">Las directrices para la presentación de los informes que se refieren concretamente a la Convención, adoptadas por el Comité en su 40º período de sesiones, que tuvo lugar en enero de 2008, deben aplicarse en combinación con las directrices armonizadas relativas a la preparación de un documento básico común.</s>
+        <s id="88:3" lang="es">Conjuntamente constituyen las directrices armonizadas para la presentación de informes de conformidad con la Convención sobre la eliminación de todas las formas de discriminación contra la mujer.</s>
+        <s id="88:4" lang="es">El documento específico debe limitarse a 40 páginas, mientras que el documento básico común debe tener 80 páginas como máximo.</s>
+      </p>
+    </body>
+  </text>
+</TEI.2>

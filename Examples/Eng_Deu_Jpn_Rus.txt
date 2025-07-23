@@ -1,0 +1,229 @@
+eng	There's apparently no cure for what Tom has.
+eng	Tom says he isn't planning to do that tomorrow.
+eng	You didn't have any help doing that, did you?
+eng	There wasn't enough evidence to convict Tom.
+eng	Tom says he has something to do this afternoon.
+eng	You didn't have a chance to do that, did you?
+eng	The only one here who's able do that is Tom.
+eng	Tom says he doesn't think that'll happen today.
+eng	You didn't actually need to do that, did you?
+eng	The only one here who has to do that is Tom.
+eng	Tom says he doesn't think he can do that today.
+eng	You didn't actually have to do that, did you?
+eng	The cut on Tom's leg appears to have healed.
+eng	Tom says he doesn't really know how to do that.
+eng	You did apologize for doing that, didn't you?
+eng	Someone tried to steal Tom's car last night.
+eng	Tom says he doesn't need to do that right away.
+eng	You could stay with us in Boston if you want.
+eng	So far, Tom is the only one who's done that.
+eng	Tom says he doesn't know what made him do that.
+eng	You could do that right now if you wanted to.
+eng	Please tell me whether Tom does that or not.
+eng	Tom says he doesn't have to do that right away.
+eng	You could be doing that now if you wanted to.
+eng	Please tell Tom to be here tomorrow at 2:30.
+eng	Tom says he doesn't have to do that by himself.
+eng	You can still do that pretty well, can't you?
+eng	Perhaps Tom would enjoy doing that with you.
+eng	Tom says he doesn't have time to do that today.
+eng	You can do that better than anyone else here.
+eng	Maybe Tom doesn't know what he needs to buy.
+eng	Tom says he doesn't feel like doing that today.
+eng	You always do that in the evening, don't you?
+eng	Maybe Tom doesn't know that I won't do that.
+eng	Tom says he doesn't ever want to do that again.
+eng	Would you still be willing to do that for us?
+eng	Maybe Tom doesn't know he shouldn't do that.
+eng	It's clear that Tom doesn't want to do that.
+eng	Tom said your snoring didn't bother him at all.
+eng	Who told you that you didn't need to do that?
+eng	It's clear that Tom doesn't want to be here.
+eng	Tom said you just have to wait a little longer.
+eng	Who told you that you didn't have to do that?
+eng	It's clear that Tom doesn't like doing that.
+eng	Tom said we weren't allowed to do that anymore.
+eng	Who do you like to spend your free time with?
+eng	It sounds like Tom might be able to do that.
+eng	Tom said we needed to be a little more careful.
+eng	Who cooks better, your mother or your father?
+eng	It looks like Tom is about the start crying.
+eng	Tom said there might be one piece of cake left.
+eng	When you need help, who do you usually go to?
+eng	Isn't there a chance that Tom is doing that?
+eng	Tom said that's not likely to happen this week.
+eng	When you have some free time, please do that.
+eng	I've never actually gone on a date with Tom.
+eng	Tom said that won't likely happen anytime soon.
+eng	When the weather's nice, I do that every day.
+eng	I'm the only one who really understands Tom.
+eng	Tom said that probably wouldn't happen anymore.
+eng	What you're planning to do is very dangerous.
+eng	I'm the only one who ever really helped Tom.
+eng	Tom said that he'd be glad to buy that for you.
+eng	What were you doing at 2:30 in the afternoon?
+eng	I'm sure Tom wouldn't be tempted to do that.
+eng	Tom said that he wanted to talk to the manager.
+eng	What do you think the best way to do that is?
+eng	I'm sure Tom won't be up this late at night.
+eng	Tom said that he really did do that by himself.
+eng	What do you think is the best way to do that?
+eng	I'm sure Tom won't be in Boston next Monday.
+eng	Tom said that he needed to talk to the manager.
+eng	What color do you plan to paint your kitchen?
+eng	I'm sure Tom will be ready to leave by 2:30.
+eng	Tom said it's not the first time that happened.
+eng	We've all taught French here for a few years.
+eng	I'm sure Tom isn't the first one to do that.
+eng	Tom said it wouldn't take much time to do that.
+eng	We've all lived in Boston since we were born.
+eng	I'm pretty sure Tom has relatives in Boston.
+eng	Tom said his house wasn't damaged by the storm.
+eng	We're fortunate that we're permitted do that.
+eng	I'm going to ask Tom to never do that again.
+eng	Tom said he's only done that about three times.
+eng	We're fortunate that we were able to do that.
+eng	I'm fairly certain Tom hasn't done that yet.
+eng	Tom said he's looking forward to being retired.
+eng	We might be in Boston the day after tomorrow.
+eng	I'll have to stay here and help Tom do that.
+eng	Tom said he's glad that that's going to happen.
+eng	We hope that you'll be in Boston next spring.
+eng	I wonder why Tom thought you had to do that.
+eng	Tom said he's always been interested in sports.
+eng	We have until October to finish this project.
+deu	Ich will nicht so lange warten.
+deu	Warum kommst du uns nicht besuchen?
+deu	Aber die Möglichkeit scheint unwahrscheinlich.
+deu	Es war eine schlechte Idee, sich abzumelden.
+deu	Ich weiß nicht mehr, was ich tun soll.
+deu	Es ist unvermeidbar, dass ich eines Tages nach Frankreich gehe, ich weiß nur nicht, wann.
+deu	Ich hasse Chemie.
+deu	Ich wollte nicht, dass das passiert.
+deu	Du kannst vermutlich erahnen, was indessen passiert.
+deu	Bevor du dich versiehst, wirst du in der Zeitung sein.
+deu	Was für andere Optionen habe ich?
+deu	Ich habe nicht viel von einem Reisenden.
+deu	Ich habe nichts Besseres zu tun.
+deu	Ich kann es auch nicht erklären.
+deu	Aber im Ernst, die Episode 21 hat mich fast vor Lachen weinen lassen.
+deu	Es zeigt nur, dass du kein Roboter bist.
+deu	Wie könnte ich ein Roboter sein? Roboter träumen nicht.
+deu	"Daran habe ich nie gedacht", sagte der alte Mann. "Was sollen wir tun?"
+deu	Das ist nichts, was jeder Beliebige tun kann.
+deu	Ich weiß nicht, ob ich es noch habe.
+deu	Was denkst du, was ich gerade gemacht habe?
+deu	Unterschätze nicht meine Macht!
+deu	Meine Mutter spricht nicht sehr gut Englisch.
+deu	Ich spreche nicht gut genug Französisch!
+deu	Ich fragte mich, ob du heute kommen würdest.
+deu	Dort liegt das Problem.
+deu	Wie findest du Nahrung im Weltraum?
+deu	Ihr müsst nichts tun, außer euch zu vertrauen.
+deu	Alle wollen dich kennenlernen. Du bist berühmt!
+deu	Wieso tut dir etwas leid, das du nicht gemacht hast?
+deu	Ich verabscheue förmliches Schreiben zutiefst!
+deu	Ausländer machen mich neugierig.
+deu	Was auch immer ich tue, sie sagt, ich kann es besser.
+deu	Warum bist du um diese Uhrzeit noch wach?
+deu	Du wärst überrascht, was man in einer Woche lernen kann.
+deu	Ich habe niemanden, der mit mir reisen würde.
+deu	Du bist nicht schnell genug.
+deu	Das Leben ist hart, aber ich bin härter.
+deu	Ertragen kann unerträglich sein.
+deu	Hör auf! Sie fühlt sich dadurch unbehaglich!
+deu	Nur die Wahrheit ist schön.
+deu	Morgen wird er auf dem Mond landen.
+deu	Ich spreche kein Japanisch.
+deu	Das ist ein Wortspiel.
+deu	Niemand versteht mich.
+deu	Ich habe gelernt, ohne sie zu leben.
+deu	Das bringt nichts mehr, weiter nachzudenken.
+deu	Mir gehen in diesen Tagen zu viele Dinge durch den Kopf.
+deu	Ich wollte gerade meine E-Mails abrufen.
+deu	Musst du wirklich die Frage stellen, um die A.
+jpn	知らない.
+jpn	何と言ったら良いか分かりません.
+jpn	きりがない.
+jpn	何と言ったらいいか・・・.
+jpn	こいつは悪いウサギだった.
+jpn	私は山にいました.
+jpn	それは最近の写真?
+jpn	時間があるか分かりません.
+jpn	先程、どういうわけかマイクが入りませんでした.
+jpn	この世界の教育にはがっかりしてしまう.
+jpn	私は一日に100ユーロ稼ぎます.
+jpn	すぐに諦めて昼寝をするかも知れない.
+jpn	それはあなたが一人になりたくないからです.
+jpn	そんなことは起きないでしょう.
+jpn	彼は時々変です.
+jpn	あなたの勉強を邪魔しないようにします.
+jpn	みんなもそうなのかな、と思うことくらいしかできない.
+jpn	長い目で見れば違ってくると思います.
+jpn	心配しないで.
+jpn	会えなくて淋しい.
+jpn	明日帰ったら電話します.
+jpn	私はいつも不思議な性格の方が好きだった.
+jpn	眠った方がいいよ.
+jpn	行くよ.
+jpn	私は彼らにチケットをもう一枚送ってくれるように頼んだ.
+jpn	君は僕にとてもいらいらしている.
+jpn	私はそんな風には生きられない.
+jpn	私は一時期、天体物理学者になりたかった.
+jpn	生物学は好きになれません.
+jpn	僕が最後に自分の考えを伝えた人は、僕を気違いだと思ったようだ.
+jpn	残念ながらそれは本当なのです.
+jpn	大抵の人は僕を気違いだと思っている.
+jpn	私は違います。あなたです.
+jpn	それは私の台詞だよ!
+jpn	彼は私を蹴っています!
+jpn	そうしたらひとつ問題があって・・・.
+jpn	あ！蝶々がいる!
+jpn	急いで!
+jpn	驚くことではないね.
+jpn	私はなぜか夜の方が元気だ.
+jpn	それは文脈による.
+jpn	冗談でしょ!?
+jpn	こんな馬鹿なことは言ったことが無い.
+jpn	のろまにはなりたくない。かっこ良くなりたい!!
+jpn	大きくなったら王様になりたい.
+jpn	お金を稼ぎたいならアメリカが一番だ.
+jpn	僕はすごく太ってる.
+jpn	日本語 罰してやるよ.
+rus	Это был злой кролик.
+rus	Это новая фотография?
+rus	Я не знаю, будет ли у меня время.
+rus	Микрофон по какой-то причине до этого не работал.
+rus	Каждый, в итоге, должен учиться сам.
+rus	Учиться нельзя заставлять. Учёбу нужно поощрять.
+rus	Нелегко решать, что правильно, а что нет, но приходится это делать.
+rus	Это ничего не изменит.
+rus	Я зарабатываю сто евро в день.
+rus	Я, может, скоро сдамся и вместо этого пойду вздремну.
+rus	Этого не случится.
+rus	Иногда он очень странен.
+rus	Я постараюсь не мешать тебе учиться.
+rus	Я могу только догадываться, так ли это и для всех остальных.
+rus	Я полагаю, это будет выглядеть несколько иначе, когда ты подумаешь об этом в долгосрочном плане.
+rus	Не беспокойся.
+rus	Я скучаю по тебе.
+rus	Я позвоню им завтра, когда вернусь домой.
+rus	Мне всегда больше нравились таинственные персонажи.
+rus	Тебе лучше поспать.
+rus	Я пойду.
+rus	Я сказал им послать мне ещё один билет.
+rus	У тебя не хватает терпения на меня.
+rus	Я так жить не могу.
+rus	Когда-то я хотел быть астрофизиком.
+rus	Я никогда не любил биологию.
+rus	Последний человек, которому я рассказал свою идею, решил, что я сумасшедший.
+rus	Если бы мир не был таким, каков он сейчас, я мог бы доверять людям.
+rus	К сожалению, это правда.
+rus	Они слишком заняты склоками друг с другом, чтобы думать об общих идеалах.
+rus	Большинство людей думает, что я сумасшедший.
+rus	Нет, не я, а ты!
+rus	Это мой ответ!
+rus	Он меня пинает!
+rus	Ты уверен?
+rus	Тогда это проблема...
+rus	О, здесь бабочка!
